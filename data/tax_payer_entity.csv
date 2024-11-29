@@ -1,0 +1,59 @@
+id,created_at,id_type,is_active,is_verified,company_name,tax_payer_id,updated_at,first_name,first_surname,last_name,second_surname,middle_name,email,nombre,tax_payer_email_verification_token
+602,2024-09-11 13:59:17.475260,,0,0,,,2024-09-11 13:59:17.475333,,,,,,name@email.com,NAME,b'|\xe9_H\xe8\xfcN\xa8\xb1\xec|\xec\xaeo\tm'
+652,2024-09-11 14:03:23.101927,,0,0,,,2024-09-11 14:03:23.101992,,,,,,name2@email.com,NAME2,b'\xb0\xcai\xa0O_H\xc3\xaeO1\xb1\x8e_\xd6\x86'
+702,2024-09-11 14:07:58.364624,,0,0,,,2024-09-11 14:07:58.364702,,,,,,name3@email.com,NAME3,b'\xba\x9e\xc8\x95\x1e?@@\x9d\xf1\xc6\xac\xffw\x884'
+704,2024-09-11 14:15:37.963345,,0,0,,,2024-09-11 14:15:37.963385,,,,,,name4@email.com,NAME4,b'\xa4\x8d\xe3\xe7\xc7\x1eO\xde\xac\x8c\x9a)\xba\xadX\xc1'
+751,2024-09-11 14:55:27,,1,0,,,2024-09-11 14:55:27,,,,,,yahyamanaabubakar3011@gmail.com,James,
+756,2024-09-11 14:55:27,,1,0,,3102823232,2024-09-11 14:55:27,,,,,,Tom@NimbuLand.cr,Nimbuland S.A,
+759,2024-09-11 14:55:27,,1,1,,3333333333,2024-09-15 19:07:14.961026,,,,,,ebrahimhayat241@gmail.com,name,b'\xa6Ueg@\xb8@\xe6\x96\xe2\xadk\xb4\x14e\xc7'
+760,2024-09-11 14:55:27,,1,0,,,2024-09-11 14:55:27,,,,,,aaamin@email.com,Abdullah,
+762,2024-09-11 14:55:27,,1,0,,,2024-09-11 14:55:27,,,,,,Tom@j-Class.com,Tom Test,
+763,2024-09-11 14:55:27,,1,0,,,2024-09-11 14:55:27,,,,,,hassan@j-class.com,Hassan,
+764,2024-09-11 14:55:27,,1,0,,123456789,2024-09-11 14:55:27,,,,,,godadsamuel@gmail.com,Dmytro null testFirstSurname testSecondSurname,
+765,2024-09-11 14:55:27,,1,0,,,2024-09-11 14:55:27,,,,,,yo@gmail.com,client,
+766,2024-09-11 14:55:27,,1,0,,,2024-09-11 14:55:27,,,,,,hiru@gmail.com,hirut b,
+767,2024-09-11 14:55:27,,1,1,,1111123456,2024-09-26 02:48:39.366772,,,,,,godadsamuelat2008@gmail.com,testt,b']8fS\x83\xa2J9\x99J69\xc0%ZT'
+768,2024-09-11 14:55:27,,1,0,,,2024-10-01 00:18:56.679806,,,,,,godadsamuelat@gmail.com,Sami,b'\xdb>Fl\xaf\xacE\xa6\x85\x86~X\r\xa6\x1c\x92'
+769,2024-09-11 14:55:27,,1,0,,,2024-09-11 14:55:27,,,,,,godadsamuelatat@gmail.com,Sami,
+770,2024-09-11 14:55:27,,1,0,,,2024-09-11 14:55:27,,,,,,nebiyu@gmail.com,Nebiyu,
+771,2024-09-11 14:55:27,,1,0,,123456766,2024-10-01 00:18:57.735936,,,,,,godadsamuelatat2008@gmail.com,Osama null SA AS,b'\x12\x9e$?F\x18NM\x9ab\xdff\xead\x98A'
+772,2024-09-11 14:55:27,,1,0,,3102823258,2024-09-11 14:55:27,,,,,,godadsamuel2@gmail.com,tyuty null,
+773,2024-09-11 14:55:27,,1,0,,5555555555,2024-09-11 14:55:27,,,,,,godadsamuel3@gmail.com,ashir,
+774,2024-09-11 14:55:27,,1,0,,,2024-09-11 14:55:27,,,,,,test@gmail.com,Test name,
+775,2024-09-11 14:55:27,,1,0,,,2024-09-11 14:55:27,,,,,,test123@gmail.com,Test Name,
+776,2024-09-11 14:55:27,,1,0,,,2024-09-11 14:55:27,,,,,,client123@gmail.com,Client Name,
+777,2024-09-11 14:55:27,,1,0,,,2024-09-11 14:55:27,,,,,,aklile@gmail.com,client name,
+779,2024-09-12 04:42:35.282438,,0,0,,,2024-09-12 04:42:35.282467,,,,,,ashirzuhaib2@gmail.com,MM,b'{\xc6\xaa\xdb\x9d Ly\xba\xf5K~\t+\x1f\x80'
+780,2024-09-12 08:03:15.616067,,0,1,,,2024-09-12 09:15:01.946393,,,,,,aashir2027270@gmail.com,MM,b'9\xb6\xd4\xf6\xc3\x0fC"\xb0 EX\x1dQr\x93'
+781,2024-09-12 08:44:42.376178,LEGAL_ENTITY,0,1,PAMI PAMI CR LIMITADA,3102823257,2024-09-12 09:02:15.424539,,,,,,factura@pamifactura.com,,b'\x8e\xeb\xb892\x9bKs\x92\x10\xb30 ;\xd4\xc0'
+783,2024-09-12 09:22:45.877483,,0,1,,,2024-09-12 09:23:31.910478,,,,,,yassine@j-class.com,TEST,b'\xe8\xa2~\t\xa8-Fx\x911@\xc7\xdc\x0e\x1c\xb4'
+784,2024-09-12 10:52:20.342176,,0,0,,,2024-09-12 10:52:20.342231,,,,,,aklileyilma@gmail.com,AKLILE,b'\x97Y\xb8\xb8\x9cBMO\xbb\xbbXv\x8dR\xbf!'
+785,2024-09-12 10:53:59.971382,,0,0,,,2024-09-12 10:53:59.971418,,,,,,coordonatedevs@gmail.com,COORDONATE,b"\xf0;\x86\xdbC\xa4Eq\x96iF'D\x94\xb6?"
+786,2024-09-12 10:54:19.938121,,0,0,,,2024-09-12 10:54:19.938151,,,,,,aklile@a2sv.org,ADD,b'\x86n\xc5e^\xb3F\x80\x9d\xbf\xe2\xba\xd6\xde\x1f\x05'
+787,2024-09-13 10:17:45.603877,,0,0,,,2024-09-13 10:17:45.604026,,,,,,ttttt00000mmmmm@yahoo.com,TTTTT00000MMMMM,b'-\xd1\xa20\xce\x8dD\xca\x99\x04F`1\t\xf3*'
+789,2024-09-13 12:06:39.617936,,0,0,,,2024-09-13 12:06:39.617991,,,,,,jafetrm93@gmail.com,HENRY JAFET RAMIREZ MORA ,b'\x99\xb8\xfa\xc1\x19nE\xb6\xb8B\x87\xc5a\xe2O\xf8'
+793,2024-09-13 13:00:09.159716,,0,0,,,2024-09-13 13:00:09.159818,,,,,,test@email.com,ABDULLAH TEST,b'\xda\xa1\xe7\x90\xc15C\xa4\xb1\xac\xb1W\xf8\xbd\x91\x16'
+794,2024-09-13 13:02:17.029976,,0,0,,,2024-09-13 13:02:17.030071,,,,,,newtest@email.com,ABDULLAH,b'\x03j\xc9\xaa\xa8\xf9F\xae\x8f\x1a\xce\x04\x9b\xd0\x13\xc8'
+798,2024-09-15 10:34:16.661847,,0,0,,,2024-09-15 10:34:16.661950,,,,,,aaamin2@email.com,ABDULLAH,b'\xa72\x91t\xc41Df\xa3\xef\xc7\x17\xaa\xb8B?'
+801,2024-09-15 15:19:03.586421,,0,0,,,2024-09-15 15:19:03.586465,,,,,,ashenafimulgeta@gmail.com,SEMIR,b'\x92&\xae\xcc\xac\x88D\xe7\xb4lf\xb0\xeaz\xf9\x10'
+803,2024-09-16 04:49:16.944856,,0,0,,,2024-09-16 04:49:16.944894,,,,,,samuel.godad@aait.edu.et,SAMISAMI,b'FOL\xbb\x06\xadE\xf7\x8d\xff1t+z`\x1f'
+804,2024-09-30 10:48:59.296370,LEGAL_ENTITY,1,0,PINK MOON LIMITADA,3102823233,2024-09-30 10:48:59.296413,,,,,,,,
+805,2024-10-01 08:08:11.093212,LEGAL_ENTITY,1,0,HIGHER LIFE GROUP HLG SOCIEDAD DE RESPONSABILIDAD LIMITADA,3102823231,2024-10-01 08:08:11.093248,,,,,,,,
+806,2024-10-01 08:55:51.766840,LEGAL_ENTITY,1,0,PROPIEDADES CARIBE SUR SOCIEDAD ANONIMA,3101353557,2024-10-01 08:55:51.766887,,,,,,,,
+807,2024-09-17 09:53:23.738485,,0,0,,,2024-09-17 09:53:23.738503,,,,,,samuel.godadat@aait.edu.et,SAMIWITHOUT TAX ID,b'\xb82\xcc\xd6\xa8/M\\\xb3l\xb3&\xaf\xb0\x0f\xa7'
+808,2024-09-17 11:10:17.525019,,0,0,,,2024-09-17 11:10:17.525060,,,,,,godadsamuelatatat@gmail.com,SAMIWITHOUT TAX ID,b'\xbb/\x9b~^\xb3E5\xbd9\x97\x84\x87\xf9{\xdc'
+809,2024-10-01 11:59:39.353686,LEGAL_ENTITY,1,0,MAFRACH CONSULTORES SOCIEDAD ANONIMA,3101353558,2024-10-01 11:59:39.353716,,,,,,,,
+814,2024-10-02 02:09:29.114962,,0,0,,,2024-10-02 02:09:29.114990,,,,,,sergioupquintero1@gmail.com,HASSAN,b'\x7fS\x90c\xe4>GZ\x9e\xbf=\x0e\x8d"\xb5\x87'
+815,2024-10-02 04:40:54.914924,LEGAL_ENTITY,1,0,GERUCIA SOCIEDAD ANONIMA,3101353511,2024-10-02 04:40:54.914958,,,,,,,,
+816,2024-09-21 15:57:01.093065,,0,1,,,2024-09-21 15:58:20.326269,,,,,,tayyaba.dev03@gmail.com,TAYYABA RANI,b'\xf89\x0e\xef\x10oC\x12\x9d\xc8\x14\xe1!\xe7~\xc4'
+817,2024-10-02 04:43:40.367518,LEGAL_ENTITY,1,0,AGROEXPORTADORA PADAMO SOCIEDAD ANONIMA,3101353522,2024-10-02 04:43:40.367543,,,,,,,,
+818,2024-10-02 04:53:18.861146,LEGAL_ENTITY,1,0,MANO DE OBRA AL INSTANTE SOCIEDAD ANONIMA,3101353525,2024-10-02 04:53:18.861202,,,,,,,,
+819,2024-10-02 06:18:45.958061,,0,0,,,2024-10-02 06:18:45.958080,,,,,,newwmil@g.com,NEWCLIENT,b'Y\xa7\xa9o\xf2\x83O\x10\x90\xf2u\x80}\x90w\xf9'
+820,2024-10-02 06:19:14.640988,,0,0,,,2024-10-02 06:19:14.641011,,,,,,newwmail@g.com,NEWCLIENT,b'\xa9w\x14}o\xf7F\xb3\x9f\xf7\x12\xa2\xa87yp'
+822,2024-09-23 01:29:01.279224,,0,1,,,2024-09-23 01:29:56.251405,,,,,,zeeshanrajpoot13124@gmail.com,ZEESHAN ,b'\x91\xb0[\xe9\xb9\tI/\xb7!\x1aY\x03\xa8[\xe3'
+825,2024-09-25 15:50:39.545636,LEGAL_ENTITY,1,0,VAPING SUPPLY SOCIEDAD ANONIMA,3101776995,2024-09-25 16:01:08.002595,,,,,,vsupplyfacturas@hotmail.com,,b'\xa2\x94L\xdb{RI`\x8fO\xcf#\xe5\xb6Ri'
+826,2024-10-02 07:40:37.560600,LEGAL_ENTITY,1,0,LOS HIJOS DE FARAON SOCIEDAD ANONIMA,3101353528,2024-10-02 07:40:37.560645,,,,,,,,
+827,2024-10-02 08:07:20.853227,LEGAL_ENTITY,1,0,ASESORES TURISTICOS INTERNACIONALES M & R SOCIEDAD ANONIMA,3101353513,2024-10-02 08:07:20.853284,,,,,,,,
+852,2024-10-02 08:14:40.941043,LEGAL_ENTITY,1,0,PLAZA GEMON DE PACAYAS SOCIEDAD ANONIMA,3101776998,2024-10-02 08:14:40.941122,,,,,,,,
+853,2024-10-02 08:52:08.653078,LEGAL_ENTITY,1,0,TWINE HERNANDEZ DEVELOPMENTS LIMITADA,3102863763,2024-10-02 08:52:08.653149,,,,,,,,
+856,2024-10-02 11:52:39.109538,LEGAL_ENTITY,1,0,FREEPORT ENTERPRISES SOCIEDAD ANONIMA,3101353541,2024-10-02 11:52:39.109619,,,,,,,,

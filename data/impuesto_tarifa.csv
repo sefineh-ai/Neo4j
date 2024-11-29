@@ -1,0 +1,10 @@
+id,codigo,tarifa_impuesto_valor_agregado,tarifa_percent
+1,01,Tarifa 0% (Exento),0.00
+2,02,Tarifa reducida 1%,1.00
+3,03,Tarifa reducida 2%,2.00
+4,04,Tarifa reducida 4%,4.00
+5,05,Transitorio 0%,0.00
+6,06,Transitorio 4%,4.00
+7,07,Transitorio 8%,8.00
+8,08,Tarifa general 13%,13.00
+9,09,Tarifa reducida 0.5% ,1.00

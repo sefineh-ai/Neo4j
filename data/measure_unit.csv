@@ -1,0 +1,96 @@
+id,description,symbol,type
+1,Alquiler de uso habitacional,Al,SERVICE
+2,Alquiler de uso comercial,Alc,SERVICE
+3,Comisiones,Cm,SERVICE
+4,Intereses,I,SERVICE
+5,Otro tipo de servicio,Os,SERVICE
+6,Servicios Profesionales,Sp,SERVICE
+7,Servicios personales,Spe,SERVICE
+8,Servicios técnicos,St,SERVICE
+9,uno (indice de refracción),1,GOOD
+10,minuto,´,GOOD
+11,segundo,´´,GOOD
+12,grado Celsius,°C,GOOD
+13,1 por metro,1/m,GOOD
+14,Ampere,A,GOOD
+15,ampere por metro,A/m,GOOD
+16,ampere por metro cuadrado,A/m²,GOOD
+17,bel,B,GOOD
+18,Becquerel,Bq,GOOD
+19,coulomb,C,GOOD
+20,coulomb por kilogramo,C/kg,GOOD
+21,coulomb por metro cuadrado,C/m²,GOOD
+22,coulomb por metro cúbico,C/m³,GOOD
+23,Candela,cd,GOOD
+24,candela por metro cuadrado,cd/m²,GOOD
+25,centímetro,cm,GOOD
+26,día,d,SERVICE
+27,electronvolt,eV,GOOD
+28,farad,F,GOOD
+29,farad por metro,F/m,GOOD
+30,Gramo,g,GOOD
+31,Galón,Gal,GOOD
+32,gray,Gy,GOOD
+33,gray por segundo,Gy/s,GOOD
+34,henry,H,GOOD
+35,hora,h,SERVICE
+36,henry por metro,H/m,GOOD
+37,hertz,Hz,GOOD
+38,Joule,J,GOOD
+39,joule por kilogramo kelvin,J/(kg·K),GOOD
+40,joule por mol kelvin,J/(mol·K),GOOD
+41,joule por kelvin,J/K,GOOD
+42,joule por kilogramo,J/kg,GOOD
+43,joule por metro cúbico,J/m³,GOOD
+44,joule por mol,J/mol,GOOD
+45,Kelvin,K,GOOD
+46,katal,kat,GOOD
+47,katal por metro cúbico,kat/m³,GOOD
+48,Kilogramo,kg,GOOD
+49,kilogramo por metro cúbico,kg/m³,GOOD
+50,Kilometro,Km,GOOD
+51,kilovatios,Kw,GOOD
+52,litro,L,GOOD
+53,lumen,lm,GOOD
+54,pulgada,ln,GOOD
+55,lux,lx,GOOD
+56,Metro,m,GOOD
+57,metro por segundo,m/s,GOOD
+58,metro por segundo cuadrado,m/s²,GOOD
+59,metro cuadrado,m²,GOOD
+60,metro cúbico,m³,GOOD
+61,minuto,min,GOOD
+62,mililitro,mL,GOOD
+63,Milímetro,mm,GOOD
+64,Mol,mol,GOOD
+65,mol por metro cúbico,mol/m³,GOOD
+66,newton,N,GOOD
+67,newton por metro,N/m,GOOD
+68,newton metro,N·m,GOOD
+69,neper,Np,GOOD
+70,grado,º,GOOD
+71,Onzas,Oz,GOOD
+72,pascal,Pa,GOOD
+73,pascal segundo,Pa·s,GOOD
+74,radián,rad,GOOD
+75,radián por segundo,rad/s,GOOD
+76,radián por segundo cuadrado,rad/s²,GOOD
+77,Segundo,s,SERVICE
+78,siemens,S,GOOD
+79,estereorradián,sr,GOOD
+80,sievert,Sv,GOOD
+81,tesla,T,GOOD
+82,tonelada,t,GOOD
+83,unidad de masa atómica unificada,u,GOOD
+84,unidad astronómica,ua,GOOD
+85,Unidad,Unid,GOOD
+86,volt,V,GOOD
+87,volt por metro,V/m,GOOD
+88,Watt,W,GOOD
+89,watt por metro kelvin,W/(m·K),GOOD
+90,watt por metro cuadrado estereorradián,W/(m²·sr),GOOD
+91,watt por metro cuadrado,W/m²,GOOD
+92,watt por estereorradián,W/sr,GOOD
+93,weber,Wb,GOOD
+94,ohm,Ω,GOOD
+95,Se debe indicar la descripción de la medida a utilizar,Otros,GOOD
