@@ -1,0 +1,7 @@
+id,codigo,name
+1,1,Efectivo
+2,2,Tarjeta
+3,3,Cheque
+4,4,Transferencia – depósito bancario
+5,5,Recaudado por terceros 
+6,99,Otros (se debe indicar el medio de pago)

@@ -1,0 +1,83 @@
+id,email,is_favorite,name,tax_payer_id,profile_id,provincia_id,phone_number
+2,aklilesup2@gmail.com,1,DOREMI BAMBUS SOCIEDAD ANONIMA,3101741482.0,254,3.0,
+52,akliley@gmail.com,1,Aklile Yilma,3102823232.0,254,3.0,
+53,aklileyilma@gmail.com,0,NIMBU LAND HOLDING LIMITADA,3102823232.0,254,2.0,
+54,aashir2027270@gmail.com,1,Ashir Ali,3333333333.0,58,,17266378493.0
+102,test@email.com,0,Abdullah Al Amin,,356,,
+103,aaamin@email.com,0,Abdullah Al Amin,,356,,
+105,ashirzuhaib2@gmail.com,1,Ashir Zuhaib,3102823232.0,58,,236444444444.0
+152,new@gmail.com,0,NIMBU LAND HOLDING LIMITADA,3102823232.0,58,1.0,19348724322.0
+153,ashirzuhaib3@gmail.com,0,NIMBU LAND HOLDING LIMITADA,3102823232.0,58,1.0,
+154,godadsamuel@gmail.com,1,Samuel Godad,3102823232.0,303,,
+203,aklile@gmail.com,0,Aklile,,254,4.0,
+252,test@nimbuland.com,0,null null,3102823237.0,356,,
+253,tayyaba.dev03@gmail.com,0,tayyaba rani,,207,1.0,
+254,newtest@email.com,1,TEST COMPANY ,1234567890.0,103,2.0,
+302,godadsamuelat2008@gmail.com,0,NIMBU LAND HOLDING LIMITADA,3102823232.0,303,1.0,251980117664.0
+352,demchenko12.dmitriy@gmail.com,1,Dmytro Demchenko 2,3102823232.0,5,3.0,
+353,hassan@gmail.com,0,null null,122345558787.0,307,,
+402,as@f.com,0,33,33333.0,58,5.0,
+404,test@gmail.com,0,test tt tt,1234567899.0,307,2.0,
+405,sefinehtesfa@gmail.com,1,Sefineh Tesfa,12.0,208,2.0,
+452,django@django.com,0,Django,78456.0,2002,7.0,
+502,facturas@nimbuland.cr,0,null null,3102823232.0,307,4.0,
+503,hassan@gmail.comH,0,Hassan,,307,,
+602,deemsenterprise@gmail.com,0,Nimbu land,3102823232.0,254,1.0,
+652,ashirzuhaib2@gmail.com,0,NIMBU LAND HOLDING LIMITADA,3102823232.0,254,1.0,
+702,tayyaba.dev03@gmail.com,0,tayyaba rani,,5,1.0,
+752,test@gmai.co,0,null null,4.0,56,2.0,
+802,test@test.com,0,Test,10000.0,3155,3.0,
+852,t5691yifru@gmail.com,0,Personal,1010101010.0,3102,7.0,
+1002,deemsenterprise@gmail.com,0,PINK MOON LIMITADA,3102823232.0,255,1.0,506.0
+1052,etsubtaye4@gmail.com,1,Etsub,2.0,2702,2.0,
+1102,sefinehturing@gmail.com,0,NIMBU LAND HOLDING LIMITADA,3102823232.0,208,1.0,
+1103,test2@email.com,0,Test Company 2 ,987654321.0,103,2.0,
+1152,ttttt00000mmmmm@yahoo.com,0,Thomas Garben,,307,,
+1202,pinkmoonlimitada@gmail.com,0,PINK MOON LIMITADA,3102823233.0,56,1.0,
+1203,nimbulandholdinglimitada@gmail.com,0,NIMBU LAND HOLDING LIMITADA,3102823232.0,56,1.0,
+1252,ebrahimhayat241@gmail.com,0,NIMBULAND,3102823232.0,58,1.0,
+1302,tom@pamipami.cr,0,Thomas Garben,12903455.0,208,5.0,26912345667.0
+1303,natinael.linked@gmail.com,0,ABC,,4252,,
+1352,nimbu@gmail.com,0,NIMBU,567.0,208,2.0,
+1354,nim@gmail.com,0,Nimbu,897.0,208,,
+1355,sefineh@gmail.com,1,null null,,208,,
+1402,sefineh@gmail.com,0,null null,,202,,
+1452,yoni@gmail.com,0,NIMBU TRADICION CHOROTEGA SOCIEDAD ANONIMA,3101886417.0,58,1.0,1234567890.0
+1453,cristian@gmail.com,0,HELEN CHRI SCHUBLER,127600142828.0,58,1.0,
+1454,yonas@gmail.com,0,NIMBU LAND HOLDING LIMITADA,3102823232.0,58,1.0,847938527858095.0
+1503,enyewashebir0@gmail.com,0,Enyew Anagaw,1.0,4503,1.0,
+1552,enyewashebir27@gmail.com,0,andarg,2.0,4503,7.0,
+1553,natinael.96@gmail.com,0,Natinael Mequanent,,307,,
+1555,bisratplus@gmail.com,0,Bisrat A,,307,,
+1556,dawitshishu@gmail.com,0,dawit,,307,1.0,
+1557,simondereje1@gmail.com,0,Simon Dereje,,307,,
+1558,amelatbay@gmail.com,0,Lata Amenu,,307,,
+1559,samuelendale7373@gmail.com,1,Samuel Endale,,307,,
+1560,kenabirtu19@gmail.com,0,Kena Biratu,,307,,
+1561,davekindea1993@gmail.com,0,dawit kindea,65.0,307,,
+1562,sosinaesayas@gmail.com,0,,,307,,
+1563,bephrem1517@gmail.com,0,Bephreme T,,307,,
+1564,beza1221love@gmail.com,0,,123.0,307,1.0,
+1565,natms24@gmail.com,0,Nathan Mesfin,,307,,
+1566,begizewzerihun3@gmail.com,0,Begizew Zerihun,23.0,307,7.0,
+1567,teshfitsum834@gmail.com,0,Fitsum Teshome,41.0,307,7.0,
+1568,miheretgirmachew@gmail.com,0,Miheret Girmachew,,307,,
+1569,hailemariamkefale19@gmail.com,0,Hailemariam Kefale,1234567.0,307,3.0,
+1570,damisusefu@gmail.com,0,damisu sefu,,307,,
+1602,dagmawimisker1@gmail.com,0,dagmawi,127127.0,307,,
+1603,hassan@gmail.com,0,null null,1223132132.0,5,,50651515151.0
+1604,Hassan22@gmail.com,0,Hassan,,5,2.0,50645451514.0
+1605,ajhfdajg@gmail.com,0,hjb,5627342789.0,255,3.0,
+1607,etsubtaye4@gmail.com,0,Etsub Taye,43.0,303,7.0,251964506293.0
+1608,b@email.com,0,b,,307,,
+1652,uai@gmail.com,0,CRIS AMBER TUMANG CORTEZ,123570091.0,307,2.0,24311111111111.0
+1653,aasd@gmmail.com,1,CHRIS MARY MARTINEZ,155832924801.0,307,1.0,50655555555.0
+1703,asd@m.com,0,SAAS RND TECHNOLOGIES SOCIEDAD ANONIMA,3101757149.0,56,1.0,
+1704,ashirzuhaib2@gmail.com,0,Ashir Zuhaib,3102605037.0,56,3.0,236444444444.0
+1705,godadsamuela@gamil.com,0,,,303,,
+1706,samuellgaodad@gmial.com,0,,,303,,
+1713,natnaelbelayteklemariam@gmail.com,0,NIMBU LAND HOLDING LIMITADA,3102823232.0,303,1.0,50645645644.0
+1717,eman@gmail.com,0,EMAN OLIVIERY MAYORGA MORALES,701710296.0,4704,7.0,
+1718,samuelgodad@gmail.com,0,sami,,303,,
+1813,byd@gmail.com,0,BYD,22222222.0,58,1.0,72346719472.0
+1852,hybvghjb@gmail.com,0,,,4703,,

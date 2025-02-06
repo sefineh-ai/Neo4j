@@ -1,0 +1,11 @@
+id,code,description,redirecturl
+1,3,Accountant,/dashboard/accountant-clients
+2,10,Company Setup Complete!,/dashboard/factura
+3,5,Create Company needed,/dashboard/company/
+4,6,Complete Company Info needed,/dashboard/company/
+5,9,Verify Company needed,/dashboard/factura
+52,7,Create Hacienda Credentials needed,/dashboard/company/
+102,4,Lawyer,/dashboard/lawyer-clients
+152,1,Employee,/dashboard/factura
+202,2,Senior Employee,/dashboard/factura
+252,8,Complete Hacienda Info needed,/dashboard/company/

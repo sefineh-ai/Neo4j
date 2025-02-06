@@ -1,0 +1,17 @@
+id,attempts,currency,description,end_at,first_amount,frecuency,tilo_pay_id,tilo_pay_response_message,tilo_pay_response_status,tilo_pay_response_type,tilo_pay_responseurl,title,trial,trial_days
+352,3,CRC,El Organizador,,0,3,2453,Success,1,200,https://tilo.co/link/TWpRMU13PT18MQ==,Organizador de Compras Personales,0,0
+353,3,CRC,Capturador de Deducciones Internacional,,0,3,2454,Success,1,200,https://tilo.co/link/TWpRMU5BPT18MQ==,Capturador de Deducciones - Internacional,0,0
+354,3,CRC,El Recolector de Deducciones CR,,0,3,2455,Success,1,200,https://tilo.co/link/TWpRMU5RPT18MQ==,Receptor de Impuestos CR: Recolector de Deducciones,0,0
+355,3,CRC,Emprendedor,,0,3,2456,Success,1,200,https://tilo.co/link/TWpRMU5nPT18MQ==,Remitente,0,0
+356,3,CRC,Contratista,,0,3,2457,Success,1,200,https://tilo.co/link/TWpRMU53PT18MQ==,Contratista,0,0
+357,3,CRC,Empresa,,0,3,2458,Success,1,200,https://tilo.co/link/TWpRMU9BPT18MQ==,Empresa,0,0
+358,3,CRC,Plan de Abogado,,0,4,2459,Success,1,200,https://tilo.co/link/TWpRMU9RPT18MQ==,Abogado,0,0
+359,3,CRC,Plan de Contador,,0,4,2460,Success,1,200,https://tilo.co/link/TWpRMk1BPT18MQ==,Contador,0,0
+360,3,USD,The Organizer,,0,3,2461,Success,1,200,https://tilo.co/link/TWpRMk1RPT18MQ==,Personal Purchase Organizer,0,0
+361,3,USD,Deduction Grabber International,,0,3,2462,Success,1,200,https://tilo.co/link/TWpRMk1nPT18MQ==,Deduction Grabber - International,0,0
+362,3,USD,The Deduction Collector CR,,0,3,2463,Success,1,200,https://tilo.co/link/TWpRMk13PT18MQ==,CR Receiver Tax: Deduction Collector,0,0
+363,3,USD,Entrepreneur,,0,3,2464,Success,1,200,https://tilo.co/link/TWpRMk5BPT18MQ==,Sender,0,0
+364,3,USD,Contractor,,0,3,2465,Success,1,200,https://tilo.co/link/TWpRMk5RPT18MQ==,Contractor,0,0
+365,3,USD,Enterprise,,0,3,2466,Success,1,200,https://tilo.co/link/TWpRMk5nPT18MQ==,Enterprise,0,0
+366,3,USD,Lawyer,,0,4,2467,Success,1,200,https://tilo.co/link/TWpRMk53PT18MQ==,Lawyer,0,0
+367,3,USD,Accountant,,0,4,2468,Success,1,200,https://tilo.co/link/TWpRMk9BPT18MQ==,Accountant,0,0

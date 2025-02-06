@@ -1,0 +1,13 @@
+id,codigo,name
+1,1,Contado
+2,2,Crédito
+3,3,Consignación
+4,4,Apartado
+5,5,Arrendamiento con opción de compra
+6,6,Arrendamiento en función financiera 
+7,7,Cobro a favor de un tercero
+8,8,Servicios prestados al Estado a crédito
+9,9,Pago del servicios prestado al Estado
+10,10,"Venta a crédito en IVA hasta 90 días (Artículo 27,LIVA)"
+11,11,"Pago de venta a crédito en IVA hasta 90 días(Artículo 27, LIVA) "
+12,99,otros (se debe indicar la condición de la venta)

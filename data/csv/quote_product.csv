@@ -1,0 +1,143 @@
+id,base_imponible,codigo,detalle,name,precio_unitario,price_with_tax,price_without_tax,quantity,tax,unidad_medida,currency_id,impuesto_codigo_id,impuesto_tarifa_id
+1,7.0,5473000000000,Test Electric description,Test Electric,7.0,7.91,7.0,1,0.91,Cm,37,2,8
+2,10.0,8222100000000,,Product 1,100.0,101.3,100.0,1,1.3,Spe,37,1,8
+3,0.0,131800020500,"Piña ""champaca"", fresca o refrigerada",Desktop,6.0,6.0,6.0,1,0.0,Alc,37,7,2
+4,0.0,8876500000000,Articulated Bus,Bus,5.0,5.0,5.0,1,0.0,h,37,6,7
+5,0.0,196112000000,"Plantas vivas de las especies: Cycas sp. (Revoluta y Circinalis), Zamia sp. (Furfurácea y Floridana), Dioon Edule, Neodypsis Decaryi y Orquídeas sp. (Phalaenopsis sp.), Euphorbia tirucalli, Tillandsia sp.",Plantas,7.0,7.0,7.0,1,0.0,Alc,37,2,8
+52,10.0,8222100000000,,Product 1,100.0,101.3,100.0,1,1.3,Spe,37,1,8
+102,0.0,422201010000,asd,as,31.0,31.0,31.0,1,0.0,Alc,149,6,6
+103,0.0,422201010000,asd,as,31.0,31.0,31.0,1,0.0,Alc,149,6,6
+152,0.0,8222100000000,testDescription,testName,100.0,100.0,100.0,1,0.0,Sp,37,1,8
+202,0.0,677689832,travdel compnay,hjdfs,4.0,4.0,4.0,1,0.0,Al,37,5,5
+252,12.0,111100000100,Eiusmod eu quae quos,Genevieve Howard,12.0,12.12,12.0,1,0.12,A/m,149,1,2
+253,0.0,123400010100,Test description,Tomato test,5.0,5.0,5.0,1,0.0,D,149,2,2
+254,7.0,5473000000000,Test Electric description,Test Electric,7.0,7.91,7.0,1,0.91,Cm,37,2,8
+302,0.0,422201010000,asd,as,31.0,31.0,31.0,1,0.0,Alc,149,6,6
+352,0.0,112299010200,"Maíz, desgranado, seco, para producción de alimento para animales, n.c.p.",Maiz,0.0,0.0,0.0,1,0.0,Al,37,3,2
+353,0.0,9310210100111,Desbridamiento del fémur,Battery,10.0,10.0,10.0,1,0.0,Cm,37,3,6
+354,0.0,114200000100,"Sorgo, para producción de alimento para animales",Lorcaserin,10.0,10.0,10.0,1,0.0,Cm,37,2,2
+402,0.0,677689832,travdel compnay,hjdfs,0.0077,0.01,0.01,1,0.0,Al,37,5,5
+452,0.0,118100000000,"jhfdksdkaf,mbd",jsfasdf,38.0,41.04,38.0,1,3.04,A/m,37,7,7
+502,9.99,2118402000111,"Paté, con predominio de carne de cerdo (de 51% a menos de 100%)",TEST,9.99,10.09,9.99,1,0.1,1/m,149,1,2
+503,9.99,2118402000111,"Paté, con predominio de carne de cerdo (de 51% a menos de 100%)",TEST,9.99,10.09,9.99,1,0.1,1/m,149,1,2
+504,9.99,2118402000111,"Paté, con predominio de carne de cerdo (de 51% a menos de 100%)",TEST,9.99,10.09,9.99,1,0.1,1/m,149,1,2
+552,10.0,3562108000111,Lorcaserin,Lorcaserin,5202.9,5306.96,5202.9,1,104.06,1/m,149,7,3
+553,10.0,3562108000111,Lorcaserin,Lorcaserin,5202.9,5306.96,5202.9,1,104.06,1/m,149,7,3
+554,10.0,3562108000111,Lorcaserin,Lorcaserin,5202.9,5306.96,5202.9,1,104.06,1/m,149,7,3
+555,10.0,3562108000111,Lorcaserin,Lorcaserin,5202.9,5306.96,5202.9,1,104.06,1/m,149,7,3
+602,10.0,3562108000111,Lorcaserin,test,10.0,10.2,10.0,1,0.2,Spe,37,1,3
+652,10.0,3562108000111,Lorcaserin,Lorcaserin,5202.9,5306.96,5202.9,1,104.06,1/m,149,7,3
+702,2.0,3562108000111,Lorcaserin,mac pc,2.0,2.04,2.0,1,0.04,h,149,1,3
+752,10.0,3562108000111,Lorcaserin,Lorcaserin,5202.9,5306.96,5202.9,1,104.06,1/m,149,7,3
+753,10.0,3562108000111,Lorcaserin,Lorcaserin,5202.9,5306.96,5202.9,1,104.06,1/m,149,7,3
+802,0.0,3562201000111,Tioclomarol,Ashir Zuhaib ,-2.0,-2.04,-2.0,1,-0.04,Alc,37,2,3
+803,0.0,3562201000111,Tioclomarol,Ashir Zuhaib ,-2.0,-2.04,-2.0,1,-0.04,Alc,37,2,3
+804,10.0,3562101000302,Dexametasona como preparado estomatológico,Tomato,100.0,102.0,100.0,1,2.0,Cm,37,1,3
+805,10.0,3562101000302,Dexametasona como preparado estomatológico,Tomato,100.0,102.0,100.0,1,2.0,Cm,37,1,3
+852,10.0,3562108000111,Lorcaserin,Lorcaserin,5202.9,5306.96,5202.9,1,104.06,1/m,149,7,3
+853,10.0,3562108000111,Lorcaserin,Lorcaserin,5202.9,5306.96,5202.9,1,104.06,1/m,149,7,3
+854,10.0,3562108000111,Lorcaserin,Lorcaserin,5202.9,5306.96,5202.9,1,104.06,1/m,149,7,3
+902,1.0,111200000200,2,2,512.34,532.83,512.34,1,20.49,Al,149,2,4
+903,1111.0,111100000100,1,1,1111.0,1133.22,1111.0,1,22.22,1/m,37,1,3
+904,0.0,8222100000000,testDescription,testName,100.0,113.0,100.0,1,13.0,Sp,37,1,8
+1002,10.0,3562108000111,Lorcaserin,Lorcaserin,5202.9,5306.96,5202.9,1,104.06,1/m,149,7,3
+1003,0.0,8222100000000,testDescription,testName,100.0,113.0,100.0,1,13.0,Sp,37,1,8
+1004,0.0,8222100000000,testDescription,testName,100.0,113.0,100.0,1,13.0,Sp,37,1,8
+1052,999997.0,3562201000111,Tioclomarol,Product AAAH,999997.0,1019996.94,999997.0,1,19999.94,Al,37,7,3
+1102,2899.01,3562108000111,Lorcaserin,pro1,2899.01,2956.99,2899.01,1,57.98,A,149,2,3
+1152,210.0,9310201100111,Psicoterapia para el dolor,Product,210.0,218.4,210.0,1,8.4,Sp,37,2,6
+1202,210.0,9310201100111,Psicoterapia para el dolor,Product,210.0,218.4,210.0,1,8.4,Sp,37,2,6
+1203,210.0,9310201100111,Psicoterapia para el dolor,Product,210.0,218.4,210.0,1,8.4,Sp,37,2,6
+1204,0.0,121201020400,Dattale,asrt,1050.0,1050.0,1050.0,1,0.0,Alc,149,1,1
+1252,210.0,9310201100111,Psicoterapia para el dolor,Product,210.0,218.4,210.0,1,8.4,Sp,37,2,6
+1302,100.0,2118402000111,"Paté, con predominio de carne de cerdo (de 51% a menos de 100%)",Product,50629.0,51135.29,50629.0,1,506.29,h,149,1,2
+1303,2000.0,3562409000111,Benzalconio como apósito medicinal,Product CRC,2000.0,2040.0,2000.0,1,40.0,I,37,8,3
+1304,33.0,3562108000111,"OBESILOX, TABLETAS RECUBIERTAS 10MG",Test,33.0,33.66,33.0,1,0.66,Alc,37,7,3
+1352,100.0,2118402000111,"Paté, con predominio de carne de cerdo (de 51% a menos de 100%)",Product,50629.0,102270.58,101258.0,2,1012.58,h,149,1,2
+1353,2000.0,3562409000111,Benzalconio como apósito medicinal,Product CRC,2000.0,2040.0,2000.0,1,40.0,I,37,8,3
+1354,33.0,3562108000111,"OBESILOX, TABLETAS RECUBIERTAS 10MG",Test,33.0,33.66,33.0,1,0.66,Alc,37,7,3
+1355,100.0,2118402000111,"Paté, con predominio de carne de cerdo (de 51% a menos de 100%)",Product,100.0,303.0,300.0,3,3.0,h,149,1,2
+1356,2000.0,3562409000111,Benzalconio como apósito medicinal,Product CRC,39.22,40.0,39.22,1,0.78,I,37,8,3
+1357,100.0,2118402000111,"Paté, con predominio de carne de cerdo (de 51% a menos de 100%)",Product,50629.0,153405.87,151887.0,3,1518.87,h,149,1,2
+1358,2000.0,3562409000111,Benzalconio como apósito medicinal,Product CRC,2000.0,2040.0,2000.0,1,40.0,I,37,8,3
+1359,884.9558,4291203000300,"Batería de cocina y vajilla, de aluminio",bateria,1.7224,1.95,1.72,1,0.22,St,37,1,8
+1402,4000.0,3562410000000,Benzalconio como apósito medicinal,Product Import11,4000.0,4080.0,4000.0,1,80.0,A/m²,37,7,3
+1403,4000.0,3562410000000,Benzalconio como apósito medicinal,Product Import10,4000.0,4080.0,4000.0,1,80.0,A/m²,37,7,3
+1404,4000.0,3562410000000,Benzalconio como apósito medicinal,Product Import11,4000.0,4080.0,4000.0,1,80.0,A/m²,37,7,3
+1405,4000.0,3562410000000,Benzalconio como apósito medicinal,Product Import10,4000.0,4080.0,4000.0,1,80.0,A/m²,37,7,3
+1406,323.0,3563402000111,Bendazac para uso músculo esquelético,Test,323.0,329.46,323.0,1,6.46,Alc,37,7,3
+1407,323.0,3563402000111,Bendazac para uso músculo esquelético,Test,323.0,329.46,323.0,1,6.46,Alc,37,7,3
+1408,22.0,3562409000111,Benzalconio como apósito medicinal,Product,11175.12,11398.62,11175.12,1,223.5,Alc,149,7,3
+1409,323.0,3563402000111,Bendazac para uso músculo esquelético,Test,323.0,329.46,323.0,1,6.46,Alc,37,7,3
+1410,22.0,3562409000111,Benzalconio como apósito medicinal,Product,11175.12,11398.62,11175.12,1,223.5,Alc,149,7,3
+1411,323.0,3563402000111,Bendazac para uso músculo esquelético,Test,323.0,329.46,323.0,1,6.46,Alc,37,7,3
+1412,323.0,3563402000111,Bendazac para uso músculo esquelético,Test,323.0,329.46,323.0,1,6.46,Alc,37,7,3
+1413,323.0,3563402000111,Bendazac para uso músculo esquelético,Test,323.0,329.46,323.0,1,6.46,Alc,37,7,3
+1414,323.0,3563402000111,Bendazac para uso músculo esquelético,Test,323.0,329.46,323.0,1,6.46,Alc,37,7,3
+1452,323.0,3563402000111,Bendazac para uso músculo esquelético,Test,323.0,329.46,323.0,1,6.46,Alc,37,7,3
+1453,323.0,3563402000111,Bendazac para uso músculo esquelético,Test,323.0,329.46,323.0,1,6.46,Alc,37,7,3
+1502,4000.0,3562410000000,Benzalconio como apósito medicinal,Product Import7,4000.0,4080.0,4000.0,1,80.0,A/m²,37,7,3
+1503,4000.0,3562410000000,Benzalconio como apósito medicinal,Product Import7,4000.0,4080.0,4000.0,1,80.0,A/m²,37,7,3
+1504,4000.0,3562410000000,Benzalconio como apósito medicinal,Product Import7,4000.0,4080.0,4000.0,1,80.0,A/m²,37,7,3
+1505,4000.0,3562410000000,Benzalconio como apósito medicinal,Product Import7,4000.0,4080.0,4000.0,1,80.0,A/m²,37,7,3
+1506,75.0,3562108000111,"OBESILOX, TABLETAS RECUBIERTAS 10MG",start,75.0,76.5,75.0,1,1.5,Cm,37,7,3
+1552,190.0,3562411000657,"Colágeno, combinaciones",Trigo,190.0,193.8,190.0,1,3.8,A/m²,37,7,3
+1553,510.0,135910000000,"Chira de banano, fresca o refrigerada",Test Banano,510.0,576.3,510.0,1,66.3,kg,37,1,8
+1554,510.0,135910000000,"Chira de banano, fresca o refrigerada",Test Banano,510.0,576.3,510.0,1,66.3,kg,37,1,8
+1602,510.0,135910000000,"Chira de banano, fresca o refrigerada",Test Banano,510.0,576.3,510.0,1,66.3,kg,37,1,8
+1603,510.0,135910000000,"Chira de banano, fresca o refrigerada",Test Banano,510.0,1152.6,1020.0,2,132.6,kg,37,1,8
+1604,323.0,3563402000111,Bendazac para uso músculo esquelético,Test,323.0,329.46,323.0,1,6.46,Alc,37,7,3
+1605,22.0,3562409000111,Benzalconio como apósito medicinal,Test 2,11175.12,11398.62,11175.12,1,223.5,Alc,149,7,3
+1606,323.0,3563402000111,Bendazac para uso músculo esquelético,Test,323.0,329.46,323.0,1,6.46,Alc,37,7,3
+1607,22.0,3562409000111,Benzalconio como apósito medicinal,Test 2,11175.12,11398.62,11175.12,1,223.5,Alc,149,7,3
+1608,323.0,3563402000111,Bendazac para uso músculo esquelético,Test,323.0,329.46,323.0,1,6.46,Alc,37,7,3
+1609,22.0,3562409000111,Benzalconio como apósito medicinal,Test 2,11175.12,11398.62,11175.12,1,223.5,Alc,149,7,3
+1610,20.0,111100009900,"Trigo, para siembra (semillas), excepto duro",Product,20.0,20.2,20.0,1,0.2,Alc,37,7,2
+1611,20.0,111100009900,"Trigo, para siembra (semillas), excepto duro",Product,20.0,20.2,20.0,1,0.2,Alc,37,7,2
+1612,20.0,111100009900,"Trigo, para siembra (semillas), excepto duro",Product,20.0,20.2,20.0,1,0.2,Alc,37,7,2
+1613,20.0,111100009900,"Trigo, para siembra (semillas), excepto duro",Product,20.0,60.6,60.0,3,0.6,Alc,37,7,2
+1614,0.2,4641004000000,"Pilas y baterías de pilas, de litio",BateriasTest,0.2,0.68,0.6,3,0.08,1/m,37,1,8
+1615,0.2,4641004000000,"Pilas y baterías de pilas, de litio",BateriasTest,0.2,0.23,0.2,1,0.03,1/m,37,1,8
+1616,0.2,4641004000000,"Pilas y baterías de pilas, de litio",BateriasTest,0.2,0.23,0.2,1,0.03,1/m,37,1,8
+1617,100.0,2118402000111,"Paté, con predominio de carne de cerdo (de 51% a menos de 100%)",Product,50629.0,51135.29,50629.0,1,506.29,h,149,1,2
+1618,100.0,2118402000111,"Paté, con predominio de carne de cerdo (de 51% a menos de 100%)",Product,50629.0,51135.29,50629.0,1,506.29,h,149,1,2
+1619,100.0,2118402000111,"Paté, con predominio de carne de cerdo (de 51% a menos de 100%)",Product,50629.0,51135.29,50629.0,1,506.29,h,149,1,2
+1620,100.0,2118402000111,"Paté, con predominio de carne de cerdo (de 51% a menos de 100%)",Product,50629.0,51135.29,50629.0,1,506.29,h,149,1,2
+1621,100.0,2118402000111,"Paté, con predominio de carne de cerdo (de 51% a menos de 100%)",Product,50629.0,51135.29,50629.0,1,506.29,h,149,1,2
+1622,100.0,2118402000111,"Paté, con predominio de carne de cerdo (de 51% a menos de 100%)",Product,50629.0,51135.29,50629.0,1,506.29,h,149,1,2
+1623,2000.0,3562409000111,Benzalconio como apósito medicinal,Product CRC,2000.0,2040.0,2000.0,1,40.0,I,37,8,3
+1624,2000.0,3562409000111,Benzalconio como apósito medicinal,Product CRC,2000.0,2040.0,2000.0,1,40.0,I,37,8,3
+1625,100.0,3562409000111,Benzalconio como apósito medicinal,Product,100.0,102.0,100.0,1,2.0,Alc,37,7,3
+1626,100.0,3562409000111,Benzalconio como apósito medicinal,Product,100.0,102.0,100.0,1,2.0,Alc,37,7,3
+1627,2000.0,3562409000111,Benzalconio como apósito medicinal,Product CRC,2000.0,2040.0,2000.0,1,40.0,I,37,8,3
+1628,75.0,3562108000111,"OBESILOX, TABLETAS RECUBIERTAS 10MG",start,75.0,76.5,75.0,1,1.5,Cm,37,7,3
+1629,785.0,3563702000111,Clorquinaldol como preparado para la garganta,oiuytre,785.0,800.7,785.0,1,15.7,D,37,7,3
+1630,785.0,3563702000111,Clorquinaldol como preparado para la garganta,oiuytre,785.0,800.7,785.0,1,15.7,D,37,7,3
+1631,785.0,3563702000111,Clorquinaldol como preparado para la garganta,oiuytre,785.0,800.7,785.0,1,15.7,D,37,7,3
+1632,785.0,3563702000111,Clorquinaldol como preparado para la garganta,oiuytre,785.0,800.7,785.0,1,15.7,D,37,7,3
+1633,785.0,3563702000111,Clorquinaldol como preparado para la garganta,oiuytre,785.0,800.7,785.0,1,15.7,D,37,7,3
+1634,785.0,3563702000111,Clorquinaldol como preparado para la garganta,oiuytre,785.0,800.7,785.0,1,15.7,D,37,7,3
+1635,785.0,3563702000111,Clorquinaldol como preparado para la garganta,oiuytre,785.0,800.7,785.0,1,15.7,D,37,7,3
+1636,785.0,3563702000111,Clorquinaldol como preparado para la garganta,oiuytre,785.0,800.7,785.0,1,15.7,D,37,7,3
+1637,785.0,3563702000111,Clorquinaldol como preparado para la garganta,oiuytre,785.0,800.7,785.0,1,15.7,D,37,7,3
+1638,785.0,3563702000111,Clorquinaldol como preparado para la garganta,oiuytre,785.0,800.7,785.0,1,15.7,D,37,7,3
+1639,785.0,3563702000111,Clorquinaldol como preparado para la garganta,oiuytre,785.0,800.7,785.0,1,15.7,D,37,7,3
+1640,785.0,3563702000111,Clorquinaldol como preparado para la garganta,oiuytre,785.0,800.7,785.0,1,15.7,D,37,7,3
+1641,785.0,3563702000111,Clorquinaldol como preparado para la garganta,oiuytre,785.0,800.7,785.0,1,15.7,D,37,7,3
+1642,785.0,3563702000111,Clorquinaldol como preparado para la garganta,oiuytre,785.0,800.7,785.0,1,15.7,D,37,7,3
+1652,0.2,4641004000000,"Pilas y baterías de pilas, de litio",BateriasTest,0.2,0.23,0.2,1,0.03,1/m,37,1,8
+1702,0.2,4641004000000,"Pilas y baterías de pilas, de litio",BateriasTest,0.2,0.23,0.2,1,0.03,1/m,37,1,8
+1703,20000.0,112202010100,"Maíz amarillo, desgranado, seco, para consumo humano",Product,20000.0,20200.0,20000.0,1,200.0,Alc,37,7,2
+1704,10000.0,112201020200,"Maíz blanco, en mazorca, seco, para producción de alimento para animales",Test,10000.0,10100.0,10000.0,1,100.0,Alc,37,7,2
+1705,20.0,111100009900,"Trigo, para siembra (semillas), excepto duro",Product,20.0,20.2,20.0,1,0.2,Alc,37,7,2
+1706,10000.0,112201020200,"Maíz blanco, en mazorca, seco, para producción de alimento para animales",Test,10000.0,10100.0,10000.0,1,100.0,Alc,37,7,2
+1707,2000.0,3562409000111,Benzalconio como apósito medicinal,Product CRC,2000.0,2040.0,2000.0,1,40.0,I,37,8,3
+1708,4000.0,3562410000000,Benzalconio como apósito medicinal,Product Import1,4000.0,4080.0,4000.0,1,80.0,A/m²,37,7,3
+1709,4000.0,3562410000000,Benzalconio como apósito medicinal,Product Import1,4000.0,4080.0,4000.0,1,80.0,A/m²,37,7,3
+1752,100.0,2118402000111,"Paté, con predominio de carne de cerdo (de 51% a menos de 100%)",Product,50629.0,51135.29,50629.0,1,506.29,h,149,1,2
+1802,40.9,112201020200,"Maíz blanco, en mazorca, seco, para producción de alimento para animales",pro2,40.9,41.31,40.9,1,0.41,Bq,37,8,2
+1852,1030.0,123400010200,"Tomate verde orgánico, fresco o refrigerado",Test Tomato,1030.0,1040.3,1030.0,1,10.3,g,37,7,2
+1853,1030.0,123400010200,"Tomate verde orgánico, fresco o refrigerado",Test Tomato,1030.0,1040.3,1030.0,1,10.3,g,37,7,2
+1902,1030.0,123400010200,"Tomate verde orgánico, fresco o refrigerado",Test Tomato,1030.0,1040.3,1030.0,1,10.3,g,37,7,2
+1903,1030.0,123400010200,"Tomate verde orgánico, fresco o refrigerado",Test Tomato,1030.0,1040.3,1030.0,1,10.3,g,37,7,2
+1952,1030.0,123400010200,"Tomate verde orgánico, fresco o refrigerado",Test Tomato,1030.0,1040.3,1030.0,1,10.3,g,37,7,2

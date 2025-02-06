@@ -1,0 +1,15 @@
+id,amount,title,tilo_pay_plan_id
+152,0.00,DEFAULT,
+252,2.00,Personal,152
+253,5.00,Micro - up to 5 employees,152
+254,10.00,Small - up to 10 employees,152
+255,15.00,Medium - up to 20 employees,152
+256,20.00,Large - up to 100 employees,152
+257,5.00,Micro - up to 5 employees,153
+258,10.00,Small - up to 10 employees,153
+259,15.00,Medium - up to 20 employees,153
+260,20.00,Large - up to 100 employees,153
+261,50.00,Accountant,154
+262,50.00,Lawyer,155
+263,75.00,Lawyer & Accountant,156
+352,5.00,Receive up to 1000 Factura,252

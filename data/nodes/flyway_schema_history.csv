@@ -1,2 +1,0 @@
-installed_rank,version,description,type,script,checksum,installed_by,installed_on,execution_time,success
-1,2,modify company role length,SQL,V2__modify_company_role_length.sql,-397916606,factura_sandbox_user,2024-07-30 07:18:13,171,1

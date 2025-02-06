@@ -1,0 +1,20 @@
+2025-02-06 11:34:58.934+0000 INFO  Logging config in use: File '/var/lib/neo4j/conf/user-logs.xml'
+2025-02-06 11:34:58.940+0000 WARN  Use of deprecated setting 'dbms.security.procedures.whitelist'. It is replaced by 'dbms.security.procedures.allowlist'.
+2025-02-06 11:34:58.946+0000 INFO  Starting...
+2025-02-06 11:34:59.588+0000 INFO  This instance is ServerId{0a03ea0e} (0a03ea0e-2f8e-43c1-a414-2f426514c3df)
+2025-02-06 11:35:00.358+0000 INFO  ======== Neo4j 5.26.1 ========
+2025-02-06 11:35:04.459+0000 INFO  Called db.clearQueryCaches(): Query cache already empty.
+2025-02-06 11:35:04.549+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2025-02-06 11:35:04.573+0000 INFO  Bolt enabled on 0.0.0.0:7687.
+2025-02-06 11:35:05.030+0000 INFO  HTTP enabled on 0.0.0.0:7474.
+2025-02-06 11:35:05.030+0000 INFO  Remote interface available at http://localhost:7474/
+2025-02-06 11:35:05.032+0000 INFO  id: B5741FF95BBC99AEDF7389490240E852369A4FF9FF0CE51648FA838C6396A872
+2025-02-06 11:35:05.033+0000 INFO  name: system
+2025-02-06 11:35:05.033+0000 INFO  creationDate: 2025-02-06T11:35:01.199Z
+2025-02-06 11:35:05.033+0000 INFO  Started.
+2025-02-06 11:35:32.798+0000 WARN  [bolt-7] The client is unauthorized due to authentication failure.
+2025-02-06 11:35:32.808+0000 WARN  [bolt-8] The client is unauthorized due to authentication failure.
+2025-02-06 11:35:40.887+0000 WARN  [bolt-9] The client is unauthorized due to authentication failure.
+2025-02-06 11:35:40.903+0000 WARN  [bolt-10] The client has provided incorrect authentication details too many times in a row.
+2025-02-06 11:46:18.911+0000 INFO  Neo4j Server shutdown initiated by request
+2025-02-06 11:46:18.912+0000 INFO  Stopping...

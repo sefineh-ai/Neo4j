@@ -1,8 +1,12 @@
-import mysql.connector
+import mysql.connector  # type: ignore
 import os
-from dotenv import load_dotenv
+from dotenv import load_dotenv  # type: ignore
+from openpyxl import Workbook  # For creating Excel files
+from openpyxl.utils.exceptions import IllegalCharacterError
+
 
 load_dotenv()
+
 connection = mysql.connector.connect(
     host=os.getenv("DB_HOST"),
     user=os.getenv("DB_USER"),
@@ -12,54 +16,48 @@ connection = mysql.connector.connect(
 )
 
 cursor = connection.cursor()
-tables = [
-    "accountant", "accountant_seq", "bank_transaction_raw_data", "bank_transaction_raw_data_seq", 
-    "barrio", "branch", "branch_seq", "branch_terminals", "cabys_code", "cabys_code_seq", 
-    "cabys_reduced", "cabys_reduced_seq", "canton", "client", "client_seq", "codigo_actividad", 
-    "codigo_actividad_seq", "company", "company_codigo_actividad", "company_economic_activity", 
-    "company_economic_activity_seq", "company_favourite_codigo_actividads", "company_seq", 
-    "condicion_venta", "condicion_venta_seq", "connection", "connection_client", "connection_client_seq", 
-    "connection_seq", "conversation", "conversation_profile", "currency", "currency_exchange_rate", 
-    "currency_exchange_rate_seq", "currency_seq", "customer_feedback", "customer_feedback_seq", 
-    "deleted_subscription", "deleted_subscription_seq", "distrito", "employee", "employee_seq", 
-    "factura_template", "factura_template_products", "factura_template_seq", "facturas", 
-    "facturas_linea_detalles", "facturas_notas", "facturas_seq", "favorite_clients", 
-    "flyway_schema_history", "functionality_resource", "functionality_resource_seq", "hacienda_credentials", 
-    "hacienda_credentials_seq", "impuesto_codigo", "impuesto_codigo_seq", "impuesto_tarifa", 
-    "impuesto_tarifa_seq", "lawyer", "lawyer_seq", "linea_detalle", "linea_detalle_seq", 
-    "login_browser_session_data", "login_browser_session_data_seq", "measure_unit", "measure_unit_seq", 
-    "medio_pago", "medio_pago_seq", "message", "message_status", "nota", "nota_linea_detalles", "nota_seq", 
-    "process_payment_request", "process_payment_request_seq", "product", "product_factura_template", 
-    "product_factura_template_seq", "product_seq", "profile", "profile_accountants", "profile_company_role", 
-    "profile_company_role_seq", "profile_connections", "profile_lawyers", "profile_profile_company_roles", 
-    "profile_roles", "profile_seq", "profile_workflow_status", "profile_workflow_status_seq", "provincia", 
-    "quote", "quote_product", "quote_product_seq", "quote_quote_products", "quote_request", 
-    "quote_request_cabys_codes", "quote_request_seq", "quote_seq", "sandbox_invoice_sequence", 
-    "sandbox_invoice_sequence_seq", "subscription", "subscription_access_rule", 
-    "subscription_access_rule_functionality_resource_list", "subscription_access_rule_seq", "subscription_plan", 
-    "subscription_plan_seq", "subscription_seq", "tax_payer_entity", "tax_payer_entity_seq", "terminal", 
-    "terminal_seq", "tilo_pay_modality", "tilo_pay_modality_seq", "tilo_pay_plan", "tilo_pay_plan_seq", 
-    "tilo_pay_plan_tilo_pay_modalities"
-]
 
-output_dir = '/home/sefineh/Desktop/Neo4j/data/'
-for table in tables:
-    try:
-        query = f"SELECT * FROM {table}"
+def sanitize_cell_value(value):
+    """
+    Sanitizes cell values to remove illegal characters for Excel.
+    """
+    if isinstance(value, bytes):
+        value = value.decode('utf-8', errors='replace')
+    if isinstance(value, str):
+        value = ''.join(c for c in value if ord(c) >= 32)
+    return value
+
+try:
+    cursor.execute("SHOW TABLES;")
+    tables = cursor.fetchall() 
+
+    for (table_name,) in tables: 
+        print(f"Exporting table: {table_name}")
+        query = f"SELECT * FROM {table_name};"
         cursor.execute(query)
-        columns = [col[0] for col in cursor.description]
         rows = cursor.fetchall()
-        output_path = os.path.join(output_dir, f"{table}.csv")
+        column_names = [i[0] for i in cursor.description]
+        workbook = Workbook()
+        sheet = workbook.active
+        sheet.title = table_name
 
-        with open(output_path, mode='w', newline='', encoding='utf-8') as file:
-            file.write(','.join(columns) + '\n')
-            for row in rows:
-                file.write(','.join(str(value) if value is not None else '' for value in row) + '\n')
+        for col_num, column_name in enumerate(column_names, start=1):
+            sheet.cell(row=1, column=col_num, value=column_name)
 
-        print(f"Successfully exported {table} to {output_path}")
+        for row_num, row_data in enumerate(rows, start=2):
+            for col_num, cell_value in enumerate(row_data, start=1):
+                sanitized_value = sanitize_cell_value(cell_value)
+                try:
+                    sheet.cell(row=row_num, column=col_num, value=sanitized_value)
+                except IllegalCharacterError:
+                    sheet.cell(row=row_num, column=col_num, value="INVALID_CHAR")
 
-    except Exception as e:
-        print(f"Error exporting table {table}: {e}")
+        output_file = f"data/excel/{table_name}.xlsx"
+        workbook.save(output_file)
+        print(f"Table {table_name} exported successfully to {output_file}")
 
-cursor.close()
-connection.close()
+except mysql.connector.Error as err:
+    print(f"Error: {err}")
+finally:
+    cursor.close()
+    connection.close()

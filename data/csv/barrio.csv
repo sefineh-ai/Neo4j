@@ -1,0 +1,7079 @@
+id,code,name,distrito_id
+1,1,SAN JOSÉ (parte),1
+2,2,Amón,1
+3,3,Aranjuez,1
+4,4,California (parte),1
+5,5,Carmen,1
+6,6,Empalme,1
+7,7,Escalante,1
+8,8,Otoya,1
+9,1,SAN JOSÉ (parte),2
+10,2,Bajos de la Unión,2
+11,3,Claret,2
+12,4,Cocacola,2
+13,5,Iglesias Flores,2
+14,6,Mantica,2
+15,7,México,2
+16,8,Paso de la Vaca,2
+17,9,Pitahaya,2
+18,1,SAN JOSÉ (parte),3
+19,2,Almendares,3
+20,3,Ángeles,3
+21,4,Bolívar,3
+22,5,Carit,3
+23,6,Colón (parte),3
+24,7,Corazón de Jesús,3
+25,8,Cristo Rey,3
+26,9,Cuba,3
+27,10,Dolorosa (parte),3
+28,11,Merced,3
+29,12,Pacífico (parte),3
+30,13,Pinos,3
+31,14,Salubridad,3
+32,15,San Bosco,3
+33,16,San Francisco,3
+34,17,Santa Lucía,3
+35,18,Silos,3
+36,1,SAN JOSÉ (parte),4
+37,2,Bellavista,4
+38,3,California (parte),4
+39,4,Carlos María Jiménez,4
+40,5,Dolorosa (parte),4
+41,6,Dos Pinos,4
+42,7,Francisco Peralta (parte),4
+43,8,González Lahmann,4
+44,9,González Víquez,4
+45,10,Güell,4
+46,11,La Cruz,4
+47,12,Lomas de Ocloro,4
+48,13,Luján,4
+49,14,Milflor,4
+50,15,Naciones Unidas,4
+51,16,Pacífico (parte),4
+52,17,San Cayetano (parte),4
+53,18,Soledad,4
+54,19,Tabacalera,4
+55,20,Vasconia,4
+56,1,ZAPOTE centro,5
+57,2,Alborada,5
+58,3,Calderón Muñoz,5
+59,4,Cerrito,5
+60,5,Córdoba,5
+61,6,Gloria,5
+62,7,Jardín,5
+63,8,Luisas,5
+64,9,Mangos,5
+65,10,Montealegre,5
+66,11,Moreno Cañas,5
+67,12,Quesada Durán,5
+68,13,San Dimas,5
+69,14,San Gerardo (parte),5
+70,15,Trébol,5
+71,16,Ujarrás,5
+72,17,Vista Hermosa,5
+73,18,Yoses Sur,5
+74,1,SAN FRANCISCO DE DOS RÍOS centro,6
+75,2,Ahogados (parte),6
+76,3,Bosque,6
+77,4,Cabañas,6
+78,5,Camelias,6
+79,6,Coopeguaria,6
+80,7,Faro,6
+81,8,Fátima,6
+82,9,Hispano,6
+83,10,I Griega,6
+84,11,Lincoln,6
+85,12,Lomas de San Francisco,6
+86,13,Maalot,6
+87,14,Méndez,6
+88,15,Pacífica,6
+89,16,Sauces,6
+90,17,Saucitos,6
+91,18,Zurquí,6
+92,1,URUCA centro,7
+93,2,Alborada,7
+94,3,Ánimas,7
+95,4,Árboles,7
+96,5,Bajos del Torres,7
+97,6,Carranza,7
+98,7,Corazón de Jesús,7
+99,8,Cristal,7
+100,9,Carvajal Castro,7
+101,10,Jardines de Autopista,7
+102,11,La Caja,7
+103,12,La Carpio,7
+104,13,Magnolia,7
+105,14,Marimil,7
+106,15,Monserrat,7
+107,16,Peregrina,7
+108,17,Robledal,7
+109,18,Rossiter Carballo,7
+110,19,Santander,7
+111,20,Saturno,7
+112,21,Vuelta del Virilla,7
+113,1,SAN JOSÉ (parte),8
+114,2,Américas,8
+115,3,Bajo Cañada (parte),8
+116,4,Balcón Verde,8
+117,5,Colón (parte),8
+118,6,Del Pino,8
+119,7,Holanda,8
+120,8,La Luisa,8
+121,9,La Salle,8
+122,10,Lomalinda,8
+123,11,Morenos,8
+124,12,Niza,8
+125,13,Rancho Luna,8
+126,14,Rohrmoser (parte),8
+127,15,Roma,8
+128,16,Sabana,8
+129,17,Tovar,8
+130,1,PAVAS centro,9
+131,2,Alfa,9
+132,3,Asturias,9
+133,4,Asunción,9
+134,5,Bribrí,9
+135,6,Favorita Norte,9
+136,7,Favorita Sur,9
+137,8,Galicia,9
+138,9,Geroma,9
+139,10,Hispania,9
+140,11,Libertad,9
+141,12,Lomas del Río,9
+142,13,Llanos del Sol,9
+143,14,María Reina,9
+144,15,Metrópolis,9
+145,16,Navarra,9
+146,17,Pueblo Nuevo,9
+147,18,Residencial del Oeste,9
+148,19,Rincón Grande,9
+149,20,Rohrmoser (parte),9
+150,21,Rotonda,9
+151,22,San Pedro,9
+152,23,Santa Bárbara,9
+153,24,Santa Catalina,9
+154,25,Santa Fé,9
+155,26,Triángulo,9
+156,27,Villa Esperanza,9
+157,1,HATILLO centro,10
+158,2,Bajo Cañada (parte),10
+159,3,Belgrano,10
+160,4,Hatillo 1,10
+161,5,Hatillo 2,10
+162,6,Hatillo 3,10
+163,7,Hatillo 4,10
+164,8,Hatillo 5,10
+165,9,Hatillo 6,10
+166,10,Hatillo 7,10
+167,11,Hatillo 8,10
+168,12,Quince de Setiembre,10
+169,13,Sagrada Familia,10
+170,14,Tiribí,10
+171,15,Topacio,10
+172,16,Veinticinco de Julio,10
+173,17,Vivienda en Marcha,10
+174,1,SAN SEBASTIÁN centro,11
+175,2,Bengala,11
+176,3,Bilbao,11
+177,4,Cañada del Sur,11
+178,5,Carmen,11
+179,6,Cascajal,11
+180,7,Cerro Azul,11
+181,8,Colombari,11
+182,9,Domingo Savio,11
+183,10,Guacamaya,11
+184,11,Jazmín,11
+185,12,Hogar Propio,11
+186,13,Kennedy,11
+187,14,López Mateos,11
+188,15,Luna Park,11
+189,16,Martínez,11
+190,17,Mojados,11
+191,18,Mongito,11
+192,19,Monte Azúl,11
+193,20,Musmanni,11
+194,21,Paso Ancho,11
+195,22,Presidentes,11
+196,23,San Cayetano (parte),11
+197,24,San Martín,11
+198,25,Santa Rosa,11
+199,26,Seminario,11
+200,27,Sorobarú,11
+201,1,ESCAZÚ centro,12
+202,2,Alto Carrizal,12
+203,3,Carrizal (parte),12
+204,4,Faroles,12
+205,5,Guapinol,12
+206,6,Hulera,12
+207,7,Itabas,12
+208,8,Jaboncillo,12
+209,9,Profesores (parte),12
+210,1,SAN ANTONIO centro,13
+211,2,Avellana,13
+212,3,Bebedero,13
+213,4,Belo Horizonte (parte),13
+214,5,Carrizal (parte),13
+215,6,Curío,13
+216,7,Chirca,13
+217,8,Chiverral,13
+218,9,Entierrillo,13
+219,10,Filtros,13
+220,11,Guayabos,13
+221,12,Hojablanca,13
+222,13,Juan Santana,13
+223,14,Lajas,13
+224,15,Masilla,13
+225,16,Muta,13
+226,17,Pedrero,13
+227,18,Perú,13
+228,19,Profesores (parte),13
+229,20,Sabanillas,13
+230,21,Salitrillos,13
+231,22,Santa Eduvigis,13
+232,23,Santa Teresa,13
+233,24,Tejarcillos,13
+234,25,Torrotillo,13
+235,26,Vista de Oro,13
+236,1,SAN RAFAEL centro,14
+237,2,Anonos,14
+238,3,Ayala,14
+239,4,Bajo Anonos,14
+240,5,Bajo Palomas,14
+241,6,Belo Horizonte (parte),14
+242,7,Betina,14
+243,8,Ceiba,14
+244,9,Facio Castro,14
+245,10,Guachipelín,14
+246,11,Herrera,14
+247,12,Laureles,14
+248,13,León,14
+249,14,Loma Real,14
+250,15,Matapalo,14
+251,16,Maynard,14
+252,17,Mirador,14
+253,18,Miravalles,14
+254,19,Palermo,14
+255,20,Palma de Mallorca,14
+256,21,Pinar,14
+257,22,Primavera,14
+258,23,Quesada,14
+259,24,Real de Pereira (parte),14
+260,25,Santa Marta,14
+261,26,Tena,14
+262,27,Trejos Montealegre,14
+263,28,Vista Alegre,14
+264,1,DESAMPARADOS centro,15
+265,2,Altamira,15
+266,3,Bellavista,15
+267,4,Calle Fallas,15
+268,5,Camaquirí,15
+269,6,Capilla,15
+270,7,Centro de Amigos,15
+271,8,Cerámica,15
+272,9,Colonia del Sur,15
+273,10,Contadores,15
+274,11,Cruce,15
+275,12,Cucubres,15
+276,13,Dorados,15
+277,14,Florita,15
+278,15,Fortuna,15
+279,16,Jardín,15
+280,17,Loto,15
+281,18,Metrópoli,15
+282,19,Monseñor Sanabria,15
+283,20,Monteclaro,15
+284,21,Palogrande,15
+285,22,Pinos,15
+286,23,Retoños,15
+287,24,Río Jorco,15
+288,25,Sabara,15
+289,26,San Esteban Rey,15
+290,27,San Jerónimo,15
+291,28,San José,15
+292,29,San Roque,15
+293,30,Tauros,15
+294,31,Torremolinos,15
+295,32,Venecia,15
+296,33,Vista Verde,15
+297,1,SAN MIGUEL centro,16
+298,2,Ángeles,16
+299,3,Capri,16
+300,4,Damas Israelitas,16
+301,5,Girasol,16
+302,6,Higuito,16
+303,7,Lindavista,16
+304,8,Lomas de Jorco,16
+305,9,Llano,16
+306,10,Meseguer,16
+307,11,Olivos,16
+308,12,Orquídeas,16
+309,13,Peñascal,16
+310,14,Rinconada,16
+311,15,Rodillal,16
+312,16,Sabanilla,16
+313,17,San Martín,16
+314,18,Santa Eduvigis,16
+315,19,Valverde,16
+316,20,Alto Alumbre,16
+317,21,Hoyo,16
+318,22,Jericó,16
+319,23,Manzano,16
+320,24,Pacaya,16
+321,25,Roblar,16
+322,26,Ticalpes (parte),16
+323,27,Calle Naranjos,16
+324,1,SAN JUAN DE DIOS centro,17
+325,2,Calabacitas,17
+326,3,Calle Común,17
+327,4,Cruz Roja,17
+328,5,Itaipú,17
+329,6,Máquinas,17
+330,7,Mota,17
+331,8,Novedades,17
+332,9,Pedrito Monge,17
+333,10,Río,17
+334,11,Robles,17
+335,1,SAN RAFAEL ARRIBA centro,18
+336,2,Alpino,18
+337,3,Arco Iris,18
+338,4,Bambú,18
+339,5,Berlay,18
+340,6,Guaria,18
+341,7,Huaso (parte),18
+342,8,Juncales,18
+343,9,Lajas,18
+344,10,Macarena,18
+345,11,Maiquetía,18
+346,12,Méndez,18
+347,1,SAN ANTONIO centro,19
+348,2,Acacias,19
+349,3,Calle Amador,19
+350,4,Constancia,19
+351,5,Churuca,19
+352,6,Huetares,19
+353,7,Plazoleta,19
+354,8,Pueblo Nuevo,19
+355,9,Río Damas,19
+356,10,Rotondas,19
+357,11,Solar,19
+358,1,FRAILES centro,20
+359,2,Bajos de Tarrazú,20
+360,3,Bustamante,20
+361,4,Santa Elena (parte),20
+362,5,Violeta,20
+363,1,PATARRÁ centro,21
+364,2,Aguacate,21
+365,3,Balneario,21
+366,4,Don Bosco,21
+367,5,Guatuso,21
+368,6,Güízaro,21
+369,7,Jerusalén,21
+370,8,Lince,21
+371,9,Mesas,21
+372,10,Quebrada Honda,21
+373,11,Ticalpes (parte),21
+374,1,SAN CRISTÓBAL NORTE,22
+375,2,Empalme (parte),22
+376,3,Lucha (parte),22
+377,4,San Cristóbal Sur,22
+378,5,Sierra,22
+379,1,ROSARIO centro,23
+380,2,Bajo Tigre,23
+381,3,Chirogres,23
+382,4,Guadarrama,23
+383,5,Joya,23
+384,6,La Fila (parte),23
+385,7,Llano bonito,23
+386,8,Quebrada Honda,23
+387,9,Trinidad (parte),23
+388,1,FÁTIMA,24
+389,2,Cajita,24
+390,3,Dorado,24
+391,4,Dos Cercas,24
+392,5,Fomentera,24
+393,6,Nuestra Señora de la Esperanza,24
+394,7,San Lorenzo,24
+395,1,SAN RAFAEL ABAJO centro,25
+396,2,Ángeles,25
+397,3,Autofores,25
+398,4,Balboa,25
+399,5,Coopelot,25
+400,6,Gardenia,25
+401,7,Higuerones,25
+402,8,Leo,25
+403,9,Mónaco,25
+404,10,Sagitario,25
+405,11,Santa Cecilia,25
+406,12,Tejar (parte),25
+407,13,Treviso,25
+408,14,Unidas,25
+409,15,Valencia,25
+410,16,Vizcaya,25
+411,1,GRAVILIAS centro,26
+412,2,Cartonera,26
+413,3,Claveles,26
+414,4,Damasco,26
+415,5,Diamante,26
+416,6,Esmeraldas,26
+417,7,Fortuna,26
+418,8,Fortunita,26
+419,9,Porvenir,26
+420,10,Raya,26
+421,11,Riberalta,26
+422,12,Villanueva,26
+423,1,LOS GUIDO centro,27
+424,2,Letras,27
+425,3,Balcón Verde,27
+426,1,SANTIAGO centro,28
+427,2,Ángeles,28
+428,3,Buenos Aires,28
+429,4,Corazón de María,28
+430,5,Jarasal,28
+431,6,Junquillo Arriba,28
+432,7,Pueblo Nuevo,28
+433,8,San Isidro,28
+434,9,Bajo Badilla,28
+435,10,Bajo Moras,28
+436,11,Cañales Abajo,28
+437,12,Cañales Arriba,28
+438,13,Carit,28
+439,14,Charcón (parte),28
+440,15,Cirrí,28
+441,16,Junquillo Abajo,28
+442,17,Pozos,28
+443,18,San Francisco,28
+444,19,San Martín,28
+445,20,Zapote,28
+446,1,MERCEDES SUR centro,29
+447,2,Alto Palma,29
+448,3,Bajo Lanas,29
+449,4,Bajo Legua,29
+450,5,Bajo Legüita,29
+451,6,Bajo Quesada,29
+452,7,Bocana,29
+453,8,Carmona,29
+454,9,Cerbatana,29
+455,10,Charquillos,29
+456,11,Jilgueral,29
+457,12,Llano Grande,29
+458,13,Mercedes Norte,29
+459,14,Potenciana,29
+460,15,Quebrada Honda,29
+461,16,Quivel,29
+462,17,Rancho Largo,29
+463,18,Salitrales,29
+464,19,Santa Marta,29
+465,20,Túfares,29
+466,21,Tulín,29
+467,22,Víbora,29
+468,23,Zapotal,29
+469,1,BARBACOAS centro,30
+470,2,Alto Barbacoas,30
+471,3,Bajo Burgos,30
+472,4,Cortezal,30
+473,5,Guatuso,30
+474,6,Piedades,30
+475,7,San Juan,30
+476,1,GRIFO ALTO centro,31
+477,2,Cacao,31
+478,3,Cuesta Mora,31
+479,4,Grifo Bajo,31
+480,5,Poró,31
+481,6,Pueblo Nuevo,31
+482,7,Salitrillo,31
+483,1,SAN RAFAEL ARRIBA  ,32
+484,2,Bijagual,32
+485,3,Floralia,32
+486,4,Punta de Lanza,32
+487,5,San Rafael Abajo,32
+488,1,CANDELARITA centro,33
+489,2,Alto Cebadilla,33
+490,3,Bajo Chacones,33
+491,4,Copalar,33
+492,5,Pedernal,33
+493,6,Polca,33
+494,7,Sabanas,33
+495,1,DESAMPARADITOS centro,34
+496,2,Bajo Guevara,34
+497,3,Planta,34
+498,4,Rinconada,34
+499,1,SAN ANTONIO centro,35
+500,2,Bajo Herrera,35
+501,3,Calle Herrera,35
+502,4,Cruce Guanacaste,35
+503,5,Charcón (parte),35
+504,6,Estero,35
+505,7,Río Viejo,35
+506,8,Salitral,35
+507,9,Tinamaste,35
+508,1,CRISTO REY,36
+509,2,Alto Concepción,36
+510,3,Alto Pérez Astúa,36
+511,4,Ángeles,36
+512,5,Angostura (parte),36
+513,6,Arenal,36
+514,7,Bajo Chires,36
+515,8,Bajo de Guarumal,36
+516,9,Bajo el Rey,36
+517,10,Bajo Vega,36
+518,11,Cerdas,36
+519,12,Fila Aguacate,36
+520,13,Gamalotillo 1 (Colonia),36
+521,14,Gamalotillo 2 (Gamalotillo),36
+522,15,Gamalotillo 3 (Tierra Fértil),36
+523,16,Gloria,36
+524,17,Guarumal,36
+525,18,Guarumalito,36
+526,19,Mastatal,36
+527,20,Pericos,36
+528,21,Río Negro (parte),36
+529,22,San Miguel,36
+530,23,San Vicente,36
+531,24,Santa Rosa,36
+532,25,Vista de Mar,36
+533,26,Zapatón,36
+534,1,SAN MARCOS centro,37
+535,2,Corea,37
+536,3,I Griega,37
+537,4,Las Tres Marías,37
+538,5,Santa Cecilia,37
+539,6,Rodeo,37
+540,7,Sitio,37
+541,8,Alto Pastora,37
+542,9,Bajo Canet,37
+543,10,Bajo San Juan,37
+544,11,Canet,37
+545,12,Cedral (parte),37
+546,13,Guadalupe,37
+547,14,Llano Piedra,37
+548,15,San Cayetano,37
+549,16,San Guillermo,37
+550,17,Sabana (parte),37
+551,18,San Pedro,37
+552,1,SAN LORENZO centro,38
+553,2,Alto Guarumal,38
+554,3,Alto Portal,38
+555,4,Alto Zapotal,38
+556,5,Ardilla,38
+557,6,Bajo Quebrada Honda,38
+558,7,Bajo Reyes,38
+559,8,Bajo Zapotal,38
+560,9,Cerro Nara,38
+561,10,Concepción,38
+562,11,Chilamate,38
+563,12,Delicias,38
+564,13,Esperanza,38
+565,14,Esquipulas,38
+566,15,La Pacaya,38
+567,16,Las Pavas,38
+568,17,Mata de Caña,38
+569,18,Miramar,38
+570,19,Nápoles,38
+571,20,Naranjillo,38
+572,21,Palma,38
+573,22,Quebrada Arroyo,38
+574,23,Rodeo,38
+575,24,Sabana (parte),38
+576,25,Salado,38
+577,26,San Bernardo,38
+578,27,San Francisco,38
+579,28,San Martín,38
+580,29,Santa Cecilia,38
+581,30,Santa Marta,38
+582,31,Santa Rosa,38
+583,32,Zapotal,38
+584,1,SAN CARLOS centro,39
+585,2,Alto Chiral,39
+586,3,San Juan (Alto San Juan),39
+587,4,Bajo Jénaro,39
+588,5,Bajo San José,39
+589,6,Jamaica,39
+590,7,Quebrada Seca (Santa Ana),39
+591,8,San Jerónimo,39
+592,9,San Josecito,39
+593,1,ASERRÍ centro,40
+594,2,Alfonso XIII,40
+595,3,Barro,40
+596,4,Cinco Esquinas (parte),40
+597,5,Corazón de Jesús,40
+598,6,Guapinol,40
+599,7,Las Mercedes,40
+600,8,Lomas de Aserrí,40
+601,9,Lourdes,40
+602,10,María Auxiliadora,40
+603,11,Mesas,40
+604,12,Poás,40
+605,13,Santa Rita,40
+606,14,Sáurez,40
+607,15,Tres Marías,40
+608,16,Vereda,40
+609,17,Guatuso,40
+610,18,Mirador,40
+611,1,TARBACA centro,41
+612,2,Bajos de Praga,41
+613,3,Máquina Vieja,41
+614,4,Tigre,41
+615,1,VUELTA DE JORCO centro,42
+616,2,Calvario,42
+617,3,Ceiba Alta (parte),42
+618,4,Jocotal,42
+619,5,Legua de Naranjo,42
+620,6,Mangos,42
+621,7,Meseta,42
+622,8,Monte Redondo,42
+623,9,Ojo de Agua,42
+624,10,Rosalía,42
+625,11,Uruca,42
+626,1,SAN GABRIEL centro,43
+627,2,Pueblo Nuevo,43
+628,3,La Fila (parte),43
+629,4,Limonal,43
+630,5,Los Solano,43
+631,6,Rancho Grande,43
+632,7,Salitral,43
+633,8,Tranquerillas,43
+634,9,Trinidad (parte),43
+635,10,Villanueva,43
+636,1,LEGUA centro,44
+637,2,Alto Buenavista,44
+638,3,Altos del Aguacate,44
+639,4,Bajo Bijagual,44
+640,5,Bajo Máquinas,44
+641,6,Bajo Venegas (parte),44
+642,7,Carmen (parte),44
+643,1,MONTERREY centro,45
+644,2,Ojo de Agua (parte),45
+645,3,Portuguez,45
+646,1,SALITRILLOS centro,46
+647,2,Cinco Esquinas (parte),46
+648,3,Santa Teresita,46
+649,4,Cerro,46
+650,5,Cuesta Grande,46
+651,6,Guinealillo,46
+652,7,Huaso (parte),46
+653,8,Lagunillas,46
+654,9,Palo Blanco,46
+655,10,Quebradas,46
+656,11,Rincón,46
+657,1,COLÓN centro,47
+658,2,Alhambra,47
+659,3,Brasil,47
+660,4,Carreras,47
+661,5,Colonia del Prado,47
+662,6,Michoacán,47
+663,7,Nuevo Brasil,47
+664,8,Piñal,47
+665,9,San Bosco,47
+666,10,San Vicente,47
+667,11,Tablera,47
+668,12,Cabriola,47
+669,13,Cedral ,47
+670,14,Cuesta Achiotal ,47
+671,15,Llano León,47
+672,16,Llano Limón,47
+673,17,Quebrada Honda,47
+674,18,Rodeo,47
+675,19,Santísima Trinidad,47
+676,20,Ticufres,47
+677,1,GUAYABO centro,48
+678,2,Bajo Claras,48
+679,3,Bajo Morado,48
+680,4,Corrogres,48
+681,5,Monte Negro,48
+682,1,TABARCIA centro,49
+683,2,Bajo Bustamante,49
+684,3,Bajo Lima,49
+685,4,Bajo Loaiza,49
+686,5,Cañas,49
+687,6,Corralar,49
+688,7,Morado,49
+689,8,Piedras Blancas,49
+690,9,Salto,49
+691,1,PIEDRAS NEGRAS centro,50
+692,2,Chile,50
+693,3,Danta,50
+694,4,Palma,50
+695,5,Quebrada Grande,50
+696,1,PICAGRES centro,51
+697,2,Cordel,51
+698,3,Chucás,51
+699,4,Jateo,51
+700,5,Llano Grande,51
+701,6,Monte Frío (Potrerillos),51
+702,1,JARIS centro,52
+703,2,Pito,52
+704,1,QUITIRRISÍ centro,53
+705,2,San Juan,53
+706,3,San Martín,53
+707,4,Quebrada Honda,53
+708,1,GUADALUPE centro,54
+709,2,Árboles,54
+710,3,Colonia del Río,54
+711,4,El Alto (parte),54
+712,5,Fátima,54
+713,6,Independencia,54
+714,7,Jardín,54
+715,8,Magnolia,54
+716,9,Maravilla,54
+717,10,Margarita,54
+718,11,Minerva,54
+719,12,Moreno Cañas,54
+720,13,Orquídea,54
+721,14,Pilar Jiménez,54
+722,15,Rothe,54
+723,16,San Gerardo,54
+724,17,Santa Cecilia,54
+725,18,Santa Eduvigis,54
+726,19,Santo Cristo,54
+727,20,Unión,54
+728,21,Yurusti,54
+729,1,SAN FRANCISCO centro,55
+730,2,Carlos María Ulloa,55
+731,3,Tournón,55
+732,1,CALLE BLANCOS centro,56
+733,2,Ciprés,56
+734,3,Encanto,56
+735,4,Esquivel Bonilla,56
+736,5,Montelimar,56
+737,6,Pinos,56
+738,7,San Antonio,56
+739,8,San Gabriel,56
+740,9,Santo Tomás,56
+741,10,Volio,56
+742,1,MATA DE PLÁTANO centro,57
+743,2,Bruncas,57
+744,3,Carmen,57
+745,4,Claraval,57
+746,5,Cruz,57
+747,6,Cuesta Grande (parte),57
+748,7,Estéfana (parte),57
+749,8,Hortensias,57
+750,9,Jaboncillal,57
+751,10,Jardines de la Paz,57
+752,11,Lourdes,57
+753,12,Praderas,57
+754,13,Tepeyac,57
+755,14,Térraba,57
+756,15,Villalta,57
+757,16,Villaverde,57
+758,17,Vista del Valle,57
+759,1,IPÍS centro,58
+760,2,Ángeles,58
+761,3,El Alto (parte),58
+762,4,Floresta,58
+763,5,Korobó,58
+764,6,La Mora,58
+765,7,Morita,58
+766,8,Mozotal,58
+767,9,Nazareno,58
+768,10,Orquídea,58
+769,11,Rodrigo Facio,58
+770,12,Santa Clara (parte),58
+771,13,Setillal,58
+772,14,Vista del Monte,58
+773,1,RANCHO REDONDO centro,59
+774,2,Mirador ,59
+775,3,Corralillo,59
+776,4,Guayabillos,59
+777,5,Isla,59
+778,6,San Miguel,59
+779,7,Vista de Mar,59
+780,1,PURRAL centro,60
+781,2,Ana Frank,61
+782,3,Castores,60
+783,4,Cuadros,60
+784,5,Don Carlos,60
+785,6,El Alto (parte),60
+786,7,Flor de Liz,60
+787,8,Kurú,60
+788,9,Lomas de Tepeyac,60
+789,10,Lupita,60
+790,11,Montesol,60
+791,12,Nogales,60
+792,13,Pueblo,60
+793,14,Violetas,60
+794,1,SANTA ANA centro,62
+795,2,Aguas Lindas,62
+796,3,Cabañas,62
+797,4,Casa Blanca,62
+798,5,Lajas (parte),62
+799,6,Obando,62
+800,7,Paso Machete (parte),62
+801,8,San Rafael,62
+802,9,Corrogres,62
+803,10,Pilas,62
+804,1,SALITRAL centro,63
+805,2,Paso Machete (parte),63
+806,3,Robalillo,63
+807,4,Alto Raicero,63
+808,5,Chirracal,63
+809,6,Matinilla,63
+810,7,Pabellón,63
+811,8,Perico,63
+812,1,POZOS centro,64
+813,2,Alto Palomas,64
+814,3,Concepción,64
+815,4,Cuevas,64
+816,5,Chispa,64
+817,6,Gavilanes,64
+818,7,Honduras,64
+819,8,Lajas (parte),64
+820,9,Lindora,64
+821,10,Manantial,64
+822,11,Real de Pereira (parte),64
+823,12,Valle del sol,64
+824,1,RÍO ORO,65
+825,2,Chimba,65
+826,3,Guapinol,65
+827,4,Mata Grande,65
+828,5,Mina,65
+829,6,Paso Machete (parte),65
+830,7,Río Uruca,65
+831,1,PIEDADES centro,66
+832,2,Caraña,66
+833,3,Cebadilla,66
+834,4,Finquitas,66
+835,5,Montaña del Sol,66
+836,6,Rincón San Marcos,66
+837,7,Triunfo,66
+838,1,BRASIL centro,67
+839,2,Canjel,67
+840,3,Copey,67
+841,1,ALAJUELITA centro,68
+842,2,Bellavista,68
+843,3,Chorotega,68
+844,4,Lagunilla,68
+845,5,Macha,68
+846,6,Madrigal,68
+847,1,SAN JOSECITO centro,69
+848,2,Aguilar Machado,69
+849,3,Cochea,69
+850,4,El Alto,69
+851,5,Faro del Suroeste,69
+852,6,Filtros,69
+853,7,Pueblo Escondido,69
+854,8,Vistas de Alajuelita,69
+855,1,SAN ANTONIO centro,70
+856,2,Caracas,70
+857,3,Cascabela,70
+858,4,Llano,70
+859,5,Piedra de fuego,70
+860,6,Lámparas,70
+861,1,CONCEPCIÓN centro,71
+862,2,Almendros,71
+863,3,Boca del Monte,71
+864,4,Chirivico,71
+865,5,Monte Alto,71
+866,6,Once de Abril,71
+867,7,Progreso,71
+868,8,Tejar (parte),71
+869,9,Vista de San José,71
+870,10,Vista Real,71
+871,1,SAN FELIPE centro,72
+872,2,Aurora,72
+873,3,Corina Rodríguez,72
+874,4,Esquipulas Dos,72
+875,5,La Guápil,72
+876,6,Peralta,72
+877,7,Verbena,72
+878,8,Palo Campano,72
+879,1,SAN ISIDRO centro,73
+880,2,Alamos,73
+881,3,Alpes,73
+882,4,Arias,73
+883,5,Brisa,73
+884,6,Cedros,73
+885,7,Corazón de Jesús,73
+886,8,Durazno,73
+887,9,Girasoles (parte),73
+888,10,Huacas,73
+889,11,Magnolias,73
+890,12,Mercedes,73
+891,13,Monte Azul,73
+892,14,San Francisco,73
+893,15,San Martín,73
+894,16,Villa Solidarista,73
+895,1,SAN RAFAEL centro,74
+896,2,Fanguillo,74
+897,3,I Griega,74
+898,4,Loma Bonita,74
+899,5,Nubes,74
+900,6,Patio de Agua,74
+901,7,Villa Emaus,74
+902,1,DULCE NOMBRE DE JESÚS centro,75
+903,2,Calera,75
+904,3,Carmen,75
+905,4,Gemelas,75
+906,5,Josué,75
+907,6,Manzanos,75
+908,7,Murtal,75
+909,8,Sitrae,75
+910,9,Valle Felíz,75
+911,10,Alto Palma (parte),75
+912,11,Platanares,75
+913,12,Rodeo (parte),75
+914,1,SAN ANTONIO,76
+915,2,Cornelia,76
+916,3,Girasoles (parte),76
+917,4,Horizontes,76
+918,5,Irazú,76
+919,6,Jardines,76
+920,7,Labrador,76
+921,8,Patalillo,76
+922,9,Santa Marta,76
+923,10,Trapiche,76
+924,11,Villalinda,76
+925,12,Villanova,76
+926,1,SAN PEDRO,77
+927,2,Avilés,77
+928,3,Cerro Indio,77
+929,4,Guaba,77
+930,5,Rojizo,77
+931,6,Sinaí,77
+932,7,Canoa,77
+933,8,Cascajal,77
+934,9,Choco,77
+935,10,Isla,77
+936,11,Monserrat,77
+937,12,Patillos,77
+938,13,Rodeo (parte),77
+939,14,Santa Rita de Casia,77
+940,15,Tierras Morenas,77
+941,16,Vegas de Cajón,77
+942,17,Venita,77
+943,1,SAN IGNACIO centro,78
+944,2,Abarca,78
+945,3,Corral,78
+946,4,María Auxiliadora,78
+947,5,Ortiga,78
+948,6,Pozos,78
+949,7,San Martín (San Gerardo),78
+950,8,San Luis,78
+951,9,Turrujal,78
+952,10,Vereda,78
+953,11,Aguablanca (parte),78
+954,12,Alto Escalera,78
+955,13,Alto Los Mora,78
+956,14,Ángeles,78
+957,15,Chirraca (parte),78
+958,16,Esperanza,78
+959,17,Potrerillos,78
+960,18,Resbalón,78
+961,19,Tablazo,78
+962,1,GUAITIL centro,79
+963,2,Alto Sierra,79
+964,3,Alto Vigía,79
+965,4,Bajo Arias,79
+966,5,Bajo Bermúdez,79
+967,6,Bajo Calvo,79
+968,7,Bajo Cárdenas,79
+969,8,Bajo Moras,79
+970,9,Coyolar,79
+971,10,Hondonada,79
+972,11,La Cruz,79
+973,12,Lagunillas (parte),79
+974,13,Ococa,79
+975,14,Toledo,79
+976,15,Zapote,79
+977,1,PALMICHAL centro,80
+978,2,San Pablo,80
+979,3,Agua Blanca (parte),80
+980,4,Bajo Cerdas,80
+981,5,Bajos de Jorco,80
+982,6,Bolívar,80
+983,7,Cañadas,80
+984,8,Caragral,80
+985,9,Corazón de Jesús,80
+986,10,Charcalillo,80
+987,11,Chirraca (parte),80
+988,12,Fila,80
+989,13,Jaular,80
+990,14,Lagunillas (parte),80
+991,15,La Mina,80
+992,16,La Pita,80
+993,17,Los Monge,80
+994,18,Playa,80
+995,20,Sevilla,80
+996,1,CANGREJAL centro,81
+997,2,Bajo Los Cruces,81
+998,3,Ceiba Alta (parte),81
+999,4,Ceiba Baja,81
+1000,5,Ceiba Este,81
+1001,6,Escuadra,81
+1002,7,Gravilias,81
+1003,8,Lindavista,81
+1004,9,Llano Bonito,81
+1005,10,Mesa,81
+1006,11,Naranjal,81
+1007,12,Perpetuo Socorro,81
+1008,13,Tejar,81
+1009,14,Tiquires,81
+1010,1,SABANILLAS centro,82
+1011,2,Alto Parritón,82
+1012,3,Bajo Palma,82
+1013,4,Bajo Pérez,82
+1014,5,Bijagual,82
+1015,6,Breñón,82
+1016,7,Caspirola,82
+1017,8,Colorado,82
+1018,9,Cuesta Aguacate,82
+1019,10,Limas,82
+1020,11,Parritón,82
+1021,12,Plomo,82
+1022,13,Sabanas,82
+1023,14,San Jerónimo,82
+1024,15,Soledad,82
+1025,16,Téruel,82
+1026,17,Tiquiritos,82
+1027,18,Uruca,82
+1028,19,Zoncuano,82
+1029,1,SAN JUAN centro,83
+1030,2,Acacias,83
+1031,3,Arboleda,83
+1032,4,Asturias,83
+1033,5,Estudiantes,83
+1034,6,Florida,83
+1035,7,González Truque,83
+1036,8,Jesús Jiménez Zamora,83
+1037,9,Lindavista,83
+1038,10,Rosas,83
+1039,11,San Jerónimo,83
+1040,12,Santa Eduvigis,83
+1041,13,Valle,83
+1042,14,Versalles,83
+1043,15,Villafranca,83
+1044,16,Virginia,83
+1045,1,CINCO ESQUINAS centro,84
+1046,2,Bajo Piuses,84
+1047,3,Copey,84
+1048,4,Leiva Urcuyo,84
+1049,5,Lilas,84
+1050,6,Lomas del Pinar,84
+1051,7,Montecarlo,84
+1052,8,Santa Teresa,84
+1053,1,ANSELMO LLORENTE centro,85
+1054,2,Apolo,85
+1055,3,Dalia,85
+1056,4,Estancia,85
+1057,5,Fletcher,85
+1058,6,Franjo,85
+1059,7,Jardines de Tibás,85
+1060,8,Jardines La Trinidad,85
+1061,9,Monterreal,85
+1062,10,Palmeras,85
+1063,11,Santa Mónica,85
+1064,12,Talamanca,85
+1065,13,Vergel,85
+1066,1,LEÓN XIII CENTRO,86
+1067,2,Doña Fabiola,86
+1068,3,Garabito,86
+1069,1,COLIMA centro,87
+1070,2,Anselmo Alvarado,87
+1071,3,Balsa,87
+1072,4,Cuatro Reinas,87
+1073,5,Orquídeas,87
+1074,6,Rey,87
+1075,7,San Agustín,87
+1076,1,SAN VICENTE centro,88
+1077,2,Alondra,88
+1078,3,Americano,88
+1079,4,Américas,88
+1080,5,Bajo Isla,88
+1081,6,Bajo Varelas,88
+1082,7,Barro de Olla,88
+1083,8,Caragua,88
+1084,9,Carmen,88
+1085,10,Colegios,88
+1086,11,Colegios Norte,88
+1087,12,Chaves,88
+1088,13,El Alto (parte),88
+1089,14,Flor,88
+1090,15,Florencia,88
+1091,16,Guaria,88
+1092,17,Guaria Oriental,88
+1093,18,Isla,88
+1094,19,Jardines de Moravia,88
+1095,20,La Casa,88
+1096,21,Ladrillera,88
+1097,22,Robles,88
+1098,23,Romeral,88
+1099,24,Sagrado Corazón,88
+1100,25,San Blas,88
+1101,26,San Jorge,88
+1102,27,San Martín,88
+1103,28,San Rafael,88
+1104,29,Santa Clara (parte),88
+1105,30,Santo Tomás,88
+1106,31,Saprissa,88
+1107,1,SAN JERÓNIMO centro,89
+1108,2,Alto Palma (parte),89
+1109,3,Platanares,89
+1110,4,Tornillal,89
+1111,5,Torre,89
+1112,1,LA TRINIDAD centro (Guayabal),90
+1113,2,Altos de Trinidad,90
+1114,3,Cipreses,90
+1115,4,Colonia,90
+1116,5,Moral,90
+1117,6,Níspero,90
+1118,7,Rosal,90
+1119,8,Ruano,90
+1120,9,Sitios,90
+1121,10,Tanques,90
+1122,11,Virilla,90
+1123,1,SAN PEDRO centro,91
+1124,2,Alhambra,91
+1125,3,Azáleas,91
+1126,4,Carmiol,91
+1127,5,Cedral,91
+1128,6,Dent (parte),91
+1129,7,Francisco Peralta (parte),91
+1130,8,Fuentes,91
+1131,9,Granja,91
+1132,10,Kezia,91
+1133,11,Lourdes,91
+1134,12,Monterrey,91
+1135,13,Nadori,91
+1136,14,Oriente,91
+1137,15,Pinto,91
+1138,16,Prados del Este,91
+1139,17,Roosevelt,91
+1140,18,San Gerardo (parte),91
+1141,19,Santa Marta,91
+1142,20,Saprissa,91
+1143,21,Vargas Araya,91
+1144,22,Yoses,91
+1145,1,SABANILLA centro,92
+1146,2,Arboleda,92
+1147,3,Bloquera,92
+1148,4,Cedros,92
+1149,5,El Cristo (parte),92
+1150,6,Españolita,92
+1151,7,Luciana,92
+1152,8,Marsella,92
+1153,9,Maravilla,92
+1154,10,Rodeo,92
+1155,11,Rosales,92
+1156,12,San Marino,92
+1157,1,BETANIA,93
+1158,2,Alma Máter,93
+1159,3,Damiana,93
+1160,4,Dent (parte),93
+1161,5,Guaymí,93
+1162,6,Paso Hondo,93
+1163,7,Paulina,93
+1164,1,SAN RAFAEL centro,94
+1165,2,Alameda,94
+1166,3,Andrómeda,94
+1167,4,Begonia,94
+1168,5,Cuesta Grande (parte),94
+1169,6,El Cristo (parte),94
+1170,7,Estéfana (parte),94
+1171,8,Europa,94
+1172,9,Liburgia,94
+1173,10,Mansiones (parte),94
+1174,11,Maruz,94
+1175,12,Salitrillos,94
+1176,1,SAN PABLO centro,95
+1177,2,Alto Poró,95
+1178,3,Bolsón,95
+1179,4,Purires,95
+1180,1,SAN PEDRO centro,96
+1181,2,Alto Limón,96
+1182,3,Florecilla,96
+1183,4,Limón,96
+1184,5,Palmar,96
+1185,6,Pita Villa Colina,96
+1186,1,SAN JUAN DE MATA centro (Llano Bonito),97
+1187,2,Bajo Laguna,97
+1188,3,El Barro,97
+1189,4,Molenillo,97
+1190,5,Paso Agres,97
+1191,6,Surtubal,97
+1192,7,Tronco Negro,97
+1193,1,SAN LUIS centro,98
+1194,2,Pital,98
+1195,3,Potenciana Arriba,98
+1196,4,Quebrada Azul,98
+1197,5,San Francisco,98
+1198,6,San Rafael,98
+1199,1,BIJAGUAL,99
+1200,2,Alto Espavel,99
+1201,3,Angostura (parte),99
+1202,4,Bijagualito,99
+1203,5,Bola,99
+1204,6,Carara,99
+1205,7,Cima,99
+1206,8,Delicias,99
+1207,9,El Sur,99
+1208,10,Esperanza,99
+1209,11,Fila Negra,99
+1210,12,Galán,99
+1211,13,La Trampa,99
+1212,14,Lajas,99
+1213,15,Mata de Platano,99
+1214,16,Montelimar,99
+1215,17,Pacayal,99
+1216,18,Pavona,99
+1217,19,Quina,99
+1218,20,Río Negro,99
+1219,21,Río Seco,99
+1220,22,San Francisco,99
+1221,23,San Gabriel,99
+1222,24,San Isidro,99
+1223,25,San Jerónimo,99
+1224,26,Tulín,99
+1225,1,SANTA MARÍA centro,100
+1226,2,Bandera,100
+1227,3,Higueronal,100
+1228,4,Llano,100
+1229,5,Nubes,100
+1230,6,San Rafael,100
+1231,7,Botella,100
+1232,8,Cedral,100
+1233,9,Guaria,100
+1234,10,Naranjo,100
+1235,11,Quebrada Grande (parte),100
+1236,12,Reyes,100
+1237,13,San Joaquín,100
+1238,14,San Lucas,100
+1239,15,Sukia,100
+1240,16,Vapor,100
+1241,1,JARDÍN centro,101
+1242,2,Cabeceras de Tarrazú,101
+1243,3,Chonta (parte),101
+1244,4,Quebradillas,101
+1245,1,COPEY centro,102
+1246,2,Bernardo Ureña,102
+1247,3,Alto Cañazo,102
+1248,4,Alto indio,102
+1249,5,Alto Miramar,102
+1250,6,Cañón (parte),102
+1251,7,Cima,102
+1252,8,Cruce Chinchilla,102
+1253,9,Florida,102
+1254,10,Garrafa,102
+1255,11,Jaboncillo,102
+1256,12,Madreselva,102
+1257,13,Ojo de Agua (parte),102
+1258,14,Paso Macho (parte),102
+1259,15,Pedregoso,102
+1260,16,Providencia,102
+1261,17,Quebrada Grande (parte),102
+1262,18,Quebrador,102
+1263,19,Río Blanco,102
+1264,20,Salsipuedes (parte),102
+1265,21,San Carlos,102
+1266,22,San Gerardo,102
+1267,23,Trinidad,102
+1268,24,Vueltas,102
+1269,1,CURRIDABAT centro,103
+1270,2,Ahogados (parte),103
+1271,3,Aromático,103
+1272,4,Cipreses,103
+1273,5,Chapultepec,103
+1274,6,Dorados,103
+1275,7,Guayabos,103
+1276,8,Hacienda Vieja,103
+1277,9,Hogar,103
+1278,10,José María Zeledón,103
+1279,11,Laguna,103
+1280,12,La Lía,103
+1281,13,Mallorca,103
+1282,14,María Auxiliadora,103
+1283,15,Miramontes,103
+1284,16,Nopalera,103
+1285,17,Plaza del Sol,103
+1286,18,Prado,103
+1287,19,San José,103
+1288,20,Santa Cecilia,103
+1289,21,Tacaco,103
+1290,1,GRANADILLA centro,104
+1291,2,Biarquiria,104
+1292,3,Eucalipto,104
+1293,4,Freses,104
+1294,5,Granadilla Norte,104
+1295,6,Granadilla Sur,104
+1296,7,Montaña Rusa (parte),104
+1297,1,SÁNCHEZ centro,105
+1298,2,Araucauria (parte),105
+1299,3,Lomas de Ayarco,105
+1300,4,Pinares,105
+1301,1,TIRRASES centro,106
+1302,2,Colina,106
+1303,3,Lomas de San Pancracio,106
+1304,4,Ponderosa,106
+1305,5,Quince de Agosto,106
+1306,1,SAN ISIDRO DE EL GENERAL centro,107
+1307,2,Aeropuerto,107
+1308,3,Alto Alonso,107
+1309,4,Boruca,107
+1310,5,Boston,107
+1311,6,Cementerio,107
+1312,7,Cooperativa,107
+1313,8,Cristo Rey,107
+1314,9,Doce de Marzo,107
+1315,10,Dorotea,107
+1316,11,Durán Picado,107
+1317,12,España,107
+1318,13,Estadio,107
+1319,14,Evans Gordon Wilson,107
+1320,15,González,107
+1321,16,Hospital,107
+1322,17,Hoyón,107
+1323,18,I Griega,107
+1324,19,Las Américas,107
+1325,20,Lomas de Cocorí,107
+1326,21,Luis Monge,107
+1327,22,Morazán,107
+1328,23,Pavones,107
+1329,24,Pedregoso,107
+1330,25,Pocito,107
+1331,26,Prado,107
+1332,27,Romero,107
+1333,28,Sagrada Familia,107
+1334,29,San Andrés,107
+1335,30,San Luis,107
+1336,31,San Rafael Sur,107
+1337,32,San Vicente,107
+1338,33,Santa Cecilia,107
+1339,34,Sinaí,107
+1340,35,Tierra Prometida,107
+1341,36,Tormenta,107
+1342,37,Unesco,107
+1343,38,Valverde,107
+1344,39,Alto Ceibo,107
+1345,40,Alto Huacas,107
+1346,41,Alto Sajaral,107
+1347,42,Alto San Juan,107
+1348,43,Alto Tumbas,107
+1349,44,Angostura,107
+1350,45,Bajo Ceibo,107
+1351,46,Bajo Esperanzas,107
+1352,47,Bajo Mora,107
+1353,48,Bijaguales,107
+1354,49,Bocana,107
+1355,50,Bonita,107
+1356,51,Ceibo,107
+1357,52,Ceniza,107
+1358,53,Dorado,107
+1359,54,Esperanzas,107
+1360,55,Guadalupe,107
+1361,56,Guaria,107
+1362,57,Higuerones,107
+1363,58,Jilguero,107
+1364,59,Jilguero Sur,107
+1365,60,Los Guayabos,107
+1366,61,María Auxiliadora,107
+1367,62,Miravalles,107
+1368,63,Morete,107
+1369,64,Ojo de Agua,107
+1370,65,Ocho de Diciembre,107
+1371,66,Pacuarito,107
+1372,67,Palma,107
+1373,68,Paso Beita,107
+1374,69,Paso Lagarto,107
+1375,70,Quebrada Honda (parte),107
+1376,71,Quebrada Vueltas,107
+1377,72,Quebradas,107
+1378,73,Roble,107
+1379,74,Rosario,107
+1380,75,San Agustín,107
+1381,76,San Jorge,107
+1382,77,San Juan de Miramar,107
+1383,78,San Lorenzo,107
+1384,79,San Rafael Norte,107
+1385,80,Santa Fé,107
+1386,81,Santa Marta,107
+1387,82,Suiza (parte),107
+1388,83,Tajo,107
+1389,84,Toledo,107
+1390,85,Tronconales,107
+1391,86,Tuis,107
+1392,87,Villanueva,107
+1393,1,GENERAL VIEJO,108
+1394,2,Arepa,108
+1395,3,Carmen,108
+1396,4,Chanchos,108
+1397,5,Hermosa,108
+1398,6,Linda,108
+1399,7,Linda Arriba,108
+1400,8,Miraflores,108
+1401,9,Paraíso de la Tierra,108
+1402,10,Peñas Blancas,108
+1403,11,Quizarrá (parte),108
+1404,12,San Blas,108
+1405,13,San Luis,108
+1406,14,Santa Cruz,108
+1407,15,Santa Elena,108
+1408,16,Trinidad,108
+1409,1,PALMARES,109
+1410,2,Alto Brisas,109
+1411,3,Ángeles,109
+1412,4,Aurora,109
+1413,5,Chiles,109
+1414,6,Crematorio,109
+1415,7,Daniel Flores,109
+1416,8,Laboratorio,109
+1417,9,Los Pinos,109
+1418,10,Loma Verde,109
+1419,11,Lourdes,109
+1420,12,Rosas,109
+1421,13,Rosa Iris,109
+1422,14,San Francisco,109
+1423,15,Santa Margarita,109
+1424,16,Trocha,109
+1425,17,Villa Ligia,109
+1426,18,Aguas Buenas (parte),109
+1427,19,Bajos de Pacuar,109
+1428,20,Concepción (parte),109
+1429,21,Corazón de Jesús,109
+1430,22,Juntas de Pacuar,109
+1431,23,Paso Bote,109
+1432,24,Patio de Agua,109
+1433,25,Peje,109
+1434,26,Percal,109
+1435,27,Pinar del Río,109
+1436,28,Quebrada Honda (parte),109
+1437,29,Repunta,109
+1438,30,Reyes,109
+1439,31,Ribera,109
+1440,32,Suiza (parte),109
+1441,1,RIVAS centro,110
+1442,2,Linda Vista,110
+1443,3,Lourdes,110
+1444,4,Alaska,110
+1445,5,Altamira,110
+1446,6,Alto Jaular,110
+1447,7,Ángeles,110
+1448,8,Boquete,110
+1449,9,Buenavista,110
+1450,10,Canaán,110
+1451,11,Chimirol,110
+1452,12,Chispa,110
+1453,13,Chuma,110
+1454,14,División (parte),110
+1455,15,Guadalupe,110
+1456,16,Herradura,110
+1457,17,La Bambú,110
+1458,18,Los Monges,110
+1459,19,Monterrey,110
+1460,20,Palmital,110
+1461,21,Piedra Alta,110
+1462,22,Playa Quesada,110
+1463,23,Playas,110
+1464,24,Pueblo Nuevo,110
+1465,25,Río Blanco,110
+1466,26,San Antonio,110
+1467,27,San Gerardo,110
+1468,28,San José,110
+1469,29,San Juan Norte,110
+1470,30,Siberia (parte),110
+1471,31,Tirrá,110
+1472,32,Zapotal,110
+1473,1,SAN PEDRO centro,111
+1474,2,Cruz Roja,111
+1475,3,Arenilla (Junta),111
+1476,4,Alto Calderón,111
+1477,5,Cedral (parte),111
+1478,6,Fátima,111
+1479,7,Fortuna,111
+1480,8,Guaria,111
+1481,9,Laguna,111
+1482,10,Rinconada Vega,111
+1483,11,San Jerónimo,111
+1484,12,San Juan,111
+1485,13,San Juancito,111
+1486,14,San Rafael,111
+1487,15,Santa Ana,111
+1488,16,Santo Domingo,111
+1489,17,Tambor,111
+1490,18,Unión,111
+1491,19,Zapotal,111
+1492,1,SAN RAFAEL ,112
+1493,2,Aguas Buenas (parte),112
+1494,3,Bajo Bonitas,112
+1495,4,Bajo Espinoza,112
+1496,5,Bolivia,112
+1497,6,Bonitas,112
+1498,7,Buenos Aires,112
+1499,8,Concepción (parte),112
+1500,9,Cristo Rey,112
+1501,10,La Sierra,112
+1502,11,Lourdes,112
+1503,12,Mastatal,112
+1504,13,Mollejoncito,112
+1505,14,Mollejones,112
+1506,15,Naranjos,112
+1507,16,San Pablito,112
+1508,17,San Pablo,112
+1509,18,Socorro,112
+1510,19,Surtubal (parte),112
+1511,20,Villa Argentina,112
+1512,21,Villa Flor,112
+1513,22,Vista de Mar,112
+1514,1,PEJIBAYE centro,113
+1515,2,Achiotal,113
+1516,3,Aguila,113
+1517,4,Alto Trinidad (Puñal),113
+1518,5,Bajo Caliente,113
+1519,6,Bajo Minas,113
+1520,7,Barrionuevo,113
+1521,8,Bellavista,113
+1522,9,Calientillo,113
+1523,10,Delicias,113
+1524,11,Desamparados,113
+1525,12,El Progreso,113
+1526,13,Gibre,113
+1527,14,Guadalupe,113
+1528,15,Las Cruces,113
+1529,16,Mesas,113
+1530,17,Minas,113
+1531,18,Paraiso,113
+1532,19,San Antonio,113
+1533,20,San Marcos,113
+1534,21,San Martín,113
+1535,22,San Miguel,113
+1536,23,Santa Fe,113
+1537,24,Surtubal (parte),113
+1538,25,Trinidad,113
+1539,26,Veracruz,113
+1540,27,Zapote,113
+1541,1,CAJÓN centro,114
+1542,2,Cedral (parte),114
+1543,3,El Quemado,114
+1544,4,Gloria,114
+1545,5,Las Brisas,114
+1546,6,Las Vegas,114
+1547,7,Mercedes,114
+1548,8,Montecarlo,114
+1549,9,Navajuelar,114
+1550,10,Nubes,114
+1551,11,Paraíso,114
+1552,12,Pilar,114
+1553,13,Pueblo Nuevo,114
+1554,14,Quizarrá (parte),114
+1555,15,Salitrales,114
+1556,16,San Francisco,114
+1557,17,San Ignacio,114
+1558,18,San Pedrito,114
+1559,19,Santa María,114
+1560,20,Santa Teresa,114
+1561,1,PLATANILLO,115
+1562,2,Alfombra,115
+1563,3,Alto Perla,115
+1564,4,Bajos,115
+1565,5,Bajos de Zapotal,115
+1566,6,Barú,115
+1567,7,Barucito,115
+1568,8,Cacao,115
+1569,9,Camarones,115
+1570,10,Cañablanca,115
+1571,11,Ceiba,115
+1572,12,Chontales,115
+1573,13,Farallas,115
+1574,14,Florida,115
+1575,15,San Juan de Dios (Guabo),115
+1576,16,Líbano,115
+1577,17,Magnolia,115
+1578,18,Pozos,115
+1579,19,Reina,115
+1580,20,San Marcos,115
+1581,21,San Salvador,115
+1582,22,Santa Juana,115
+1583,23,Santo Cristo,115
+1584,24,Tinamaste (San Cristobal),115
+1585,25,Torito,115
+1586,26,Tres Piedras (parte),115
+1587,27,Tumbas,115
+1588,28,Villabonita Vista Mar,115
+1589,1,SANTA ROSA  ,116
+1590,2,Alto Mena,116
+1591,3,Brujo,116
+1592,4,Calle Los Mora,116
+1593,5,Chiricano,116
+1594,6,Gloria,116
+1595,7,Loma Guacal,116
+1596,8,Llano,116
+1597,9,Paraíso,116
+1598,10,Providencia (Parte),116
+1599,11,Purruja,116
+1600,12,Río Nuevo,116
+1601,13,San Antonio,116
+1602,14,Santa Marta,116
+1603,15,Savegre Abajo,116
+1604,16,Viento Fresco,116
+1605,1,SAN RAFAEL SUR,117
+1606,2,Alto Macho Mora,117
+1607,3,Ángeles,117
+1608,4,Berlín,117
+1609,5,Chanchera,117
+1610,6,División (parte),117
+1611,7,Fortuna,117
+1612,8,Hortensia,117
+1613,9,La Ese,117
+1614,10,La Piedra,117
+1615,11,Lira,117
+1616,12,Matasanos,117
+1617,13,Palma,117
+1618,14,Pedregosito,117
+1619,15,Providencia (Parte),117
+1620,16,San Ramón Norte,117
+1621,17,Santa Eduvigis,117
+1622,18,Santo Tomás,117
+1623,19,Siberia (parte),117
+1624,20,Valencia,117
+1625,1,SAN ANTONIO,118
+1626,2,Corralillo,118
+1627,3,China Kichá,118
+1628,4,Montezuma,118
+1629,5,Oratorio,118
+1630,6,San Carlos,118
+1631,7,San Gabriel,118
+1632,8,San Roque  ,118
+1633,9,Santa Cecilia,118
+1634,10,Santa Luisa,118
+1635,1,SAN PABLO centro,119
+1636,2,Estadio,119
+1637,3,La Clara,119
+1638,4,La Virgen,119
+1639,5,Los Ángeles,119
+1640,6,Sagrada Familia,119
+1641,7,Abejonal,119
+1642,8,Carrizales,119
+1643,9,Los Navarro,119
+1644,10,Montes de Oro,119
+1645,11,Rosario,119
+1646,1,SAN ANDRÉS centro,120
+1647,2,Angostura (parte),120
+1648,3,Bajo Gamboa,120
+1649,4,Higuerón,120
+1650,5,Llano Grande,120
+1651,6,Ojo de Agua (parte),120
+1652,7,Rastrojales,120
+1653,1,SAN RAFAEL ARRIBA ,121
+1654,2,Bajo Mora,121
+1655,3,Bajo Venegas (parte),121
+1656,4,Concepción,121
+1657,5,San Francisco,121
+1658,6,San Luis,121
+1659,7,San Rafael Abajo,121
+1660,8,Santa Juana,121
+1661,9,Santa Rosa (parte),121
+1662,1,SAN ISIDRO centro,122
+1663,2,Alto Carrizal,122
+1664,3,Loma de la Altura,122
+1665,4,Santa Rosa (parte),122
+1666,5,Trinidad,122
+1667,1,SANTA CRUZ centro,123
+1668,2,Cedral (parte),123
+1669,3,Lucha (parte),123
+1670,4,San Martín,123
+1671,5,Rincón Gamboa,123
+1672,1,SAN ANTONIO centro,124
+1673,2,Angostura (parte),124
+1674,3,Cuesta,124
+1675,1,ALAJUELA centro,125
+1676,2,Acequia Grande (parte),125
+1677,3,Agonía,125
+1678,4,Arroyo,125
+1679,5,Bajo Cornizal,125
+1680,6,Brasil (parte),125
+1681,7,Cafetal,125
+1682,8,Canoas,125
+1683,9,Carmen,125
+1684,10,Cementerio,125
+1685,11,Concepción,125
+1686,12,Ciruelas,125
+1687,13,Corazón de Jesús,125
+1688,14,Cristo Rey,125
+1689,15,Gregorio José Ramírez,125
+1690,16,Guadalupe,125
+1691,17,Higuerones,125
+1692,18,Hospital,125
+1693,19,Llano,125
+1694,20,Llobet,125
+1695,21,Molinos,125
+1696,22,Montecillos (parte),125
+1697,23,Montenegro,125
+1698,24,Monserrat (parte),125
+1699,25,Paso Flores,125
+1700,26,Providencia,125
+1701,27,Retiro,125
+1702,28,San Luis,125
+1703,29,Tomás Guardia,125
+1704,30,Tropicana,125
+1705,31,Villabonita (parte),125
+1706,32,Villahermosa,125
+1707,1,SAN JOSÉ centro,126
+1708,2,Amistad,126
+1709,3,Botánica,126
+1710,4,Copablanca,126
+1711,5,Flores,126
+1712,6,Jardines,126
+1713,7,Jocote,126
+1714,8,Juan Santamaría,126
+1715,9,Lagunilla,126
+1716,10,Mandarina (parte),126
+1717,11,Maravilla (parte),126
+1718,12,Montesol (parte),126
+1719,13,Pueblo Nuevo,126
+1720,14,San Rafael,126
+1721,15,Santa Rita,126
+1722,16,Tigra,126
+1723,17,Torre,126
+1724,18,Trinidad,126
+1725,19,Tuetal Sur,126
+1726,20,Coyol,126
+1727,1,CARRIZAL centro,127
+1728,2,Alto Pavas,127
+1729,3,Bambú,127
+1730,4,Cinco Esquinas,127
+1731,5,Concordia,127
+1732,6,Domingas,127
+1733,7,El Plan,127
+1734,1,SAN ANTONIO DEL TEJAR,128
+1735,2,Acequia Grande (parte),128
+1736,3,Bajo Monge,128
+1737,4,Cañada,128
+1738,5,Montecillos (parte),128
+1739,6,Monserrat (parte),128
+1740,7,Puente Arena (parte),128
+1741,8,Tejar,128
+1742,9,Vegas,128
+1743,10,Villabonita (parte),128
+1744,11,Ciruelas,128
+1745,12,Roble,128
+1746,13,Sánchez,128
+1747,1,GUÁCIMA centro,129
+1748,2,Bajo Tejar,129
+1749,3,Cacao,129
+1750,4,Cañada,129
+1751,5,Coco,129
+1752,6,El Bajo,129
+1753,7,Hacienda Los Reyes,129
+1754,8,Nuestro Amo,129
+1755,9,Rincón Chiquito,129
+1756,10,Rincón de Herrera,129
+1757,11,Rincón de Monge,129
+1758,12,Ventanas,129
+1759,13,Vueltas,129
+1760,1,SAN ISIDRO centro,130
+1761,2,Aguilar,130
+1762,3,Ceiba,130
+1763,4,San Martín,130
+1764,5,Alto Pilas,130
+1765,6,Buríos,130
+1766,7,Carbonal,130
+1767,8,Cerrillal,130
+1768,9,Dulce Nombre,130
+1769,10,Espino (parte),130
+1770,11,Itiquís,130
+1771,12,Laguna,130
+1772,13,Loría,130
+1773,14,Maravilla (parte),130
+1774,15,Montaña,130
+1775,16,Pilas,130
+1776,17,Potrerillos,130
+1777,18,San Jerónimo,130
+1778,19,San Rafael,130
+1779,20,Tacacorí,130
+1780,21,Tuetal Norte (parte),130
+1781,22,Villas de la Ceiba,130
+1782,1,SABANILLA centro,131
+1783,2,Alto del Desengaño,131
+1784,3,Ángeles,131
+1785,4,Bajo Santa Bárbara,131
+1786,5,Cerro,131
+1787,6,Doka,131
+1788,7,Espino (parte),131
+1789,8,Fraijanes,131
+1790,9,Lajas,131
+1791,10,Poasito,131
+1792,11,San Luis,131
+1793,12,San Rafael,131
+1794,13,Vargas (parte),131
+1795,1,SAN RAFAEL centro,132
+1796,2,La Paz,132
+1797,3,Perla,132
+1798,4,Cañada,132
+1799,5,Ojo de Agua,132
+1800,6,Paires,132
+1801,7,Potrerillos,132
+1802,8,Rincón Venegas,132
+1803,1,RÍO SEGUNDO centro,133
+1804,2,Ángeles,133
+1805,3,Bajo Cañas (parte),133
+1806,4,Bajo La Sorda,133
+1807,5,Cacique,133
+1808,6,California,133
+1809,7,Cañas (parte),133
+1810,8,Guayabo,133
+1811,9,Monserrat (parte),133
+1812,10,Puente Arena (parte),133
+1813,11,Villalobos,133
+1814,12,Víquez,133
+1815,1,DESAMPARADOS centro,134
+1816,2,Bajo Cañas (parte),134
+1817,3,Bellavista,134
+1818,4,Brasil (parte),134
+1819,5,Calicanto,134
+1820,6,Cañas (parte),134
+1821,7,Erizo,134
+1822,8,Mojón,134
+1823,9,Pasito,134
+1824,10,Rincón,134
+1825,11,Rosales (parte),134
+1826,12,Targuases,134
+1827,13,Tres Piedras,134
+1828,1,TURRÚCARES centro,135
+1829,2,Bajo Pita,135
+1830,3,Granja,135
+1831,4,Morera,135
+1832,5,San Martín,135
+1833,6,Santa Rita,135
+1834,7,Turrucareña,135
+1835,8,Villacares,135
+1836,9,Bajo San Miguel,135
+1837,10,Candelaria,135
+1838,11,Carrera Buena,135
+1839,12,Cebadilla,135
+1840,13,Cerrillos (San Miguel),135
+1841,14,Conejo,135
+1842,15,Juntas,135
+1843,16,Siquiares,135
+1844,17,Tamarindo,135
+1845,1,TAMBOR centro,136
+1846,2,Cacao,136
+1847,3,Calle Liles,136
+1848,4,González,136
+1849,5,Quebradas,136
+1850,6,Rincón Cacao,136
+1851,7,Tuetal Norte (parte),136
+1852,8,Vargas (parte),136
+1853,1,GARITA centro,137
+1854,2,Animas (Dulce Nombre),137
+1855,3,Cuesta Colorada,137
+1856,4,Copeyal,137
+1857,5,Horcones,137
+1858,6,Lagos del Coyol,137
+1859,7,Llanos,137
+1860,8,Mandarina (parte),137
+1861,9,Manolos,137
+1862,10,Mina,137
+1863,11,Montesol (parte),137
+1864,12,Monticel,137
+1865,13,Saltillo,137
+1866,1,SAN MIGUEL ,138
+1867,2,Bajo Latas,138
+1868,3,Cariblanco,138
+1869,4,Corazón de Jesús,138
+1870,5,Isla Bonita,138
+1871,6,Nueva Cinchona,138
+1872,7,San Antonio,138
+1873,8,Paraíso,138
+1874,9,Punta Mala,138
+1875,10,Ujarrás,138
+1876,11,Virgen del Socorro (parte),138
+1877,1,SAN RAMÓN centro,139
+1878,2,Bajo Ladrillera,139
+1879,3,Cachera,139
+1880,4,Lisímaco Chavarría,139
+1881,5,Sabana (parte),139
+1882,6,San José,139
+1883,7,Tremedal (parte),139
+1884,1,SANTIAGO centro,140
+1885,2,Arias,140
+1886,3,Montserrat,140
+1887,4,Alto Santiago,140
+1888,5,Alto Salas,140
+1889,6,Angostura,140
+1890,7,Balboa,140
+1891,8,Cambronero,140
+1892,9,Constancia,140
+1893,10,Cuesta del Toro,140
+1894,11,Empalme,140
+1895,12,La Ese,140
+1896,13,León,140
+1897,14,Magallanes,140
+1898,15,Moncada,140
+1899,16,Río Jesús,140
+1900,1,SAN JUAN centro,141
+1901,2,Americana,141
+1902,3,Bajo Tajos,141
+1903,4,Belén,141
+1904,5,Cipreses,141
+1905,6,Lirios,141
+1906,7,Llamarón,141
+1907,8,Pueblo Nuevo,141
+1908,9,Tanque,141
+1909,10,Tejar,141
+1910,11,Vicente Badilla,141
+1911,12,Juntas (parte),141
+1912,1,PIEDADES NORTE centro,142
+1913,2,Copán,142
+1914,3,Araya,142
+1915,4,Bajo Matamoros (parte),142
+1916,5,Bolívar,142
+1917,6,Campos,142
+1918,7,Esperanza,142
+1919,8,La Paz,142
+1920,9,Lomas,142
+1921,10,Piedades Noroeste,142
+1922,1,PIEDADES SUR centro,143
+1923,2,Bajo Barranca,143
+1924,3,Barranca,143
+1925,4,Bureal,143
+1926,5,Carmen,143
+1927,6,Chassoul,143
+1928,7,Guaria,143
+1929,8,Nagatac,143
+1930,9,Palma,143
+1931,10,Potrerillos,143
+1932,11,Quebradillas,143
+1933,12,Salvador,143
+1934,13,San Bosco,143
+1935,14,San Francisco,143
+1936,15,San Miguel,143
+1937,16,Sardinal,143
+1938,17,Socorro,143
+1939,1,SAN RAFAEL centro,144
+1940,2,Tres Marías,144
+1941,3,Unión,144
+1942,4,Alto Llano,144
+1943,5,Berlín,144
+1944,6,Calera,144
+1945,7,Chavarría,144
+1946,8,Llano Brenes,144
+1947,9,Orlich,144
+1948,10,Orozco,144
+1949,11,Pata de Gallo,144
+1950,12,Rincón de Mora,144
+1951,13,Rincón Orozco,144
+1952,14,San Joaquín,144
+1953,15,Zamora,144
+1954,1,SAN ISIDRO centro,145
+1955,2,Progreso,145
+1956,3,Bajo Ramírez,145
+1957,4,Fernández,145
+1958,5,Guaria,145
+1959,6,Varela,145
+1960,1,ÁNGELES SUR ,146
+1961,2,Los Jardines,146
+1962,3,Ranchera,146
+1963,4,Ángeles Norte,146
+1964,5,Balsa,146
+1965,6,Juntas (parte),146
+1966,7,Silencio,146
+1967,8,Valle Azul,146
+1968,9,Zúñiga,146
+1969,1,SAN PEDRO,147
+1970,2,Badilla Alpizar,147
+1971,3,Sabana (parte),147
+1972,4,Tremedal (parte),147
+1973,5,Bajo Matamoros (parte),147
+1974,6,Catarata,147
+1975,7,Valverde,147
+1976,1,VOLIO centro,148
+1977,2,Alto Villegas,148
+1978,3,Bajo Tejares,148
+1979,4,Dulce Nombre,148
+1980,5,Sifón,148
+1981,1,CONCEPCIÓN centro,149
+1982,2,Cañuela,149
+1983,3,Concepción Arriba,149
+1984,4,Chaparral,149
+1985,5,Pérez,149
+1986,1,SAN ANTONIO,150
+1987,2,Bajo Castillo,150
+1988,3,Bajos,150
+1989,4,Barranquilla,150
+1990,5,Carrera Buena,150
+1991,6,Jabonal,150
+1992,7,Jabonalito,150
+1993,8,Rincón Chaves,150
+1994,9,Victoria,150
+1995,10,Zapotal (parte),150
+1996,1,SAN ISIDRO,151
+1997,2,Abanico,151
+1998,3,Altura,151
+1999,4,Bosque,151
+2000,5,Burrito,151
+2001,6,Cairo,151
+2002,7,Castillo (parte),151
+2003,8,Castillo Nuevo,151
+2004,9,Colonia Trinidad,151
+2005,10,Chachagua,151
+2006,11,La Cruz,151
+2007,12,Pocosol,151
+2008,13,San Carlos,151
+2009,14,San Rafael,151
+2010,15,Sector Ángeles,151
+2011,1,VALLE AZUL,152
+2012,2,Bajo Córdoba,152
+2013,3,Bajo Rodríguez,152
+2014,4,Cataratas,152
+2015,5,Colonia Palmareña,152
+2016,6,Coopezamora,152
+2017,7,Criques,152
+2018,8,Kooper,152
+2019,9,Los Lagos,152
+2020,10,Las Rocas,152
+2021,11,San Jorge,152
+2022,1,GRECIA centro,153
+2023,2,Carmona,153
+2024,3,Chavarría,153
+2025,4,Colón,153
+2026,5,Jiménez,153
+2027,6,Pinos,153
+2028,7,Rincón de Arias,153
+2029,8,San Antonio,153
+2030,9,San Vicente,153
+2031,10,Celina,153
+2032,1,SAN ISIDRO centro,154
+2033,2,Barrio (Grecia)(Primavera),154
+2034,3,Alfaro,154
+2035,4,Bajo Achiote,154
+2036,5,Camejo,154
+2037,6,Coopevictoria,154
+2038,7,Corinto,154
+2039,8,Higuerones,154
+2040,9,Mesón,154
+2041,10,Mojón,154
+2042,11,Quizarrazal,154
+2043,1,SAN JOSÉ centro,155
+2044,2,Arena,155
+2045,3,Cedro,155
+2046,4,Delicias (parte),155
+2047,5,Guayabal (parte),155
+2048,6,Loma,155
+2049,7,Rodríguez,155
+2050,8,Santa Gertrudis Norte,155
+2051,9,Santa Gertrudis Sur,155
+2052,1,SAN ROQUE centro,156
+2053,2,Agualote,156
+2054,3,Bajo Sapera,156
+2055,4,Casillas,156
+2056,5,Latino,156
+2057,6,San Miguel Arriba,156
+2058,7,Cabuyal,156
+2059,8,Carbonal,156
+2060,9,Coyotera,156
+2061,10,San Miguel,156
+2062,1,TACARES centro,157
+2063,2,Pinto,157
+2064,3,Bodegas,157
+2065,4,Cataluña,157
+2066,5,Cerdas,157
+2067,6,Delicias (parte),157
+2068,7,Flores,157
+2069,8,Guayabal (parte),157
+2070,9,Pilas,157
+2071,10,Planta,157
+2072,11,Porvenir,157
+2073,12,Yoses,157
+2074,1,PUENTE DE PIEDRA centro,158
+2075,2,Poró,158
+2076,3,Sevilla,158
+2077,4,Altos de Peralta,158
+2078,5,Argentina,158
+2079,6,Bajo Cedros,158
+2080,7,Lomas,158
+2081,8,Montezuma,158
+2082,9,Puerto Escondido,158
+2083,10,Raiceros,158
+2084,11,Rincón de Salas,158
+2085,12,Rosales,158
+2086,1,ÁNGELES,159
+2087,2,Cajón,159
+2088,3,Cocobolo,159
+2089,4,Murillo,159
+2090,5,San Juan,159
+2091,6,San Luis,159
+2092,7,Virgencita,159
+2093,1,SAN MATEO centro,160
+2094,2,Agua Agria,160
+2095,3,Calera,160
+2096,4,Cenízaro,160
+2097,5,Centeno,160
+2098,6,Desamparados,160
+2099,7,Dulce Nombre,160
+2100,8,Higuito,160
+2101,9,Izarco,160
+2102,10,Maderal,160
+2103,11,Ramadas,160
+2104,12,San Juan de Dios,160
+2105,1,DESMONTE centro,161
+2106,2,Cuesta Colorada,161
+2107,3,Libertad,161
+2108,4,Quebrada Honda,161
+2109,5,Limón,161
+2110,6,Patio de Agua Norte,161
+2111,7,Sacra Familia,161
+2112,8,San Juan Uno,161
+2113,9,Zapote,161
+2114,1,JESÚS MARÍA centro,162
+2115,2,Garabito,162
+2116,3,Quebrada Grande (parte),162
+2117,4,Quinta,162
+2118,1,LABRADOR centro,163
+2119,2,Altamira,163
+2120,3,Oricuajo,163
+2121,4,Poza Redonda,163
+2122,5,Quebrada Grande (parte),163
+2123,1,ATENAS centro,164
+2124,2,Ángeles,164
+2125,3,Atenea,164
+2126,4,Boquerón,164
+2127,5,Escorpio,164
+2128,6,Güizaro,164
+2129,7,Oásis,164
+2130,8,Olivo,164
+2131,9,Matías,164
+2132,1,JESÚS centro,165
+2133,2,Guacalillo,166
+2134,3,Sabanalarga,166
+2135,4,San Vicente,166
+2136,5,Barroeta,166
+2137,6,Boca del Monte,166
+2138,7,Cuajiniquil,166
+2139,8,Estanquillo,166
+2140,9,Pato de Agua (parte),166
+2141,1,MERCEDES centro,167
+2142,2,Cajón,167
+2143,3,Callao,167
+2144,4,Plancillo,167
+2145,5,Plazoleta,167
+2146,1,SAN ISIDRO centro,168
+2147,2,Alto Naranjo,168
+2148,3,Bajo Cacao,168
+2149,4,Morazán,168
+2150,5,Pato de Agua (parte),168
+2151,6,Pavas,168
+2152,7,Rincón,168
+2153,1,CONCEPCION centro,169
+2154,2,Río Grande,169
+2155,3,Balsa,169
+2156,4,Calle Garita,169
+2157,5,Coyoles,169
+2158,6,Pan de Azúcar,169
+2159,7,Tornos,169
+2160,1,SAN JOSÉ SUR,170
+2161,2,Alto Cima,170
+2162,3,Alto López,170
+2163,4,Legua,170
+2164,5,San José Norte,170
+2165,6,Torunes,170
+2166,7,Vainilla,170
+2167,1,SANTA EULALIA centro,171
+2168,2,Rincón Rodríguez,171
+2169,1,ESCOBAL centro,172
+2170,2,Cerrillo,172
+2171,3,Guácimos,172
+2172,4,Kilómetro 51,172
+2173,5,Lapas,172
+2174,6,Mangos,172
+2175,7,Quebradas,172
+2176,8,Vuelta Herrera,172
+2177,1,NARANJO centro,173
+2178,2,Bajo Pilas,173
+2179,3,Belén,173
+2180,4,Caña Dura,173
+2181,5,Gradas,173
+2182,6,María Auxiliadora,173
+2183,7,Muro,173
+2184,8,Pueblo Nuevo,173
+2185,9,Sacramento,173
+2186,10,San Lucas (Carmen),173
+2187,11,San Rafael,173
+2188,12,Candelaria,173
+2189,13,Cantarrana (parte),173
+2190,14,Cinco Esquinas (parte),173
+2191,15,Ciprés,173
+2192,16,Común,173
+2193,17,Dulce Nombre,173
+2194,1,SAN MIGUEL centro,174
+2195,2,Planes,174
+2196,3,Bajo Seevers,174
+2197,4,Bajos,174
+2198,5,Palmas,174
+2199,6,Quesera,174
+2200,7,San Francisco,174
+2201,8,San Miguel Oeste,174
+2202,1,SAN JUANILLO,175
+2203,2,Barranca,175
+2204,3,Cañuela Arriba,175
+2205,4,Cuesta Venada,175
+2206,5,Desamparados,175
+2207,6,Isla,175
+2208,7,San Antonio de Barranca,175
+2209,8,San Pedro,175
+2210,9,Solís (parte),175
+2211,10,Vuelta San Gerardo,175
+2212,1,CIRRÍ SUR centro,176
+2213,2,Bajo Arrieta,176
+2214,3,Bajo Valverde,176
+2215,4,Bajo Zúñiga,176
+2216,5,Cruce,176
+2217,6,Isla Cocora,176
+2218,7,Lourdes,176
+2219,8,Llano Bonito,176
+2220,9,Llano Bonito Sur,176
+2221,10,Palmita,176
+2222,11,Quebrada Honda,176
+2223,12,Rincón,176
+2224,13,Solís (parte),176
+2225,14,Zapote,176
+2226,1,SAN JERÓNIMO centro,177
+2227,2,Puebla,177
+2228,3,Robles,177
+2229,4,Tacacal,177
+2230,1,SAN JUAN centro,178
+2231,2,Bajo Murciélago,178
+2232,3,Cueva,178
+2233,4,Guarumal,178
+2234,5,Rincón Elizondo,178
+2235,6,San Antonio,178
+2236,7,Yoses,178
+2237,1,EL ROSARIO centro,179
+2238,2,Pérez,180
+2239,3,Hornos,180
+2240,4,Llano,180
+2241,5,Santa Margarita,180
+2242,6,Vistas del Valle,180
+2243,1,PALMITOS centro,181
+2244,2,Alto Murillo,181
+2245,3,Alto Palmas,181
+2246,4,Cantarrana (parte),181
+2247,5,Cinco Esquinas (parte),181
+2248,6,Concepción,181
+2249,7,Roquillo,181
+2250,8,San Roque,181
+2251,1,PALMARES centro,182
+2252,2,Santa Fe,182
+2253,3,San Vicente,182
+2254,1,ZARAGOZA centro,183
+2255,2,Cocaleca (parte),183
+2256,3,Quebrada,183
+2257,4,Rincón (Quebrada),183
+2258,5,Rincón de Zaragoza,183
+2259,6,Vargas,183
+2260,7,Vásquez,183
+2261,1,BUENOS AIRES centro,184
+2262,2,Bajo Cabra,184
+2263,3,Barreal,184
+2264,4,Tres Marías,184
+2265,5,Valle,184
+2266,6,Victoria,184
+2267,7,Calle Ramírez,184
+2268,1,SANTIAGO centro,185
+2269,2,Pinos (parte),185
+2270,1,CANDELARIA centro,186
+2271,2,Pinos (parte),186
+2272,1,ESQUIPULAS centro,187
+2273,2,Calle Roble,187
+2274,3,Cocaleca (parte),187
+2275,4,Peraza,187
+2276,5,Rincón de Salas,187
+2277,1,LA GRANJA centro,188
+2278,2,Amistad,189
+2279,1,SAN PEDRO centro,190
+2280,2,Santa Cecilia (Bajo Piedras),190
+2281,3,Rastro,190
+2282,4,Cerro,190
+2283,5,Chilamate,190
+2284,6,Hilda,190
+2285,7,Sitio (parte),190
+2286,8,Zamora,190
+2287,1,SAN JUAN SUR,191
+2288,2,Altura (parte),191
+2289,3,Corazón de Jesús,191
+2290,4,Guapinol,191
+2291,5,Mastate,191
+2292,6,San Juan Norte,191
+2293,7,Tablones (parte),191
+2294,1,SAN RAFAEL centro,192
+2295,2,Bajo Zamora,192
+2296,3,Churuca,192
+2297,4,Guatuza,192
+2298,5,Monte,192
+2299,6,Potrero Chiquito,192
+2300,7,Santa Rosa,192
+2301,8,Sitio (parte),192
+2302,9,Solís,192
+2303,10,Tablones (parte),192
+2304,11,Volcán,192
+2305,1,CARRILLOS BAJO,193
+2306,2,Bajo Barahona,193
+2307,3,Cuatro Esquinas,193
+2308,4,Santísima Trinidad,193
+2309,5,Carrillos Alto,193
+2310,6,Senda,193
+2311,7,Sonora,193
+2312,1,SABANA REDONDA centro,194
+2313,2,Altura (parte),194
+2314,3,Bajos del Tigre,194
+2315,1,OROTINA centro,195
+2316,2,Aguacate,195
+2317,3,Arboleda,195
+2318,4,Carmen,195
+2319,5,Cortezal,195
+2320,6,Cuatro Esquinas Norte,195
+2321,7,Jesús,195
+2322,8,Kilómetro,195
+2323,9,López,195
+2324,10,Miraflores,195
+2325,11,Rastro Viejo,195
+2326,12,San Rafael,195
+2327,13,San Vicente,195
+2328,14,Tres Marías,195
+2329,15,Villa los Reyes,195
+2330,16,Alto Vindas,195
+2331,17,Esperanza,195
+2332,18,Tigre,195
+2333,1,EL MASTATE centro,196
+2334,2,Cuatro Esquinas Este,196
+2335,3,Piedra Azul,196
+2336,4,Guayabal,196
+2337,1,HACIENDA VIEJA centro,197
+2338,2,Marichal,197
+2339,3,Concepción,197
+2340,4,Dantas,197
+2341,1,COYOLAR centro,198
+2342,2,Corazón de María,198
+2343,3,Bajos del Coyote,198
+2344,4,Cebadilla,198
+2345,5,Guápiles,198
+2346,6,Limonal,198
+2347,7,Mangos,198
+2348,8,Mollejones,198
+2349,9,Piedras de Fuego,198
+2350,10,Pozón,198
+2351,11,San Jerónimo,198
+2352,12,Santa Rita,198
+2353,1,LA CEIBA centro,199
+2354,2,Angostura Matamoros,200
+2355,3,Cascajal,200
+2356,4,Cuesta Pitahaya,200
+2357,5,Guácimo,200
+2358,6,Hidalgo,200
+2359,7,Kilómetro 81,200
+2360,8,Machuca,200
+2361,9,Matamoros,200
+2362,10,Túnel,200
+2363,11,Uvita,200
+2364,12,Zapote,200
+2365,1,QUESADA centro,201
+2366,2,Alto Cruz,201
+2367,3,Ana Mercedes,201
+2368,4,Ángeles,201
+2369,5,Arco Iris,201
+2370,6,Bajo Los Arce,201
+2371,7,Bajo Lourdes,201
+2372,8,Baltazar Quesada,201
+2373,9,Bellavista,201
+2374,10,Carmen,201
+2375,11,Casilda Matamoros,201
+2376,12,Cementerio,201
+2377,13,Coocique,201
+2378,14,Colina 1,201
+2379,15,Colina 2,201
+2380,16,Corazón de Jesús,201
+2381,17,Corobicí,201
+2382,18,Don Victorino,201
+2383,19,El Campo,201
+2384,20,Gamonales,201
+2385,21,Guadalupe,201
+2386,22,La Cruz,201
+2387,23,La Leila,201
+2388,24,La Margarita,201
+2389,25,La Roca,201
+2390,26,La Torre,201
+2391,27,Los Abuelos,201
+2392,28,Lomas del Norte,201
+2393,29,Lutz,201
+2394,30,Meco,201
+2395,31,Mercedes,201
+2396,32,Peje,201
+2397,33,San Antonio,201
+2398,34,San Gerardo,201
+2399,35,San Martín,201
+2400,36,San Pablo,201
+2401,37,San Roque,201
+2402,38,Santa Fe,201
+2403,39,Selva Verde,201
+2404,40,Unión,201
+2405,41,Villarreal,201
+2406,42,Abundancia,201
+2407,43,Brumas,201
+2408,44,Calle Guerrero,201
+2409,45,San Ramón (Cariblanca),201
+2410,46,Cedral Norte,201
+2411,47,Cedral Sur,201
+2412,48,Colón,201
+2413,49,Dulce Nombre,201
+2414,50,Leones,201
+2415,51,Lindavista,201
+2416,52,Manzanos,201
+2417,53,Montañitas,201
+2418,54,Palmas,201
+2419,55,Porvenir,201
+2420,56,San Juan (Quebrada Palo),201
+2421,57,Ronrón Abajo,201
+2422,58,Ronrón Arriba,201
+2423,59,San Isidro,201
+2424,60,San José de la Montaña,201
+2425,61,San Luis,201
+2426,62,San Rafael,201
+2427,63,San Vicente,201
+2428,64,Sucre,201
+2429,65,Tesalia,201
+2430,1,FLORENCIA centro,202
+2431,2,Alto Gloria,202
+2432,3,Aquilea (San Francisco),202
+2433,4,Bonanza,202
+2434,5,Caimitos,202
+2435,6,Chaparral,202
+2436,7,Cuestillas,202
+2437,8,Jabillos (parte),202
+2438,9,Molino,202
+2439,10,Muelle de San Carlos,202
+2440,11,Pejeviejo,202
+2441,12,Pénjamo,202
+2442,13,Platanar,202
+2443,14,Puente Casa,202
+2444,15,Puerto Escondido,202
+2445,16,Quebrada Azul,202
+2446,17,San Juan,202
+2447,18,San Luis,202
+2448,19,San Rafael,202
+2449,20,Santa Clara,202
+2450,21,Santa María,202
+2451,22,Santa Rita,202
+2452,23,Sapera,202
+2453,24,Ulima,202
+2454,25,Vega,202
+2455,26,Vieja,202
+2456,1,BUENAVISTA centro,203
+2457,2,Culebra,203
+2458,3,Quina (parte),203
+2459,4,San Antonio,203
+2460,5,San Bosco,203
+2461,1,AGUAS ZARCAS centro,204
+2462,2,Latino,204
+2463,3,Manantial,204
+2464,4,Montecristo,204
+2465,5,Nazareth,204
+2466,6,San Bosco,204
+2467,7,San Gerardo Viento Fresco,204
+2468,8,Vistas de la Llanura,204
+2469,9,Altamira,204
+2470,10,Alto Jiménez (Montecristo),204
+2471,11,Bijagual,204
+2472,12,Boca los Chiles,204
+2473,13,Cantarrana (Santa Fe),204
+2474,14,Coopesanjuan,204
+2475,15,Caño Negro,204
+2476,16,Cerrito,204
+2477,17,Cerro Cortés,204
+2478,18,Concepción,204
+2479,19,Chiles,204
+2480,20,Danta,204
+2481,21,Delicias,204
+2482,22,Faroles,204
+2483,23,Gloria,204
+2484,24,Guabo,204
+2485,25,Llanos de Altamirita,204
+2486,26,Pitalito Norte (Esquipulas),204
+2487,27,Pitalito,204
+2488,28,San José,204
+2489,29,Valle Hermoso,204
+2490,30,Vasconia,204
+2491,31,Vuelta de Kooper,204
+2492,1,VENECIA centro,205
+2493,2,Carmen,205
+2494,3,Corazón de Jesús,205
+2495,4,El Ceibo,205
+2496,5,Jardín,205
+2497,6,La Gloria,205
+2498,7,Alpes,205
+2499,8,Brisas,205
+2500,9,Buenos Aires,205
+2501,10,Guayabo,205
+2502,11,Latas,205
+2503,12,Marsella,205
+2504,13,Mesén,205
+2505,14,Nazareth,205
+2506,15,Negritos,205
+2507,16,Paraíso,205
+2508,17,Pueblo Viejo,205
+2509,18,San Cayetano,205
+2510,19,San Martín,205
+2511,20,Unión,205
+2512,1,PITAL centro,206
+2513,2,Bosque,206
+2514,3,Comarca,206
+2515,4,San Cristóbal,206
+2516,5,Ángeles,206
+2517,6,Boca Sahíno,206
+2518,7,Boca Tapada,206
+2519,8,Boca Tres Amigos,206
+2520,9,Cabra,206
+2521,10,Canacas,206
+2522,11,Caño Chu,206
+2523,12,Cerro Blanco (San Marcos),206
+2524,13,Cuatro Esquinas,206
+2525,14,Chaparrón,206
+2526,15,Chirivico (Coopeisabel),206
+2527,16,Encanto,206
+2528,17,Fama (Carmen),206
+2529,18,Flor,206
+2530,19,I Griega,206
+2531,20,Josefina,206
+2532,21,Legua,206
+2533,22,Ojoche,206
+2534,23,Ojochito,206
+2535,24,Palmar,206
+2536,25,Pegón,206
+2537,26,Piedra Alegre,206
+2538,27,Puerto Escondido,206
+2539,28,Quebrada Grande,206
+2540,29,Sahíno,206
+2541,30,San Luis,206
+2542,31,Santa Elena,206
+2543,32,Tigre,206
+2544,33,Trinchera,206
+2545,34,Vegas,206
+2546,35,Veracrúz,206
+2547,36,Vuelta Bolsón (parte),206
+2548,37,Vuelta Tablón,206
+2549,38,Yucatán,206
+2550,1,LA FORTUNA centro,207
+2551,2,Dora,208
+2552,3,Manolos,208
+2553,4,Olivos,208
+2554,5,Pastoral,208
+2555,6,Pito,208
+2556,7,San Isidro,208
+2557,8,Sinaí,208
+2558,9,Agua Azul,208
+2559,10,Alamo,208
+2560,11,Ángeles,208
+2561,12,Burío,208
+2562,13,Castillo (parte),208
+2563,14,Guaria,208
+2564,15,El Campo (Guayabal),208
+2565,16,Jilguero,208
+2566,17,Llano Verde,208
+2567,18,Orquídeas,208
+2568,19,Palma,208
+2569,20,Perla,208
+2570,22,San Jorge,208
+2571,23,Santa Eduviges,208
+2572,24,Sonafluca,208
+2573,25,Tanque,208
+2574,26,Tres Esquinas,208
+2575,27,Zeta Trece,208
+2576,1,LA TIGRA centro,209
+2577,2,Ángeles,210
+2578,3,Palmas,210
+2579,4,Cerritos,210
+2580,5,Esperanza,210
+2581,6,Futuro,210
+2582,7,Jabillos (parte),210
+2583,8,Lucha,210
+2584,9,San Gerardo,210
+2585,10,San Isidro,210
+2586,11,San José,210
+2587,12,San Miguel,210
+2588,13,San Pedro,210
+2589,14,San Rafael,210
+2590,1,LA PALMERA centro,211
+2591,2,Altura,212
+2592,3,Calle Damas,212
+2593,4,Corea (Concepción),212
+2594,5,Corte,212
+2595,6,Loma,212
+2596,7,Lourdes,212
+2597,8,Marina,212
+2598,9,Marinita,212
+2599,10,San Rafael,212
+2600,11,San Rafael Sur,212
+2601,12,Santa Rosa,212
+2602,13,Surtubal,212
+2603,14,Unión,212
+2604,15,Vacablanca (San Francisco),212
+2605,16,Villa María,212
+2606,1,VENADO centro,213
+2607,2,Altamirita,213
+2608,3,Alto Blanca Lucía,213
+2609,4,Burío,213
+2610,5,Cacao,213
+2611,6,Delicias,213
+2612,7,Esperanza,213
+2613,8,Jicarito,213
+2614,9,Lindavista,213
+2615,10,Poma (parte),213
+2616,11,Puerto Seco,213
+2617,12,San Isidro,213
+2618,13,Santa Eulalia (parte),213
+2619,14,Santa Lucía,213
+2620,15,Tigra,213
+2621,1,BOCA ARENAL,214
+2622,2,Almendros,214
+2623,3,Bellavista,214
+2624,4,Betania,214
+2625,5,Boca de San Carlos,214
+2626,6,Boca Providencia (parte),214
+2627,7,Cabeceras de Aguas Zarquitas,214
+2628,8,Carmen,214
+2629,9,Cascada,214
+2630,10,Castelmare,214
+2631,11,Cocobolo,214
+2632,12,Coopevega,214
+2633,13,Corazón de Jesús,214
+2634,14,Crucitas,214
+2635,15,Chamorrito,214
+2636,16,Chamorro,214
+2637,17,Chorreras,214
+2638,18,Hebrón,214
+2639,19,Isla del Cura,214
+2640,20,Isla Pobres,214
+2641,21,Isla Sábalo,214
+2642,22,Jardín,214
+2643,23,Kopper,214
+2644,24,La Cajeta,214
+2645,25,Laurel Galán,214
+2646,26,Limoncito,214
+2647,27,Moravia,214
+2648,28,Patastillo,214
+2649,29,Pueblo Nuevo,214
+2650,30,Recreo,214
+2651,31,Río Tico,214
+2652,32,Roble,214
+2653,33,San Antonio,214
+2654,34,San Fernando,214
+2655,35,San Francisco,214
+2656,36,San Joaquín,214
+2657,37,San Jorge,214
+2658,38,San José,214
+2659,39,San Marcos,214
+2660,40,Santa Rita,214
+2661,41,Santa Teresa,214
+2662,42,San Vito,214
+2663,43,Tabla Grande (San Pedro),214
+2664,44,Terrón Colorado (parte),214
+2665,45,Ventanas,214
+2666,46,Vuelta Bolsón (parte),214
+2667,47,Vuelta Millonarios,214
+2668,48,Vuelta Ruedas,214
+2669,1,SANTO DOMINGO,215
+2670,2,Pericos,215
+2671,3,Bajillo,215
+2672,4,Caño Ciego,215
+2673,5,Cedros,215
+2674,6,Chambacú,215
+2675,7,Delicias,215
+2676,8,La Unión,215
+2677,9,Maquencal,215
+2678,10,Mirador,215
+2679,11,Montelimar,215
+2680,12,Monterrey,215
+2681,13,Orquídea,215
+2682,14,Pataste Arriba,215
+2683,15,Sabalito,215
+2684,16,San Andrés,215
+2685,17,San Antonio,215
+2686,18,San Cristóbal,215
+2687,19,San Miguel,215
+2688,20,Santa Eulalia (parte),215
+2689,21,Santa Marta,215
+2690,1,SANTA ROSA,216
+2691,2,Fátima,216
+2692,3,Parajeles,216
+2693,4,Tres Perlas,216
+2694,5,Valle Hermoso,216
+2695,6,Acapulco,216
+2696,7,Aldea,216
+2697,8,Ángeles,216
+2698,9,Azucena,216
+2699,10,Banderas,216
+2700,11,Boca Providencia (parte),216
+2701,12,Brisas,216
+2702,13,Buenavista,216
+2703,14,Buenos Aires,216
+2704,15,Carrizal,216
+2705,16,Ceiba,216
+2706,17,Conchito,216
+2707,18,Concho,216
+2708,19,Cuatro Esquinas,216
+2709,20,Esterito,216
+2710,21,Estero,216
+2711,22,Estrella,216
+2712,23,Guaria,216
+2713,24,Jazmín,216
+2714,25,Jocote,216
+2715,26,Juanilama,216
+2716,27,Luisa,216
+2717,28,Llano Verde,216
+2718,29,Morazán,216
+2719,30,Nieves,216
+2720,31,Paraíso,216
+2721,32,Paso Real,216
+2722,33,Plomo,216
+2723,34,Pocosol,216
+2724,35,Providencia (San Luis),216
+2725,36,Pueblo Nuevo,216
+2726,37,Pueblo Santo,216
+2727,38,Rancho Quemado,216
+2728,39,Rubí,216
+2729,40,San Alejo,216
+2730,41,San Bosco,216
+2731,42,San Cristobal,216
+2732,43,San Diego,216
+2733,44,San Gerardo,216
+2734,45,San Isidro,216
+2735,46,San Martín,216
+2736,47,San Rafael,216
+2737,48,Santa Cecilia,216
+2738,49,Santa Esperanza,216
+2739,50,Santa María,216
+2740,51,Terrón Colorado (parte),216
+2741,52,Tiricias,216
+2742,53,Tres y Tres,216
+2743,1,ZARCERO centro,217
+2744,2,Cantarranas,217
+2745,3,Santa Teresita,217
+2746,1,LAGUNA centro,218
+2747,2,Peña,218
+2748,1,TAPEZCO centro,219
+2749,1,GUADALUPE centro,220
+2750,2,Anateri,220
+2751,3,Bellavista,220
+2752,4,Morelos (San Luis),220
+2753,1,PALMIRA centro,221
+2754,2,Picada (Pueblo Nuevo),221
+2755,1,ZAPOTE centro,222
+2756,2,Quina (parte),222
+2757,3,San Juan de Lajas,222
+2758,4,Santa Elena,222
+2759,1,SANTA ROSA (La Brisa),223
+2760,2,Ángeles,223
+2761,3,Legua,223
+2762,1,SARCHÍ NORTE centro,224
+2763,2,Ángeles,224
+2764,3,Bajo Raimundo,224
+2765,4,Canto,224
+2766,5,Eva,224
+2767,6,Luisa,224
+2768,7,San Rafael (Rincón Colorado),224
+2769,8,Sahinal,224
+2770,1,SARCHÍ SUR centro,225
+2771,2,Bajo Trapiche,225
+2772,3,Ranera,225
+2773,4,Alto Castro,225
+2774,5,Coopeoctava,225
+2775,6,Ratoncillal,225
+2776,7,Rincón de Alpízar,225
+2777,8,Rincón de Ulate,225
+2778,9,San Miguel,225
+2779,1,BAJOS DEL TORO,226
+2780,2,Alto Palomo,226
+2781,1,SAN PEDRO centro,227
+2782,2,Castro,227
+2783,3,Concha,227
+2784,4,Pueblo Seco,227
+2785,5,Talolinga,227
+2786,6,Trojas,227
+2787,1,SAN JUAN,228
+2788,2,Bambú,228
+2789,3,Sabanilla,228
+2790,1,UPALA centro,229
+2791,2,Don Chu,229
+2792,3,La Unión,229
+2793,4,Las Palmas,229
+2794,5,Venecia,229
+2795,6,Ángeles (parte),229
+2796,7,Carmen,229
+2797,8,Colonia Puntarenas,229
+2798,9,Corteza,229
+2799,10,Fósforo,229
+2800,11,Jazmines,229
+2801,12,Llano Azul,229
+2802,13,Maravilla,229
+2803,14,Miravalles,229
+2804,15,Moreno Cañas,229
+2805,16,Recreo,229
+2806,17,San Fernando,229
+2807,18,San Luis,229
+2808,19,San Martín,229
+2809,20,Santa Cecilia,229
+2810,21,Santa Rosa,229
+2811,22,Verbena (parte),229
+2812,1,SAN ISIDRO,230
+2813,2,Ceiba,230
+2814,3,Golfo,230
+2815,4,Porras,230
+2816,5,Aguas Claras,230
+2817,6,Buenos Aires,230
+2818,7,Colonia Blanca,230
+2819,8,Colonia Libertad,230
+2820,9,Cuatro Bocas,230
+2821,10,Chepa (Ángeles),230
+2822,11,Guayabal,230
+2823,12,Guinea,230
+2824,13,La Gloria,230
+2825,14,Porvenir,230
+2826,15,Río Negro,230
+2827,16,Tigra,230
+2828,17,Torre,230
+2829,18,Vuelta San Pedro,230
+2830,1,SAN JOSÉ O PIZOTE centro,231
+2831,2,Camelias,231
+2832,3,Líbano (Finanzas),231
+2833,4,Nazareno,231
+2834,5,Ángeles (parte),231
+2835,6,Betania,231
+2836,7,Caño Blanco,231
+2837,8,Cartagos Norte,231
+2838,9,Cartagos Sur,231
+2839,10,Copey (Santa Lucía),231
+2840,11,Delirio,231
+2841,12,Fátima,231
+2842,13,Jesús María,231
+2843,14,Linda Vista,231
+2844,15,Mango,231
+2845,16,Papagayo,231
+2846,17,Pinol,231
+2847,18,Pizotillo,231
+2848,19,Popoyuapa,231
+2849,20,Progreso,231
+2850,21,Pueblo Nuevo,231
+2851,22,San Bosco,231
+2852,23,San Pedro,231
+2853,24,San Ramón,231
+2854,25,Santa Clara Norte (parte),231
+2855,26,Unión,231
+2856,27,Valle,231
+2857,28,Valle Bonito,231
+2858,29,Victoria (parte),231
+2859,30,Villahermosa,231
+2860,31,Villanueva,231
+2861,1,BIJAGUA centro,232
+2862,2,Altamira,232
+2863,3,Carlos Vargas,232
+2864,4,Ángeles,232
+2865,5,Achiote,232
+2866,6,Cuesta Pichardo,232
+2867,7,Chorros,232
+2868,8,Florecitas,232
+2869,9,Flores,232
+2870,10,Higuerón,232
+2871,11,Jardín,232
+2872,12,Macho,232
+2873,13,Pata de Gallo (San Cristóbal) (parte),232
+2874,14,Pueblo Nuevo,232
+2875,15,Reserva,232
+2876,16,San Miguel,232
+2877,17,Santo Domingo,232
+2878,18,Zapote,232
+2879,1,DELICIAS centro,233
+2880,2,Camelias,233
+2881,3,La Cruz,233
+2882,4,México,233
+2883,5,Mocorón,233
+2884,6,Pavas,233
+2885,7,Perla,233
+2886,8,Quebradón,233
+2887,9,Santa Clara Norte (parte),233
+2888,10,Santa Clara Sur,233
+2889,11,Trapiche,233
+2890,12,Victoria (parte),233
+2891,1,DOS RÍOS centro,234
+2892,2,Birmania,234
+2893,3,Brasilia,234
+2894,4,Colonia,234
+2895,5,Gavilán,234
+2896,6,Jabalina,234
+2897,7,Progreso,234
+2898,8,San Luis,234
+2899,1,SAN ISIDRO DE ZAPOTE,235
+2900,2,Cabanga,235
+2901,3,Campo Verde,235
+2902,4,Carmen,235
+2903,5,Cinco Esquinas,235
+2904,6,Chimurria Abajo,235
+2905,7,Flores,235
+2906,8,Jobo,235
+2907,9,Montecristo,235
+2908,10,Nazareth,235
+2909,11,Quebrada Grande,235
+2910,12,San Gabriel,235
+2911,13,San Jorge,235
+2912,14,Socorro,235
+2913,15,Virgen,235
+2914,16,Yolillal (San Antonio),235
+2915,1,CANALETE centro,236
+2916,2,Armenias,236
+2917,3,Las Brisas,236
+2918,4,Buenavista,236
+2919,5,Cuatro Cruces,236
+2920,6,Guacalito,236
+2921,7,Milpas,236
+2922,8,Miramar,236
+2923,9,Pata de Gallo (San Cristóbal) (parte),236
+2924,10,Rosario,236
+2925,11,Verbena (parte),236
+2926,1,LOS CHILES centro,237
+2927,2,Loma,237
+2928,3,Portón,237
+2929,4,Arco Iris,237
+2930,5,Berlín,237
+2931,6,Brisas,237
+2932,7,Buenos Aires,237
+2933,8,Cabro,237
+2934,9,Cachito,237
+2935,10,Caña Castilla,237
+2936,11,Combate,237
+2937,12,Coquital,237
+2938,13,Cristo Rey,237
+2939,14,Cuacas,237
+2940,15,Cuatro Esquinas,237
+2941,16,Delicias,237
+2942,17,El Cruce,237
+2943,18,Escaleras,237
+2944,19,Esperanza,237
+2945,20,Estrella,237
+2946,21,Hernández,237
+2947,22,Isla Chica,237
+2948,23,Las Nubes,237
+2949,24,Maramba,237
+2950,25,Masaya,237
+2951,26,Medio Queso,237
+2952,27,Parque,237
+2953,28,Playuelitas,237
+2954,29,Primavera,237
+2955,30,Pueblo Nuevo,237
+2956,31,Punta Cortés,237
+2957,32,Rampla,237
+2958,33,Refugio,237
+2959,34,Roble,237
+2960,35,San Alejandro,237
+2961,36,San Gerardo,237
+2962,37,San Jerónimo,237
+2963,38,San Pablo,237
+2964,39,Santa Elena,237
+2965,40,Santa Fe,237
+2966,41,Santa Rita,237
+2967,42,Santa Rosa,237
+2968,43,Solanos,237
+2969,44,Trocha,237
+2970,45,Virgen,237
+2971,1,CAÑO NEGRO centro,238
+2972,2,Aguas Negras,238
+2973,3,Islas Cubas,238
+2974,4,Nueva Esperanza,238
+2975,5,Pilones,238
+2976,6,Playuelas,238
+2977,7,Porvenir,238
+2978,8,San Antonio,238
+2979,9,San Emilio,238
+2980,10,Veracruz,238
+2981,1,EL AMPARO centro,239
+2982,2,Alto los Reyes,239
+2983,3,Caño Ciego,239
+2984,4,Cóbano,239
+2985,5,Corozo,239
+2986,6,Corrales,239
+2987,7,Coyol,239
+2988,8,Dos Aguas,239
+2989,9,Gallito,239
+2990,10,Gallo Pinto (parte),239
+2991,11,Montealegre,239
+2992,12,Nueva Lucha,239
+2993,13,Pavón,239
+2994,14,Quebrada Grande,239
+2995,15,Sabogal,239
+2996,16,San Antonio,239
+2997,17,San Francisco,239
+2998,18,San Isidro,239
+2999,19,San José del Amparo,239
+3000,20,San Macario,239
+3001,21,Santa Cecilia,239
+3002,22,Trinidad,239
+3003,23,Vasconia,239
+3004,1,PORVENIR,240
+3005,2,Botijo,240
+3006,3,Chimurria,240
+3007,4,Colonia París,240
+3008,5,Coquitales,240
+3009,6,Gallo Pinto (Parte),240
+3010,7,Lirios,240
+3011,8,Lucha,240
+3012,9,Montealegre (Parte),240
+3013,10,Pueblo Nuevo,240
+3014,11,San Humberto,240
+3015,12,San Isidro,240
+3016,13,San Jorge,240
+3017,14,San Rafael,240
+3018,15,Terranova,240
+3019,16,Tigra,240
+3020,17,Zamba,240
+3021,1,SAN RAFAEL centro,241
+3022,2,Betania,241
+3023,3,Buenos Aires,241
+3024,4,Curirre,241
+3025,5,El Edén,241
+3026,6,El Silencio,241
+3027,7,El Sol,241
+3028,8,Flor,241
+3029,9,Garita,241
+3030,10,Guayabo,241
+3031,11,Jade,241
+3032,12,La Granja,241
+3033,13,La Rivera,241
+3034,14,Los Ángeles,241
+3035,15,Maquencal,241
+3036,16,Margarita,241
+3037,17,Montealegre (Parte),241
+3038,18,Moravia,241
+3039,19,Verde,241
+3040,20,Muerte,241
+3041,21,Palmera,241
+3042,22,Pataste,241
+3043,23,Pataste Abajo,241
+3044,24,Poma (parte),241
+3045,25,Puerto Nuevo,241
+3046,26,Samén Arriba,241
+3047,27,San Juan,241
+3048,28,San Luis,241
+3049,29,San Miguel,241
+3050,30,Santa Fé,241
+3051,31,Santa Marta,241
+3052,32,Tonjibe,241
+3053,33,Treminio,241
+3054,34,Triunfo,241
+3055,35,Viento Fresco,241
+3056,1,BUENA VISTA centro,242
+3057,2,Cabaña (parte),243
+3058,3,Costa Ana,243
+3059,4,El Cruce,243
+3060,5,Guayabito,243
+3061,6,Mónico,243
+3062,7,Samén Abajo,243
+3063,8,San José,243
+3064,9,Thiales,243
+3065,10,Valle del Río,243
+3066,1,CABANGA (Pueblo Nuevo),244
+3067,2,Altagracia,245
+3068,3,Alto Sahíno,245
+3069,4,Bajo Cartagos,245
+3070,5,Pato,245
+3071,6,Pejibaye,245
+3072,7,Pimiento,245
+3073,8,Quebradón,245
+3074,1,KATIRA centro,246
+3075,2,Cabaña (parte),246
+3076,3,Colonia Naranjeña,246
+3077,4,El Valle,246
+3078,5,Florida,246
+3079,6,Las Letras,246
+3080,7,La Paz,246
+3081,8,La Unión,246
+3082,9,Llano Bonito 1,246
+3083,10,Llano Bonito 2,246
+3084,11,Palmera,246
+3085,12,Río Celeste,246
+3086,13,Tujankir 1,246
+3087,14,Tujankir 2,246
+3088,1,RÍO CUARTO centro,247
+3089,2,Bolaños,247
+3090,3,Caño Negro,247
+3091,4,Carmen,247
+3092,5,Carrizal,247
+3093,6,Colonia del Toro,247
+3094,7,Crucero,247
+3095,8,El Hule,247
+3096,9,Laguna; Merced,247
+3097,10,Palmar,247
+3098,11,Palmera,247
+3099,12,Pata de Gallo,247
+3100,13,Pueblo Nuevo,247
+3101,14,Río Cuarto,247
+3102,15,San Gerardo (parte) San Jorge,247
+3103,1,SANTA RITA centro,248
+3104,2,Ángeles Norte,248
+3105,3,Flor,248
+3106,4,La Trinidad,248
+3107,5,Montelirio,248
+3108,6,Naranjales,248
+3109,7,Peoresnada,248
+3110,8,San Gerardo,248
+3111,9,Santa Rita,248
+3112,10,Tabla,248
+3113,1,SANTA ISABEL centro,249
+3114,2,Los Lagos,249
+3115,3,Merced,249
+3116,4,Pinar,249
+3117,5,San Fernando,249
+3118,6,San José,249
+3119,7,San Rafael,249
+3120,8,San Vicente,249
+3121,9,Santa Isabel,249
+3122,1,CARTAGO (parte),250
+3123,2,Ángeles,251
+3124,3,Asís,251
+3125,4,Brisas,251
+3126,5,Calvario,251
+3127,6,Cerrillos,251
+3128,7,Corazón de Jesús,251
+3129,8,Cortinas,251
+3130,9,Cruz de Caravaca (parte),251
+3131,10,Estadio,251
+3132,11,Galera,251
+3133,12,Hospital (parte),251
+3134,13,Istarú,251
+3135,14,Jesús Jiménez (parte),251
+3136,15,Matamoros,251
+3137,16,Montelimar,251
+3138,17,Puebla,251
+3139,18,Soledad,251
+3140,19,Telles,251
+3141,1,CARTAGO (parte),252
+3142,2,Cinco Esquinas,253
+3143,3,Fátima,253
+3144,4,Hospital (parte),253
+3145,5,Jesús Jiménez (parte),253
+3146,6,Laborio,253
+3147,7,Molino,253
+3148,8,Murillo,253
+3149,9,Palmas,253
+3150,10,San Cayetano,253
+3151,1,CARMEN centro,254
+3152,2,Alpes,254
+3153,3,Asilo,254
+3154,4,Cruz de Caravaca (parte),254
+3155,5,Diques,254
+3156,6,Fontana,254
+3157,7,Jora,254
+3158,8,López,254
+3159,9,San Blas,254
+3160,10,Santa Eduvigis,254
+3161,11,Santa Fe,254
+3162,12,Solano,254
+3163,13,Turbina,254
+3164,1,TARAS,255
+3165,2,Alto de Ochomogo,255
+3166,3,Angelina,255
+3167,4,Banderilla,255
+3168,5,Caracol,255
+3169,6,Cooperrosales,255
+3170,7,Cruz,255
+3171,8,Espinal,255
+3172,9,Johnson,255
+3173,10,Kerkua,255
+3174,11,Lima,255
+3175,12,Loyola,255
+3176,13,Molina,255
+3177,14,Nazareth,255
+3178,15,Ochomogo,255
+3179,16,Orontes,255
+3180,17,Pedregal,255
+3181,18,Poroses,255
+3182,19,Quircot,255
+3183,20,Ronda,255
+3184,21,Rosas,255
+3185,22,San Nicolás,255
+3186,23,Violín,255
+3187,1,AGUACALIENTE O SAN FRANCISCO centro,256
+3188,2,Cocorí,256
+3189,3,Coronado,256
+3190,4,Guayabal (parte),256
+3191,5,Hervidero,256
+3192,6,López,256
+3193,7,Lourdes,256
+3194,8,Padua,256
+3195,9,Pitahaya,256
+3196,10,Barro Morado,256
+3197,11,Cenicero,256
+3198,12,Muñeco,256
+3199,13,Navarrito,256
+3200,1,GUADALUPE O ARENILLA centro,257
+3201,2,Américas,257
+3202,3,Higuerón,257
+3203,4,Joya,257
+3204,5,Marías,257
+3205,6,Las Palmas,257
+3206,1,CORRALILLO centro,258
+3207,2,Alumbre,258
+3208,3,Bajo Amador,258
+3209,4,Calle Valverdes,258
+3210,5,Guaria,258
+3211,6,Hortensia,258
+3212,7,Loma Larga,258
+3213,8,Llano Ángeles,258
+3214,9,Palangana,258
+3215,10,Rincón de Abarca,258
+3216,11,Río Conejo,258
+3217,12,Salitrillo,258
+3218,13,San Antonio,258
+3219,14,San Joaquín,258
+3220,15,San Juan Norte,258
+3221,16,San Juan Sur,258
+3222,17,Santa Elena (parte),258
+3223,18,Santa Elena Arriba,258
+3224,1,TIERRA BLANCA centro,259
+3225,2,Cuesta de Piedra,259
+3226,3,Misión Norte,259
+3227,4,Misión Sur,259
+3228,5,Ortiga,259
+3229,6,Rodeo,259
+3230,7,Sabanilla,259
+3231,8,Sabanillas,259
+3232,9,Santísima Trinidad,259
+3233,1,DULCE NOMBRE centro,260
+3234,2,Caballo Blanco (parte),260
+3235,3,San José,260
+3236,4,Cóncavas,260
+3237,5,Navarro,260
+3238,6,Perlas,260
+3239,7,Río Claro,260
+3240,1,LLANO GRANDE centro,261
+3241,2,Azahar,261
+3242,3,Avance,261
+3243,4,Barquero,261
+3244,5,Cañada,261
+3245,6,Laguna,261
+3246,7,Pénjamo,261
+3247,8,Rodeo,261
+3248,1,QUEBRADILLA centro,262
+3249,2,Alto Quebradilla,262
+3250,3,Azahar,262
+3251,4,Bermejo,262
+3252,5,Cañada,262
+3253,6,Copalchí,262
+3254,7,Coris,262
+3255,8,Garita (parte),262
+3256,9,Rueda,262
+3257,10,Valle Verde,262
+3258,1,PARAÍSO centro,263
+3259,2,Alto Birrisito,263
+3260,3,Barro Hondo,263
+3261,4,Birrisito,263
+3262,5,Chiral,263
+3263,6,Chiverre,263
+3264,7,Cruz Roja,263
+3265,8,Cucaracho,263
+3266,9,Estación,263
+3267,10,Joya,263
+3268,11,Luisiana,263
+3269,12,Pandora,263
+3270,13,Piedra Grande,263
+3271,14,Rincón,263
+3272,15,Sanchirí,263
+3273,16,Solares,263
+3274,17,Soledad,263
+3275,18,Ujarrás,263
+3276,19,Veintiocho de Diciembre,263
+3277,20,Villa Isabel,263
+3278,1,SANTIAGO centro,264
+3279,2,Acevedo,264
+3280,3,Ajenjal,264
+3281,4,Arrabará,264
+3282,5,Birrís (este),264
+3283,6,Cúscares,264
+3284,7,Flor,264
+3285,8,Lapuente,264
+3286,9,Mesas,264
+3287,10,Mesitas,264
+3288,11,Nueva Ujarrás,264
+3289,12,Pedregal,264
+3290,13,Piedra Azul,264
+3291,14,Puente Fajardo,264
+3292,15,Río Regado,264
+3293,16,Talolinga,264
+3294,17,Yas,264
+3295,1,OROSI centro,265
+3296,2,Alegría,265
+3297,3,Alto Araya,265
+3298,4,Calle Jucó,265
+3299,5,Hotel,265
+3300,6,Nubes,265
+3301,7,Palomas,265
+3302,8,Palomo,265
+3303,9,Patillos,265
+3304,10,Puente Negro,265
+3305,11,Purisil,265
+3306,12,Queverí,265
+3307,13,Río Macho,265
+3308,14,San Rafael,265
+3309,15,Sitio,265
+3310,16,Tapantí,265
+3311,17,Troya,265
+3312,18,Villa Mills,265
+3313,1,CACHÍ centro,266
+3314,2,Peñas Blancas,266
+3315,3,Pueblo Nuevo,266
+3316,4,Bajos de Dorotea,266
+3317,5,Bajos de Urasca,266
+3318,6,Guábata,266
+3319,7,Guatusito,266
+3320,8,Hamaca (parte),266
+3321,9,Joyas,266
+3322,10,Loaiza,266
+3323,11,San Jerónimo,266
+3324,12,Urasca,266
+3325,13,Volio,266
+3326,1,LLANOS  ,267
+3327,2,Ayala,267
+3328,3,Páez (parte),267
+3329,4,Salvador,267
+3330,1,BIRRISITO,268
+3331,1,TRES RÍOS centro,269
+3332,2,Antigua,269
+3333,3,Villas,269
+3334,1,SAN DIEGO centro,270
+3335,2,Eulalia,270
+3336,3,Florencio del Castillo,270
+3337,4,Jirales,270
+3338,5,Mariana,270
+3339,6,Tacora,270
+3340,7,Rincón Mesén (parte),270
+3341,8,Santiago del Monte,270
+3342,1,SAN JUAN centro,271
+3343,2,Araucarias (parte),271
+3344,3,Danza del Sol,271
+3345,4,Herrán,271
+3346,5,Loma Verde,271
+3347,6,Unión,271
+3348,7,Villas de Ayarco,271
+3349,1,SAN RAFAEL centro,272
+3350,2,Carpintera,272
+3351,3,San Miguel,272
+3352,4,San Vicente,272
+3353,5,Pilarica,272
+3354,6,Quebrada del Fierro,272
+3355,7,Fierro,272
+3356,8,Yerbabuena,272
+3357,1,CONCEPCIÓN centro,273
+3358,2,Cima,273
+3359,3,Cuadrante,273
+3360,4,Lirios,273
+3361,5,Llanos de Concepción,273
+3362,6,Naranjal (parte),273
+3363,7,Poró,273
+3364,8,Salitrillo,273
+3365,9,San Francisco,273
+3366,10,San Josecito (parte),273
+3367,1,DULCE NOMBRE centro,274
+3368,2,Alto del Carmen,274
+3369,3,Tirrá,274
+3370,1,SAN RAMÓN centro,275
+3371,2,Bellomonte,275
+3372,3,Cerrillo,275
+3373,4,Cumbres,275
+3374,5,Holandés,275
+3375,6,Mansiones (parte),275
+3376,7,Montaña Rusa (parte),275
+3377,8,Naranjal (parte),275
+3378,9,San Josecito (parte),275
+3379,1,RÍO AZUL centro,276
+3380,2,Lindavista (Loma Gobierno),276
+3381,3,Quebradas,276
+3382,4,Rincón Mesén (parte),276
+3383,1,JUAN VIÑAS centro,277
+3384,2,Alpes,277
+3385,3,Buenos Aires,277
+3386,4,Maravilla,277
+3387,5,Naranjito,277
+3388,6,Naranjo,277
+3389,7,San Martín,277
+3390,8,Durán,277
+3391,9,Gloria,277
+3392,10,Quebrada Honda,277
+3393,11,Santa Elena,277
+3394,12,Santa Marta,277
+3395,13,Victoria (Alto Victoria),277
+3396,1,TUCURRIQUE centro,278
+3397,2,Alto Campos,278
+3398,3,Bajo Congo,278
+3399,4,Congo,278
+3400,5,Duan,278
+3401,6,Esperanza,278
+3402,7,Hamaca (parte),278
+3403,8,Sabanilla,278
+3404,9,San Antonio del Monte,278
+3405,10,Volconda,278
+3406,11,Vueltas,278
+3407,1,PEJIBAYE centro,279
+3408,2,Alto Humo,279
+3409,3,Cacao,279
+3410,4,Cantarrana,279
+3411,5,Casa de Teja,279
+3412,6,Ceiba,279
+3413,7,Chucuyo,279
+3414,8,Esperanza,279
+3415,9,Gato,279
+3416,10,Humo,279
+3417,11,Joyas,279
+3418,12,Juray,279
+3419,13,Omega,279
+3420,14,Oriente,279
+3421,15,San Gerardo,279
+3422,16,Selva,279
+3423,17,Taus,279
+3424,18,Tausito,279
+3425,19,Yolanda,279
+3426,20,Zapote,279
+3427,1,La Victoria,280
+3428,1,TURRIALBA centro,281
+3429,2,Américas,281
+3430,3,Ángeles,281
+3431,4,Bajo Barrientos,281
+3432,5,Cabiria,281
+3433,6,Campabadal,281
+3434,7,Cañaveral,281
+3435,8,Castro Salazar,281
+3436,9,Cementerio,281
+3437,10,Chiz,281
+3438,11,Clorito Picado,281
+3439,12,Colorado,281
+3440,13,Dominica,281
+3441,14,El Silencio,281
+3442,15,Esmeralda,281
+3443,16,Florencia,281
+3444,17,Guaria,281
+3445,18,Haciendita,281
+3446,19,Margot,281
+3447,20,Murcia,281
+3448,21,Nochebuena,281
+3449,22,Numa,281
+3450,23,Pastor,281
+3451,24,Pavas,281
+3452,25,Poró,281
+3453,26,Pueblo Nuevo,281
+3454,27,Recreo,281
+3455,28,Repasto,281
+3456,29,Roncha,281
+3457,30,San Cayetano,281
+3458,31,San Juan Norte,281
+3459,32,San Juan Sur,281
+3460,33,San Rafael,281
+3461,34,Sictaya,281
+3462,1,LA SUIZA centro,282
+3463,2,Leona (parte),282
+3464,3,Abelardo Rojas,282
+3465,4,Alto Alemania,282
+3466,5,Atirro,282
+3467,6,Balalaica,282
+3468,7,Buenos Aires,282
+3469,8,Canadá,282
+3470,9,Carmen,282
+3471,10,Cruzada,282
+3472,11,Danta,282
+3473,12,Gaviotas,282
+3474,13,Guadalupe,282
+3475,14,Máquina Vieja,282
+3476,15,Margarita,282
+3477,16,Mollejones,282
+3478,17,Pacayitas,282
+3479,18,Pacuare,282
+3480,19,Piedra Grande,282
+3481,20,Porvenir de la Esperanza,282
+3482,21,Puente Alto,282
+3483,22,San Vicente,282
+3484,23,Selva (parte),282
+3485,24,Silencio,282
+3486,25,Sonia,282
+3487,1,PERALTA centro,283
+3488,2,El Seis,283
+3489,1,SANTA CRUZ centro,284
+3490,2,Bajos de Bonilla,284
+3491,3,Bolsón (parte),284
+3492,4,Bonilla,284
+3493,5,Buenos Aires,284
+3494,6,Calle Vargas,284
+3495,7,Carmen (parte),284
+3496,8,Esperanza,284
+3497,9,Guayabo Arriba,284
+3498,10,La Central,284
+3499,11,La Fuente,284
+3500,12,Pastora,284
+3501,13,Picada,284
+3502,14,Raicero,284
+3503,15,Reunión,284
+3504,16,San Antonio,284
+3505,17,San Diego,284
+3506,18,Torito (parte),284
+3507,1,SANTA TERESITA centro (Lajas),285
+3508,2,Cooperativa,285
+3509,3,Bonilla Arriba,285
+3510,4,Buenavista,285
+3511,5,Cas,285
+3512,6,Cimarrones,285
+3513,7,Colonia Guayabo,285
+3514,8,Colonia San Ramón,285
+3515,9,Corralón,285
+3516,10,Dulce Nombre,285
+3517,11,El Dos,285
+3518,12,Fuente,285
+3519,13,Guayabo (parte),285
+3520,14,Líbano,285
+3521,15,Nueva Flor,285
+3522,16,Palomo,285
+3523,17,Pradera,285
+3524,18,Sandoval,285
+3525,19,Santa Tecla,285
+3526,20,Sauce,285
+3527,21,Torito (parte),285
+3528,22,Torito Sur,285
+3529,1,PAVONES centro,286
+3530,2,Angostura,286
+3531,3,Bóveda,286
+3532,4,Buenavista,286
+3533,5,Chitaría,286
+3534,6,Eslabón,286
+3535,7,Isla Bonita (parte),286
+3536,8,Jabillos,286
+3537,9,San Rafael,286
+3538,10,Sitio Mata,286
+3539,11,Yama,286
+3540,1,TUIS centro,287
+3541,2,Alto Surtubal,287
+3542,3,Ángeles,287
+3543,4,Bajo Pacuare (norte),287
+3544,5,Cabeza de Buey,287
+3545,6,Cien Manzanas,287
+3546,7,Colonia San Lucas,287
+3547,8,Colonia Silencio,287
+3548,9,Colonias,287
+3549,10,Leona (parte),287
+3550,11,Mata de Guineo,287
+3551,12,Nubes,287
+3552,13,Paulina,287
+3553,14,Sacro,287
+3554,15,San Bosco,287
+3555,16,Selva (parte),287
+3556,1,PLATANILLO,288
+3557,2,Bajo Pacuare (sur),288
+3558,3,Dos Amigos,288
+3559,4,Dulce Nombre,288
+3560,5,Guineal,288
+3561,6,Jicotea,288
+3562,7,Mina,288
+3563,8,Morado,288
+3564,9,Quebradas,288
+3565,10,San Martín,288
+3566,11,San Rafael,288
+3567,12,Tacotal,288
+3568,1,SANTA ROSA centro,289
+3569,2,Aquiares,289
+3570,3,Bolsón (parte),289
+3571,4,Carmen (parte),289
+3572,5,Río Claro,289
+3573,6,San Rafael,289
+3574,7,Verbena Norte,289
+3575,8,Verbena Sur,289
+3576,1,TRES EQUIS centro,290
+3577,2,Alto June,290
+3578,3,Corozal,290
+3579,4,Flor,290
+3580,5,Guanacasteca,290
+3581,6,Isla Bonita(parte),290
+3582,7,Pilón de Azúcar,290
+3583,8,San Pablo,290
+3584,9,Sol,290
+3585,1,EL MORA,291
+3586,2,Azul,292
+3587,3,Ánimas,292
+3588,4,Alto de Varas (Alto Varal),292
+3589,5,Guayabo (parte),292
+3590,6,Jesús María,292
+3591,7,La Isabel,292
+3592,8,San Martín,292
+3593,1,GRANO DE ORO O XARA,293
+3594,2,Carolina,293
+3595,3,Chirripó Abajo (parte),293
+3596,4,Chirripó Arriba,293
+3597,5,Damaris,293
+3598,6,Fortuna,293
+3599,7,Jekui,293
+3600,8,Moravia,293
+3601,9,Namaldí,293
+3602,10,Pacuare arriba,293
+3603,11,Paso Marcos,293
+3604,12,Playa Hermosa,293
+3605,13,Porvenir,293
+3606,14,Quetzal,293
+3607,15,Raíz de Hule,293
+3608,16,Río Blanco,293
+3609,17,Santubal,293
+3610,18,Surí,293
+3611,19,Tsipiri (Platanillo),293
+3612,20,Vereh,293
+3613,1,PACAYAS centro,294
+3614,2,Lourdes,294
+3615,3,Patalillo,294
+3616,4,Buenavista,294
+3617,5,Buenos Aires,294
+3618,6,Charcalillos,294
+3619,7,Encierrillo,294
+3620,8,Los Pinos (Coliblanco),294
+3621,9,Llano Grande,294
+3622,10,Pascón,294
+3623,11,Pastora,294
+3624,12,Plantón,294
+3625,13,San Martín (Irazú Sur),294
+3626,14,San Rafael de Irazú,294
+3627,1,CERVANTES centro,295
+3628,2,Bajo Malanga,295
+3629,3,Aguas (parte),295
+3630,4,Bajo Solano,295
+3631,5,Ciudad del Cielo,295
+3632,6,Descanso,295
+3633,7,El Alto,295
+3634,8,Mata de Guineo,295
+3635,9,Monticel,295
+3636,1,CAPELLADES centro,296
+3637,2,Bajo Abarca,296
+3638,3,Lourdes (Callejón),296
+3639,4,Coliblanco,296
+3640,5,Santa Teresa,296
+3641,1,SAN RAFAEL centro,297
+3642,3,Alto Cerrillos (Corazón de Jesús),297
+3643,4,Artavia,297
+3644,5,Barrial,297
+3645,6,Bosque,297
+3646,7,Breñas,297
+3647,8,Caballo Blanco (parte),297
+3648,9,Chircagre,297
+3649,10,Cuesta Chinchilla,297
+3650,11,Flores,297
+3651,12,Gamboa,297
+3652,13,José Jesús Méndez,297
+3653,14,Juan Pablo II,297
+3654,15,Llano,297
+3655,16,Monseñor Sanabria,297
+3656,17,Sagrada Familia,297
+3657,1,COT centro,298
+3658,2,Mata de Mora,298
+3659,3,Páez (parte),298
+3660,4,Paso Ancho,298
+3661,5,San Cayetano,298
+3662,1,POTRERO CERRADO centro,299
+3663,2,Maya,299
+3664,3,Cruce,299
+3665,4,Pisco,299
+3666,5,Sanabria,299
+3667,6,San Juan de Chicuá,299
+3668,1,CIPRESES centro,300
+3669,2,Aguas (parte),300
+3670,3,Barrionuevo,300
+3671,4,Boquerón,300
+3672,5,Capira,300
+3673,6,Oratorio,300
+3674,1,SANTA ROSA centro,301
+3675,2,Cuesta Quemados,301
+3676,3,Pasquí,301
+3677,4,Platanillal,301
+3678,5,San Gerardo,301
+3679,6,San Juan,301
+3680,7,San Martín,301
+3681,8,San Pablo,301
+3682,9,Titoral,301
+3683,1,EL TEJAR centro,302
+3684,2,Asunción,302
+3685,3,Barahona,302
+3686,4,Barrio Nuevo,302
+3687,5,Colonia,302
+3688,6,Chavarría,302
+3689,7,Sabana,302
+3690,8,Sabana Grande,302
+3691,9,San Rafael,302
+3692,10,Santa Gertrudis,302
+3693,11,Sauces,302
+3694,12,Silo,302
+3695,13,Viento Fresco,302
+3696,1,SAN ISIDRO centro,303
+3697,2,Guatuso,303
+3698,3,Higuito,303
+3699,4,Potrerillos,303
+3700,5,Altamiradas,303
+3701,6,Alto San Francisco,303
+3702,7,Bajo Gloria,303
+3703,8,Bajos de León,303
+3704,9,Barrancas (parte),303
+3705,10,Cangreja,303
+3706,11,Cañón (parte),303
+3707,12,Casablanca,303
+3708,13,Casamata,303
+3709,14,Cascajal,303
+3710,15,Conventillo,303
+3711,16,Cruces,303
+3712,17,Cruz,303
+3713,18,Chonta (parte),303
+3714,19,Damita,303
+3715,20,Dos Amigos,303
+3716,21,Empalme (parte),303
+3717,22,Esperanza,303
+3718,23,Estrella,303
+3719,24,Guayabal (parte),303
+3720,25,La Luchita,303
+3721,26,La Paz,303
+3722,27,Macho Gaff,303
+3723,28,Montserrat,303
+3724,29,Ojo de Agua (parte),303
+3725,30,Palmital,303
+3726,31,Palmital Sur,303
+3727,32,Palo Verde,303
+3728,33,Paso Macho (parte),303
+3729,34,Purires (parte),303
+3730,35,Salsipuedes (parte),303
+3731,36,San Cayetano,303
+3732,37,Surtubal,303
+3733,38,Tres de Junio,303
+3734,39,Vara del Roble,303
+3735,1,TOBOSI centro,304
+3736,2,Achiotillo,304
+3737,3,Barrancas (parte),304
+3738,4,Bodocal,304
+3739,5,Garita (parte),304
+3740,6,Purires (parte),304
+3741,7,Tablón,304
+3742,1,PATIO DE AGUA centro,305
+3743,2,Bajo Zopilote,305
+3744,3,Caragral,305
+3745,4,Común,305
+3746,1,HEREDIA centro,306
+3747,2,Ángeles,306
+3748,3,Carmen,306
+3749,4,Corazón de Jesús,306
+3750,5,Chino,306
+3751,6,Estadio,306
+3752,7,Fátima,306
+3753,8,Guayabal,306
+3754,9,La India,306
+3755,10,Lourdes,306
+3756,11,Hospital,306
+3757,12,María Auxiliadora (parte),306
+3758,13,Oriente,306
+3759,14,Pirro,306
+3760,15,Puebla (parte),306
+3761,16,Rancho Chico,306
+3762,17,San Fernando,306
+3763,18,San Vicente,306
+3764,1,MERCEDES SUR,307
+3765,2,Burío,307
+3766,3,Carbonal,307
+3767,4,Cubujuquí,307
+3768,5,España,307
+3769,6,Labrador,307
+3770,8,Monte Bello,307
+3771,9,San Jorge,307
+3772,10,Santa Inés,307
+3773,1,SAN FRANCISCO centro,308
+3774,2,Aries,308
+3775,3,Aurora (parte),308
+3776,4,Bernardo Benavides,308
+3777,5,Chucos,308
+3778,6,El Cristo (parte),308
+3779,7,Esmeralda,308
+3780,8,Esperanza,308
+3781,9,Granada,308
+3782,10,Gran Samaria,308
+3783,11,Guararí,308
+3784,12,Lagos,308
+3785,13,Malinches,308
+3786,14,Mayorga (parte),308
+3787,15,Nísperos 3,308
+3788,16,Palma,308
+3789,17,Trébol,308
+3790,18,Tropical,308
+3791,1,BARREAL,309
+3792,2,Arcos,310
+3793,3,Aurora (parte),310
+3794,4,Bajos del Virilla (San Rafael),310
+3795,5,Cariari (parte),310
+3796,6,Carpintera,310
+3797,7,El Cristo (parte),310
+3798,8,Lagunilla,310
+3799,9,Linda del Norte,310
+3800,10,Mayorga (parte),310
+3801,11,Monterrey,310
+3802,12,Pitahaya,310
+3803,13,Pueblo Nuevo,310
+3804,14,Valencia (parte),310
+3805,15,Vista Nosara,310
+3806,1,VARA BLANCA centro,311
+3807,2,Jesús María,311
+3808,3,Legua,311
+3809,4,Legua de Barva,311
+3810,5,Montaña Azul,311
+3811,6,San Rafael,311
+3812,7,Virgen del Socorro (parte),311
+3813,1,BARVA centro,312
+3814,2,Don Abraham,312
+3815,3,San Bartolomé,312
+3816,1,SAN PEDRO centro,313
+3817,2,Bosque,313
+3818,3,Calle Amada,313
+3819,4,Calle Los Naranjos,313
+3820,5,Espinos,313
+3821,6,Máquina,313
+3822,7,Mirador,313
+3823,8,Morazán,313
+3824,9,Puente Salas,313
+3825,10,Segura,313
+3826,11,Vista Llana,313
+3827,1,SAN PABLO centro,314
+3828,2,Cementerio,314
+3829,3,Ibís,314
+3830,4,Buenavista,314
+3831,1,SAN ROQUE centro,315
+3832,2,Bello Higuerón,315
+3833,3,Los Luises,315
+3834,4,Plantación,315
+3835,5,Pórtico,315
+3836,1,SANTA LUCÍA centro,316
+3837,2,Doña Iris,316
+3838,3,Getsemaní (parte),316
+3839,4,Jardines del Beneficio,316
+3840,5,Palmar (parte),316
+3841,6,Paso Viga (parte),316
+3842,7,Pedregal,316
+3843,1,SAN JOSÉ DE LA MONTAÑA centro,317
+3844,2,Cipresal,317
+3845,3,Doña Blanca,317
+3846,4,Doña Elena,317
+3847,5,El Collado,317
+3848,6,Gallito,317
+3849,7,Higuerón,317
+3850,8,Huacalillo,317
+3851,9,Meseta,317
+3852,10,Monte Alto,317
+3853,11,Paso Llano,317
+3854,12,Plan de Birrí,317
+3855,13,Porrosatí (Paso Llano),317
+3856,14,Roblealto,317
+3857,15,Sacramento,317
+3858,16,San Martín,317
+3859,17,San Miguel,317
+3860,18,Santa Clara,317
+3861,19,Zapata,317
+3862,1,Puente Salas,318
+3863,1,SANTO DOMINGO centro,319
+3864,1,SAN VICENTE centro,320
+3865,2,Barro de Olla,320
+3866,3,Calle Don Pedro,320
+3867,4,Quintana,320
+3868,5,Yurusti,320
+3869,1,SAN MIGUEL SUR,321
+3870,2,Canoa (parte),321
+3871,3,Castilla (El Carmen),321
+3872,4,Cuesta Rojas,321
+3873,5,Montero,321
+3874,6,Socorro,321
+3875,7,Villa Rossi,321
+3876,1,PARACITO centro,322
+3877,2,Represa,322
+3878,1,SANTO TOMÁS centro,323
+3879,2,Barquero,323
+3880,3,Higinia,323
+3881,4,Pacífica,323
+3882,1,SANTA ROSA centro,324
+3883,2,La Cooperativa,324
+3884,3,Pedro León,324
+3885,4,Primero de Mayo,324
+3886,5,Quisqueya,324
+3887,6,Rinconada,324
+3888,7,Valencia (parte),324
+3889,1,ÁNGELES,325
+3890,2,Calle Vieja,325
+3891,3,Lourdes,325
+3892,4,Quebradas (parte),325
+3893,1,SAN LUIS,326
+3894,2,Caballero,326
+3895,3,Canoa (parte),326
+3896,1,SANTA BÁRBARA centro,327
+3897,2,Trompezón,327
+3898,1,SAN PEDRO centro,328
+3899,2,Betania,328
+3900,3,Rosales (parte),328
+3901,1,SAN JUAN ABAJO,329
+3902,2,Cinco Esquinas,329
+3903,3,Lotes Moreira,329
+3904,4,San Juan Arriba,329
+3905,1,JESÚS centro,330
+3906,2,Altagracia,330
+3907,3,Birrí,330
+3908,4,Calle Quirós (parte),330
+3909,5,Catalina,330
+3910,6,Común (parte),330
+3911,7,Cuesta Colorada,330
+3912,8,Guachipelines,330
+3913,9,Guaracha,330
+3914,10,Ulises,330
+3915,1,ROBLE,331
+3916,2,Amapola,331
+3917,3,Cartagos,331
+3918,4,Chagüite,331
+3919,5,Giralda,331
+3920,6,Guararí,331
+3921,7,Tranquera,331
+3922,1,SETILLA,332
+3923,2,Marías,332
+3924,3,Purabá,332
+3925,4,San Bosco,332
+3926,5,Calle Quirós (parte),332
+3927,6,Común (parte),332
+3928,7,Lajas,332
+3929,1,SAN RAFAEL centro,333
+3930,2,Amistad,333
+3931,3,Matasano (parte),333
+3932,4,Paso Viga (parte),333
+3933,1,SAN JOSECITO centro,334
+3934,2,Bajo Molinos,334
+3935,3,Joya,334
+3936,4,Matasano (parte),334
+3937,5,Peralta,334
+3938,6,Santísima Trinidad,334
+3939,1,SANTIAGO centro,335
+3940,2,Jardines de Roma,335
+3941,3,Jardines Universitarios,335
+3942,4,Suiza,335
+3943,1,ÁNGELES centro,336
+3944,2,Calle Hernández (parte),336
+3945,3,Castillo,336
+3946,4,Cerro Redondo,336
+3947,5,Getsemaní (parte),336
+3948,6,Joaquina,336
+3949,7,Lobos,336
+3950,8,Montecito,336
+3951,9,Palmar (parte),336
+3952,10,Paso Viga (parte),336
+3953,11,Puente Piedra (parte),336
+3954,12,Quintanar de la Sierra,336
+3955,13,Saca,336
+3956,14,Uvita,336
+3957,1,CONCEPCIÓN centro,337
+3958,2,Anonos,337
+3959,3,Burial,337
+3960,4,Calle Chávez (parte),337
+3961,5,Calle Hernández (parte),337
+3962,6,Charquillo,337
+3963,7,Ciénagas,337
+3964,8,Mora,337
+3965,9,Palenque,337
+3966,10,Pilas,337
+3967,11,Puente Piedra (parte),337
+3968,12,Tierra Blanca (parte),337
+3969,13,Turú,337
+3970,1,SAN ISIDRO centro,338
+3971,2,Calle Cementerio,338
+3972,3,Colonia Isidreña,338
+3973,4,Cooperativa,338
+3974,5,Cristo Rey,338
+3975,6,El Volador,338
+3976,7,Villaval,338
+3977,1,SAN JOSECITO,339
+3978,2,Santa Cruz,340
+3979,3,El Arroyo,340
+3980,4,Huacalillos,340
+3981,5,Santa Cecilia (parte),340
+3982,6,Santa Elena,340
+3983,7,Trapiche,340
+3984,8,Yerbabuena,340
+3985,1,CONCEPCIÓN centro,341
+3986,2,Alhajas,341
+3987,3,Calle Caricias,341
+3988,4,Calle Chávez (parte),341
+3989,5,Santa Cecilia,341
+3990,1,SAN FRANCISO centro,342
+3991,2,Aguacate,343
+3992,3,Astillero,343
+3993,4,Quebradas (parte),343
+3994,5,Rinconada,343
+3995,6,Tierra Blanca (parte),343
+3996,7,Vallevistar,343
+3997,8,Viento Fresco,343
+3998,1,SAN ANTONIO centro,344
+3999,2,Chompipes (parte),344
+4000,3,Escobal,344
+4001,4,Labores (parte),344
+4002,5,San Vicente,344
+4003,6,Zaiquí,344
+4004,1,LA RIBERA centro,345
+4005,2,Cristo Rey (parte),345
+4006,3,Echeverría (parte),345
+4007,4,Fuente,345
+4008,5,Labores (parte),345
+4009,6,Vista Linda,345
+4010,1,LA ASUNCION centro,346
+4011,2,Arbolito,347
+4012,3,Bonanza,347
+4013,4,Bosques de Doña Rosa,347
+4014,5,Cariari (parte),347
+4015,6,Chompipes (parte),347
+4016,7,Cristo Rey (parte),347
+4017,1,SAN JOAQUÍN centro,348
+4018,2,Campanario,348
+4019,3,Joaquineños,348
+4020,4,Luisiana,348
+4021,5,Santa Marta,348
+4022,6,Trinidad,348
+4023,7,Villa Lico,348
+4024,8,Villa María,348
+4025,1,SAN LORENZO,349
+4026,2,Barrantes,349
+4027,3,Ugalde,349
+4028,1,LLORENTE centro,350
+4029,2,Ángeles,350
+4030,3,Año 2000,350
+4031,4,Cristo Rey (parte),350
+4032,5,Echeverría (parte),350
+4033,6,Geranios,350
+4034,7,Las Hadas,350
+4035,8,Santa Elena,350
+4036,9,Siglo Veintiuno,350
+4037,1,SAN PABLO centro,351
+4038,2,Acapulco,351
+4039,3,Amada,351
+4040,4,Asovigui,351
+4041,5,Colonial,351
+4042,6,Cruces,351
+4043,7,Doña Nina,351
+4044,8,Irazú,351
+4045,9,Irma,351
+4046,10,July,351
+4047,11,María Auxiliadora (parte),351
+4048,12,Nueva Jerusalén,351
+4049,13,Pastoras,351
+4050,14,Puebla (parte),351
+4051,15,Santa Isabel,351
+4052,16,Villa Cortés,351
+4053,17,Villa Dolores,351
+4054,18,Villa Quintana,351
+4055,19,Uriche,351
+4056,20,Uruca,351
+4057,1,MIRAFLORES,352
+4058,2,Corobicí,352
+4059,3,Estrella,352
+4060,4,Rincón de Ricardo,352
+4061,5,Santa Fe,352
+4062,1,PUERTO VIEJO centro,353
+4063,2,Colina,354
+4064,3,Esperanza,354
+4065,4,Jardín,354
+4066,5,Loma Linda,354
+4067,6,Progreso,354
+4068,7,Achiote,354
+4069,8,Ahogados,354
+4070,9,Arbolitos (parte),354
+4071,10,Arrepentidos,354
+4072,11,Boca Ceiba,354
+4073,12,Boca Río Sucio,354
+4074,13,Bun,354
+4075,14,Cabezas,354
+4076,15,Canfín,354
+4077,16,Caño Negro,354
+4078,17,Cerro Negro (Parte),354
+4079,18,Colonia San José,354
+4080,19,Coyol,354
+4081,20,Cristo Rey,354
+4082,21,Chilamate,354
+4083,22,El Progreso,354
+4084,24,Estrellales,354
+4085,25,Guaria,354
+4086,27,Jormo,354
+4087,28,Las Marías,354
+4088,29,Las Orquídeas,354
+4089,30,Los Lirios,354
+4090,31,Malinche,354
+4091,32,Media Vuelta,354
+4092,33,Medias (parte),354
+4093,34,Muelle,354
+4094,35,Naranjal,354
+4095,36,Nogal,354
+4096,37,Pavas,354
+4097,38,Rojomaca,354
+4098,39,San José,354
+4099,40,San Julián,354
+4100,41,Tres Rosales,354
+4101,42,Vega de Sardinal (parte),354
+4102,43,Zapote,354
+4103,1,LA VIRGEN centro,355
+4104,2,Ángeles,355
+4105,3,Arbolitos (parte),355
+4106,4,Bajos de Chilamate,355
+4107,5,Boca Sardinal,355
+4108,6,Bosque,355
+4109,7,Búfalo,355
+4110,8,Delicias,355
+4111,9,El Uno,355
+4112,10,Esquipulas,355
+4113,11,Las Palmitas,355
+4114,12,Laquí,355
+4115,13,Lomas,355
+4116,14,Llano Grande,355
+4117,15,Magsaysay,355
+4118,16,Masaya,355
+4119,17,Medias (parte),355
+4120,18,Pangola,355
+4121,19,Pozo Azul,355
+4122,20,Quebrada Grande,355
+4123,21,Río Magdaleno,355
+4124,22,Roble,355
+4125,23,San Gerardo (parte),355
+4126,24,San Isidro,355
+4127,25,San José Sur,355
+4128,26,San Ramón,355
+4129,27,La Delia,355
+4130,28,Sardinal,355
+4131,29,Tirimbina,355
+4132,30,Vega de Sardinal (parte),355
+4133,31,Venados,355
+4134,1,LAS HORQUETAS centro,356
+4135,2,Bambuzal,357
+4136,3,Cerro Negro (parte),357
+4137,4,Colonia Bambú,357
+4138,5,Colonia Colegio,357
+4139,6,Colonia Esperanza,357
+4140,7,Colonia Huetar,357
+4141,8,Colonia Nazareth,357
+4142,9,Colonia Victoria,357
+4143,10,Colonia Villalobos,357
+4144,11,Cubujuquí,357
+4145,12,Chiripa,357
+4146,13,Fátima,357
+4147,14,Flaminia,357
+4148,15,Finca Uno,357
+4149,16,Finca Dos,357
+4150,17,Finca Tres,357
+4151,18,Finca Cinco,357
+4152,19,Finca Agua,357
+4153,20,Finca Zona Siete,357
+4154,21,Finca Zona Ocho,357
+4155,22,Finca Zona Diez,357
+4156,23,Finca Zona Once,357
+4157,24,Isla,357
+4158,25,Isla Grande,357
+4159,26,Isla Israel,357
+4160,27,La Conquista,357
+4161,28,La Chávez,357
+4162,29,La Vuelta,357
+4163,30,Rambla,357
+4164,31,Pedernales,357
+4165,32,Platanera,357
+4166,33,Río Frío,357
+4167,34,San Bernardino,357
+4168,35,San Luis,357
+4169,36,Santa Clara,357
+4170,37,Tapa Viento,357
+4171,38,Ticarí,357
+4172,39,Tigre,357
+4173,40,Villa Isabel,357
+4174,41,Villa Nueva,357
+4175,1,LA ALDEA,358
+4176,2,Caño San Luis,358
+4177,3,Chimurria,358
+4178,4,Chirriposito,358
+4179,5,Delta,358
+4180,6,Gaspar,358
+4181,7,Lagunilla,358
+4182,8,La Lucha,358
+4183,9,Tigra,358
+4184,1,GOLFITO,359
+4185,2,Caño Tambor,359
+4186,3,Copalchí,359
+4187,4,Cureña,359
+4188,5,Paloseco,359
+4189,6,Remolinito,359
+4190,7,Tambor,359
+4191,8,Tierrabuena,359
+4192,9,Trinidad,359
+4193,10,Unión del Toro,359
+4194,11,Vuelta Cabo de Hornos,359
+4195,1,LIBERIA centro,360
+4196,2,Alaska,360
+4197,3,Ángeles,360
+4198,4,Arena,360
+4199,5,Buenos Aires,360
+4200,6,Capulín,360
+4201,7,Caraña,360
+4202,8,Cerros,360
+4203,9,Choricera,360
+4204,10,Chorotega,360
+4205,11,Condega,360
+4206,12,Corazón de Jesús,360
+4207,13,Curime,360
+4208,14,Gallera,360
+4209,15,Guaria,360
+4210,16,Isleta (parte),360
+4211,17,Jícaro,360
+4212,18,Juanilama,360
+4213,19,La Carreta,360
+4214,20,Llano La Cruz,360
+4215,21,Mocho (Santa Lucía),360
+4216,22,Montañita,360
+4217,23,Moracia,360
+4218,24,Nazareth,360
+4219,25,Paso Tempisque (parte),360
+4220,26,Pelón de la Bajura,360
+4221,27,Polvazales,360
+4222,28,Pueblo Nuevo,360
+4223,29,Roble de Sabana,360
+4224,30,Rodeito,360
+4225,31,Sabanero,360
+4226,32,Salto (parte),360
+4227,33,San Benito,360
+4228,34,San Hernán,360
+4229,35,San Lucas,360
+4230,36,San Miguel,360
+4231,37,San Roque,360
+4232,38,Santa Ana,360
+4233,39,Sitio,360
+4234,40,Terreros,360
+4235,41,Veinticinco de Julio,360
+4236,42,Victoria,360
+4237,43,Villanueva,360
+4238,44,Zanjita,360
+4239,1,CAÑAS DULCES centro,361
+4240,2,Alcántaro,361
+4241,3,Buenavista,361
+4242,4,Guayacán,361
+4243,5,Pochote,361
+4244,6,Brisas,361
+4245,7,Cedro,361
+4246,8,Congo,361
+4247,9,Cueva,361
+4248,10,Fortuna,361
+4249,11,Irigaray,361
+4250,12,Lilas,361
+4251,13,Pacayales,361
+4252,14,Panamacito,361
+4253,15,Pedregal,361
+4254,16,Pital,361
+4255,17,Pueblo Nuevo,361
+4256,1,GARCÍA FLAMENCO (Quebrada Grande),362
+4257,2,Ángeles,362
+4258,3,Argentina,362
+4259,4,Buenavista,362
+4260,5,Consuelo,362
+4261,6,Lourdes,362
+4262,7,San Antonio,362
+4263,1,GUARDIA,363
+4264,2,Bejuco,363
+4265,3,Los Lagos,363
+4266,4,Nacascolo,363
+4267,5,Oratorio,363
+4268,6,Puerto Culebra,363
+4269,7,Triunfo,363
+4270,1,CERECEDA,364
+4271,2,Gallo,364
+4272,3,San Rafael,364
+4273,4,Colorado,364
+4274,5,Curubandé,364
+4275,6,Porvenir,364
+4276,1,NICOYA centro,365
+4277,2,Ángeles,365
+4278,3,Barro Negro,365
+4279,4,Cananga,365
+4280,5,Carmen,365
+4281,6,Chorotega,365
+4282,7,Guadalupe,365
+4283,8,Granja,365
+4284,9,San Martín,365
+4285,10,Santa Lucía,365
+4286,11,Virginia,365
+4287,12,Cabeceras,365
+4288,13,Caimital,365
+4289,14,Carreta,365
+4290,15,Casitas,365
+4291,16,Cerro Verde,365
+4292,17,Cerro Redondo,365
+4293,18,Cola de Gallo,365
+4294,19,Cuesta,365
+4295,20,Cuesta Buenos Aires,365
+4296,21,Curime,365
+4297,22,Chivo,365
+4298,23,Dulce Nombre,365
+4299,24,Esperanza Norte,365
+4300,25,Estrella,365
+4301,26,Gamalotal,365
+4302,27,Garcimuñóz,365
+4303,28,Guaitil,365
+4304,29,Guastomatal,365
+4305,30,Guineas,365
+4306,31,Hondores,365
+4307,32,Jobo,365
+4308,33,Juan Díaz,365
+4309,34,Lajas,365
+4310,35,Loma Caucela,365
+4311,36,Miramar (noroeste),365
+4312,37,Nambí,365
+4313,38,Oriente,365
+4314,39,Los Planes,365
+4315,40,Pedernal,365
+4316,41,Picudas,365
+4317,42,Pilahonda,365
+4318,43,Pilas,365
+4319,44,Pilas Blancas,365
+4320,45,Piragua,365
+4321,46,Ponedero,365
+4322,47,Quirimán,365
+4323,48,Quirimancito,365
+4324,49,Sabana Grande,365
+4325,50,Santa Ana,365
+4326,51,Sitio Botija,365
+4327,52,Tierra Blanca,365
+4328,53,Tres Quebradas,365
+4329,54,Varillas (Zapotillo),365
+4330,56,Zompopa,365
+4331,1,MANSIÓN centro,366
+4332,2,Acoyapa,366
+4333,3,Boquete,366
+4334,4,Camarones,366
+4335,5,Guastomatal,366
+4336,6,Iguanita,366
+4337,7,Lapas,366
+4338,8,Limonal,366
+4339,9,Matambuguito,366
+4340,10,Matina,366
+4341,11,Mercedes,366
+4342,12,Monte Alto,366
+4343,13,Morote Norte,366
+4344,14,Nacaome,366
+4345,15,Obispo,366
+4346,16,Pital,366
+4347,17,Polvazales,366
+4348,18,Pueblo Viejo,366
+4349,19,Puente Guillermina,366
+4350,20,Puerto Jesús,366
+4351,21,Río Vueltas,366
+4352,22,San Joaquín,366
+4353,23,San Juan (parte),366
+4354,24,Uvita (parte),366
+4355,25,Vigía,366
+4356,26,Yerbabuena (parte),366
+4357,27,Zapandí,366
+4358,1,SAN ANTONIO centro,367
+4359,2,Biscoyol,367
+4360,3,Bolsa,367
+4361,4,Boquete,367
+4362,5,Buenos Aires,367
+4363,6,Cañal,367
+4364,7,Carao,367
+4365,8,Cerro Mesas,367
+4366,9,Chira,367
+4367,10,Conchal,367
+4368,11,Corral de Piedra,367
+4369,12,Corralillo,367
+4370,13,Coyolar,367
+4371,14,Cuba,367
+4372,15,Cuesta Madroño,367
+4373,16,Flor,367
+4374,17,Florida,367
+4375,18,Guayabal,367
+4376,19,Guayabo,367
+4377,20,Loma Ayote,367
+4378,21,Matamba,367
+4379,22,México,367
+4380,23,Montañita,367
+4381,24,Monte Galán,367
+4382,25,Moracia,367
+4383,26,Ojo de Agua,367
+4384,27,Palos Negros,367
+4385,28,Piave,367
+4386,29,Piedras Blancas,367
+4387,30,Pozas,367
+4388,31,Pozo de Agua,367
+4389,32,Pueblo Nuevo,367
+4390,33,Puerto Humo,367
+4391,34,Rosario,367
+4392,35,San Lázaro,367
+4393,36,San Vicente,367
+4394,37,Silencio,367
+4395,38,Talolinga,367
+4396,39,Tamarindo,367
+4397,40,Zapote,367
+4398,1,QUEBRADA HONDA centro,368
+4399,2,Botija,368
+4400,3,Caballito,368
+4401,4,Copal,368
+4402,5,Embarcadero,368
+4403,6,Loma Bonita,368
+4404,7,Millal,368
+4405,8,Paraíso,368
+4406,9,Paso Guabo,368
+4407,10,Pochote,368
+4408,11,Puerto Moreno,368
+4409,12,Roblar,368
+4410,13,San Juan (parte),368
+4411,14,Sombrero,368
+4412,15,Sonzapote,368
+4413,16,Tortuguero,368
+4414,17,Tres Esquinas,368
+4415,1,SÁMARA centro,369
+4416,2,Bajo Escondido,369
+4417,3,Barco Quebrado,369
+4418,4,Buenavista,369
+4419,5,Buenos Aires,369
+4420,6,Cambutes,369
+4421,7,Cangrejal,369
+4422,8,Cantarrana,369
+4423,9,Chinampas,369
+4424,10,Esterones,369
+4425,11,Galilea,369
+4426,12,Mala Noche,369
+4427,13,Matapalo,369
+4428,14,Palmar,369
+4429,15,Panamá,369
+4430,16,Pavones,369
+4431,17,Playa Buenavista,369
+4432,18,Primavera,369
+4433,19,Pueblo Nuevo,369
+4434,20,Samaria,369
+4435,21,San Fernando,369
+4436,22,Santo Domingo,369
+4437,23,Taranta,369
+4438,24,Terciopelo,369
+4439,25,Torito,369
+4440,1,BOCAS DE NOSARA,370
+4441,2,Ángeles de Garza,370
+4442,3,Bijagua,370
+4443,4,Cabeceras de Garza,370
+4444,5,Coyoles,370
+4445,6,Cuesta Winch,370
+4446,7,Delicias,370
+4447,8,Esperanza Sur,370
+4448,9,Flores,370
+4449,10,Garza,370
+4450,11,Guiones,370
+4451,12,Ligia,370
+4452,13,Nosara,370
+4453,14,Playa Nosara,370
+4454,15,Playa Pelada,370
+4455,16,Portal,370
+4456,17,Río Montaña,370
+4457,18,San Juan,370
+4458,19,Santa Marta,370
+4459,20,Santa Teresa,370
+4460,1,BELÉN DE NOSARITA centro,371
+4461,2,Arcos,371
+4462,3,Balsal,371
+4463,4,Caimitalito,371
+4464,5,Cuajiniquil,371
+4465,6,Cuesta Grande,371
+4466,7,Chumburán,371
+4467,8,Juntas,371
+4468,9,Maquenco,371
+4469,10,Minas,371
+4470,11,Miramar Sureste,371
+4471,12,Naranjal,371
+4472,13,Naranjalito,371
+4473,14,Nosarita,371
+4474,15,Platanillo,371
+4475,16,Quebrada Bonita,371
+4476,17,Santa Elena (parte),371
+4477,18,Zaragoza,371
+4478,1,SANTA CRUZ centro,372
+4479,2,Buenos Aires,372
+4480,3,Camarenos,372
+4481,4,Cátalo Rojas,372
+4482,5,Corobicí,372
+4483,6,Chorotega,372
+4484,7,Esquipulas,372
+4485,8,Estocolmo,372
+4486,9,Flores,372
+4487,10,Garúa,372
+4488,11,Guabo,372
+4489,12,Lajas,372
+4490,13,Los Amigos,372
+4491,14,Malinches,372
+4492,15,Manchón,372
+4493,16,Panamá,372
+4494,17,Pepe Lujan,372
+4495,18,Sagamat,372
+4496,19,San Martín,372
+4497,20,Santa Cecilia,372
+4498,21,Tenorio,372
+4499,22,Tulita Sandino,372
+4500,23,Ángeles,372
+4501,24,Arado,372
+4502,25,Bernabela,372
+4503,26,Cacao,372
+4504,27,Caimito,372
+4505,28,Congal,372
+4506,29,Cuatro Esquinas,372
+4507,30,Chibola,372
+4508,31,Chircó,372
+4509,32,Chumico (parte),372
+4510,33,Guayabal,372
+4511,34,Hato Viejo,372
+4512,35,Lagunilla,372
+4513,36,Lechuza,372
+4514,37,Limón,372
+4515,38,Moya,372
+4516,39,Puente Negro,372
+4517,40,Retallano (parte),372
+4518,41,Rincón,372
+4519,42,Río Cañas Viejo,372
+4520,43,San Juan,372
+4521,44,San Pedro,372
+4522,45,San Pedro Viejo,372
+4523,46,Vista al Mar,372
+4524,1,BOLSÓN centro,373
+4525,2,Ortega,373
+4526,3,Ballena (parte),373
+4527,4,Lagartero,373
+4528,5,Pochotada,373
+4529,1,VEINTISIETE DE ABRIL centro,374
+4530,2,Jobos,374
+4531,3,Aguacate,374
+4532,4,Avellana,374
+4533,5,Barrosa,374
+4534,6,Brisas,374
+4535,7,Bruno,374
+4536,8,Cacaovano,374
+4537,9,Camones,374
+4538,10,Cañas Gordas,374
+4539,11,Ceiba Mocha,374
+4540,12,Cerro Brujo,374
+4541,13,Congo,374
+4542,14,Delicias,374
+4543,15,Espavelar,374
+4544,16,Florida,374
+4545,17,Gongolona,374
+4546,18,Guachipelín,374
+4547,19,Guapote,374
+4548,20,Hatillo,374
+4549,21,Isla Verde,374
+4550,22,Junquillal,374
+4551,23,Junta de Río Verde,374
+4552,24,Mesas,374
+4553,25,Montaña,374
+4554,26,Monteverde,374
+4555,27,Níspero,374
+4556,28,Paraíso,374
+4557,29,Pargos,374
+4558,30,Paso Hondo,374
+4559,31,Pilas,374
+4560,32,Playa Lagartillo,374
+4561,33,Playa Negra,374
+4562,34,Pochotes,374
+4563,35,Ranchos,374
+4564,36,Retallano (parte),374
+4565,37,Río Seco,374
+4566,38,Río Tabaco,374
+4567,39,San Francisco,374
+4568,40,San Jerónimo,374
+4569,41,Soncoyo,374
+4570,42,Tieso (San Rafael),374
+4571,43,Trapiche,374
+4572,44,Venado,374
+4573,45,Vergel,374
+4574,1,TEMPATE centro,375
+4575,2,Paraíso,375
+4576,3,Bejuco,375
+4577,4,Chiles,375
+4578,5,El Llano,375
+4579,6,Huacas,375
+4580,7,Portegolpe,375
+4581,8,Potrero,375
+4582,9,Rincón,375
+4583,1,CARTAGENA centro,376
+4584,2,Edén,376
+4585,3,Toyosa,376
+4586,4,Cañafístula,376
+4587,5,Corocitos,376
+4588,6,Higuerón,376
+4589,7,Jobo,376
+4590,8,Lorena,376
+4591,9,Oratorio,376
+4592,10,Sacatipe,376
+4593,1,SAN JUANILLO,377
+4594,2,Alemania,377
+4595,3,Bolillos,377
+4596,4,Cuajiniquil,377
+4597,5,Chiquero,377
+4598,6,Fortuna,377
+4599,7,Frijolar,377
+4600,8,Jazminal,377
+4601,9,Lagarto,377
+4602,10,Libertad,377
+4603,11,Limonal,377
+4604,12,Manzanillo,377
+4605,13,Marbella,377
+4606,14,Ostional,377
+4607,15,Palmares,377
+4608,16,Piedras Amarillas,377
+4609,17,Progreso,377
+4610,18,Punta Caliente,377
+4611,19,Quebrada Seca,377
+4612,20,Quebrada Zapote,377
+4613,21,Rayo,377
+4614,22,Roble,377
+4615,23,Rosario,377
+4616,24,Santa Cecilia,377
+4617,25,Santa Elena,377
+4618,26,Socorro,377
+4619,27,Unión,377
+4620,28,Veracrúz,377
+4621,1,SANTA BÁRBARA ,378
+4622,2,Ángeles,378
+4623,3,Duendes,378
+4624,4,Lomitas,378
+4625,5,Oriente,378
+4626,6,Calle Vieja,378
+4627,7,Coyolar,378
+4628,8,Chumico (parte),378
+4629,9,Diría,378
+4630,10,Guaitil,378
+4631,11,Polvazal,378
+4632,12,Sequeira,378
+4633,13,Talolinguita,378
+4634,14,Trompillal,378
+4635,1,MATAPALO,379
+4636,2,Brasilito,379
+4637,3,Buen Pastor,379
+4638,4,Conchal,379
+4639,5,Flamenco,379
+4640,6,Garita Vieja,379
+4641,7,Jesús María,379
+4642,8,Lajas,379
+4643,9,Lomas,379
+4644,10,Playa Cabuya,379
+4645,11,Playa Grande,379
+4646,12,Playa Mina,379
+4647,13,Playa Real,379
+4648,14,Puerto Viejo,379
+4649,15,Salinas,379
+4650,16,Salinitas,379
+4651,17,Tacasolapa,379
+4652,18,Zapotillal,379
+4653,1,VILLARREAL,380
+4654,2,Cañafístula,380
+4655,3,Cebadilla,380
+4656,4,El Llano,380
+4657,5,Garita,380
+4658,6,Guatemala,380
+4659,7,Hernández,380
+4660,8,Icacal,380
+4661,9,La Loma,380
+4662,10,Linderos,380
+4663,11,Mangos,380
+4664,12,Palmar,380
+4665,13,San Andrés,380
+4666,14,San José Pinilla,380
+4667,15,Santa Rosa,380
+4668,16,Tamarindo,380
+4669,1,BAGACES centro,381
+4670,2,Aguacaliente,381
+4671,3,Arbolito,381
+4672,4,Bagatzi,381
+4673,5,Bebedero (parte),381
+4674,6,Brisas,381
+4675,7,Casavieja (parte),381
+4676,8,Cofradía,381
+4677,9,Colmenar,381
+4678,10,Lima,381
+4679,11,Llanos de Cortés,381
+4680,12,Mojica,381
+4681,13,Montano,381
+4682,14,Montenegro,381
+4683,15,Pedro Nolasco,381
+4684,16,Piedras,381
+4685,17,Pijije,381
+4686,18,Plazuela,381
+4687,19,Redondel,381
+4688,20,Salitral,381
+4689,21,Salto (parte),381
+4690,22,Santa Rosa,381
+4691,1,LA FORTUNA centro,382
+4692,2,Casavieja (parte),383
+4693,3,Cuipilapa,383
+4694,4,Giganta,383
+4695,5,Hornillas,383
+4696,6,Macuá,383
+4697,7,Martillete,383
+4698,8,Miravalles,383
+4699,9,Mozotal,383
+4700,10,Pozo Azul,383
+4701,11,Sagrada Familia,383
+4702,12,San Bernardo,383
+4703,13,San Joaquín,383
+4704,14,Santa Cecilia,383
+4705,15,Santa Fe,383
+4706,16,Santa Rosa,383
+4707,17,Unión Ferrer,383
+4708,1,GUAYABO,384
+4709,2,Ángeles,385
+4710,3,Barro de Olla,385
+4711,4,Horcones,385
+4712,5,La Ese,385
+4713,6,Limonal,385
+4714,7,Manglar,385
+4715,8,Mochadero,385
+4716,9,Oses,385
+4717,10,Pueblo Nuevo,385
+4718,11,Rincón de La Cruz,385
+4719,12,San Isidro de Limonal,385
+4720,13,San Jorge,385
+4721,14,San Pedro,385
+4722,15,Torno,385
+4723,1,RÍO NARANJO centro,386
+4724,2,Naranjito,386
+4725,3,Río Chiquito,386
+4726,1,FILADELFIA centro,387
+4727,2,Ballena (parte),387
+4728,3,Bambú,387
+4729,4,Cinco Esquinas,387
+4730,5,Corralillo,387
+4731,6,Guinea,387
+4732,7,Hollywood,387
+4733,8,Isleta (parte),387
+4734,9,Jocote,387
+4735,10,Juanilama,387
+4736,11,La Cruz,387
+4737,12,Moralito,387
+4738,13,Ojoche,387
+4739,14,San Francisco,387
+4740,15,Santa Lucía,387
+4741,1,PALMIRA centro,388
+4742,2,Ángeles,388
+4743,3,Comunidad,388
+4744,4,Coyolera,388
+4745,5,María Auxiliadora,388
+4746,6,Paso Tempisque (parte),388
+4747,7,San Rafael,388
+4748,1,SARDINAL centro,389
+4749,2,Artola,389
+4750,3,Cacique,389
+4751,4,Carpintera,389
+4752,5,Chorrera,389
+4753,6,Coco,389
+4754,7,Colegios,389
+4755,8,Guacamaya,389
+4756,9,Huaquitas,389
+4757,10,Libertad,389
+4758,11,Los Canales,389
+4759,12,Matapalo,389
+4760,13,Nancital,389
+4761,14,Nuevo Colón,389
+4762,15,Obandito,389
+4763,16,Ocotal,389
+4764,17,Pilas,389
+4765,18,Playa Hermosa,389
+4766,19,Playones,389
+4767,20,San Blas,389
+4768,21,San Martín,389
+4769,22,Santa Rita,389
+4770,23,Segovia,389
+4771,24,Tabores,389
+4772,25,Verdún,389
+4773,26,Zapotal,389
+4774,1,BELÉN centro,390
+4775,2,Alto San Antonio,390
+4776,3,Cachimbo,390
+4777,4,Castilla de Oro,390
+4778,5,Coyolito,390
+4779,6,Gallina,390
+4780,7,Juanilama,390
+4781,8,LLano,390
+4782,9,Loma Bonita,390
+4783,10,Ojochal,390
+4784,11,Palestina,390
+4785,12,Palmas,390
+4786,13,Paraíso,390
+4787,14,Penca,390
+4788,15,Planes,390
+4789,16,Poroporo,390
+4790,17,Río Cañas Nuevo,390
+4791,18,Santa Ana,390
+4792,19,Santo Domingo,390
+4793,20,Villita,390
+4794,1,CAÑAS centro,391
+4795,2,Albania,391
+4796,3,Ángeles,391
+4797,4,Bello Horizonte,391
+4798,5,Cantarrana,391
+4799,6,Castillo,391
+4800,7,Cedros,391
+4801,8,Cepo,391
+4802,9,Chorotega,391
+4803,10,Concepción,391
+4804,11,Corobicí,391
+4805,12,Correntadas,391
+4806,13,Cuesta el Diablo,391
+4807,14,Cuesta el Mico,391
+4808,15,Cueva,391
+4809,16,Hotel,391
+4810,17,Jabilla Abajo,391
+4811,18,Jabilla Arriba,391
+4812,19,Las Cañas,391
+4813,20,Libertad,391
+4814,21,Malinches,391
+4815,22,Miravalles,391
+4816,23,Montes de Oro,391
+4817,24,Palmas,391
+4818,25,Paso Lajas,391
+4819,26,Pedregal,391
+4820,27,Pochota,391
+4821,28,Pueblo Nuevo,391
+4822,29,San Cristóbal,391
+4823,30,San Isidro (parte),391
+4824,31,San Martín,391
+4825,32,San Pedro,391
+4826,33,Sandial (Sandillal),391
+4827,34,Santa Isabel Abajo,391
+4828,35,Santa Isabel Arriba,391
+4829,36,Santa Lucía (parte),391
+4830,37,Tenorio,391
+4831,38,Tres Marías,391
+4832,39,Unión,391
+4833,40,Vergel,391
+4834,1,PALMIRA centro,392
+4835,2,Aguacaliente,392
+4836,3,Aguas Gatas (parte),392
+4837,4,Coyota,392
+4838,5,Huacal,392
+4839,6,Las Flores,392
+4840,7,Martirio,392
+4841,8,Panales,392
+4842,9,Paraíso (parte),392
+4843,10,San Isidro (parte),392
+4844,11,Santa Lucía (parte),392
+4845,12,Tenorio,392
+4846,13,Vueltas,392
+4847,1,SAN MIGUEL centro,393
+4848,2,El Coco,393
+4849,3,El Güis,393
+4850,4,Eskameca (parte),393
+4851,5,Gotera,393
+4852,6,Higuerón,393
+4853,7,Higuerón Viejo,393
+4854,8,San Juan,393
+4855,1,BEBEDERO centro,394
+4856,2,Coopetaboga,394
+4857,3,Loma,394
+4858,4,Taboga (parte),394
+4859,1,POROZAL centro,395
+4860,2,Brisas,395
+4861,3,Eskameca (parte),395
+4862,4,Guapinol,395
+4863,5,Pozas,395
+4864,6,Puerto Alegre,395
+4865,7,Quesera,395
+4866,8,Santa Lucía,395
+4867,9,Taboga (parte),395
+4868,10,Tiquirusas,395
+4869,1,LAS JUNTAS centro,396
+4870,2,Bellavista,396
+4871,3,Blanco,396
+4872,4,Cecilia,396
+4873,5,Chiqueros,396
+4874,6,Cinco Esquinas,396
+4875,7,Codornices,396
+4876,8,Concepción,396
+4877,9,Coyolito (parte),396
+4878,10,Desjarretado,396
+4879,11,Irma,396
+4880,12,Jarquín (parte),396
+4881,13,Jesús,396
+4882,14,La Gloria,396
+4883,15,Lajas,396
+4884,16,Las Huacas (Parte),396
+4885,17,Limonal,396
+4886,18,Limonal Viejo,396
+4887,19,Lourdes (Rancho Ania) (parte),396
+4888,20,Matapalo,396
+4889,21,Naranjos Agrios,396
+4890,22,Palma,396
+4891,23,Paso Ancho,396
+4892,24,Peña,396
+4893,25,Puente de Tierra,396
+4894,26,Rancho Alegre (parte),396
+4895,27,San Antonio,396
+4896,28,San Cristóbal,396
+4897,29,San Francisco,396
+4898,30,San Jorge,396
+4899,31,San Juan Chiquito,396
+4900,32,San Pablo,396
+4901,33,Santa Lucía,396
+4902,34,Tortugal,396
+4903,35,Zapote,396
+4904,1,SIERRA centro (Las Minas),397
+4905,2,Aguas Claras,397
+4906,3,Alto Cebadilla,397
+4907,4,Campos de Oro,397
+4908,5,Candelaria,397
+4909,6,Cañitas,397
+4910,7,Cruz,397
+4911,8,Cuesta Yugo,397
+4912,9,Dos de Abangares,397
+4913,10,Marsellesa,397
+4914,11,San Antonio,397
+4915,12,San Rafael,397
+4916,13,Tornos,397
+4917,14,Tres Amigos,397
+4918,15,Turín (parte),397
+4919,1,SAN JUAN GRANDE,398
+4920,2,Arizona,398
+4921,3,Congo,398
+4922,4,Nancital,398
+4923,5,Portones,398
+4924,6,Pozo Azul,398
+4925,7,Rancho Alegre (parte),398
+4926,8,Lourdes (Rancho Ania) (parte),398
+4927,9,Tierra Colorada,398
+4928,10,Vainilla,398
+4929,1,COLORADO centro,399
+4930,2,Almendros,399
+4931,3,Barbudal,399
+4932,4,Gavilanes,399
+4933,5,Higuerillas,399
+4934,6,Las Huacas (parte),399
+4935,7,Monte Potrero,399
+4936,8,Quebracho,399
+4937,9,Peñablanca,399
+4938,10,San Buenaventura,399
+4939,11,San Joaquín,399
+4940,12,Solimar,399
+4941,13,Villafuerte,399
+4942,1,TILARÁN centro,400
+4943,2,Cabra,400
+4944,3,Carmen,400
+4945,4,Juan XXIII,400
+4946,5,Lomalinda,400
+4947,6,Cuatro Esquinas,400
+4948,7,Chiripa,400
+4949,8,Piamonte,400
+4950,9,Río Chiquito,400
+4951,10,San Luis,400
+4952,11,Tejona,400
+4953,12,Tres Esquinas,400
+4954,1,QUEBRADA GRANDE centro,401
+4955,2,Barrionuevo,401
+4956,3,Campos de Oro,401
+4957,4,Florida,401
+4958,5,San Miguel,401
+4959,6,Vueltas,401
+4960,1,TRONADORA centro,402
+4961,2,Arenal Viejo,402
+4962,3,Colonia Menonita,402
+4963,4,Río Chiquito Abajo,402
+4964,5,Silencio,402
+4965,1,LOS ÁNGELES,403
+4966,2,Aguilares,403
+4967,3,Campos Azules,403
+4968,4,Montes de Oro (parte),403
+4969,5,Naranjos Agrios,403
+4970,6,Palma,403
+4971,7,Quebrada Azul,403
+4972,8,Ranchitos,403
+4973,9,Santa Rosa,403
+4974,1,LÍBANO centro,404
+4975,2,Alto Cartago,404
+4976,3,Maravilla,404
+4977,4,San José,404
+4978,5,Solania,404
+4979,1,TIERRAS MORENAS centro,405
+4980,2,Aguacate,405
+4981,3,Aguas Gatas (parte),405
+4982,4,Bajo Paires,405
+4983,5,Guadalajara,405
+4984,6,Montes de Oro (parte),405
+4985,7,Paraíso (parte),405
+4986,8,Río Piedras,405
+4987,9,Sabalito,405
+4988,1,ARENAL centro,406
+4989,2,Mata de Caña,406
+4990,3,Sangregado,406
+4991,4,San Antonio,406
+4992,5,Unión,406
+4993,1,CABECERAS DE CAÑAS,407
+4994,2,Brisas,408
+4995,3,Dos de Tilarán (San Ramón),408
+4996,4,Esperanza,408
+4997,5,Monte Olivos,408
+4998,6,Nubes,408
+4999,7,Turín (parte),408
+5000,1,CARMONA centro,409
+5001,2,Camas,409
+5002,3,Limones,409
+5003,4,Maquenco,409
+5004,5,San Rafael,409
+5005,6,Vista de Mar,409
+5006,1,SANTA RITA centro,410
+5007,2,Angostura,410
+5008,3,Cacao,410
+5009,4,Chumico,410
+5010,5,Guaria,410
+5011,6,Guastomatal,410
+5012,7,Morote,410
+5013,8,Tacanis,410
+5014,9,Uvita (parte),410
+5015,10,Yerbabuena (parte),410
+5016,1,ZAPOTAL centro,411
+5017,2,Altos de Mora,411
+5018,3,Cabeceras de Río Ora,411
+5019,4,Camaronal,411
+5020,5,Carmen,411
+5021,6,Cuesta Bijagua,411
+5022,7,Leona,411
+5023,8,Manzanales,411
+5024,9,Río Blanco Este,411
+5025,10,Río de Oro,411
+5026,11,Río Ora,411
+5027,12,San Martín,411
+5028,13,San Pedro,411
+5029,14,Soledad,411
+5030,1,SAN PABLO centro,412
+5031,2,Canjel,412
+5032,3,Canjelito,412
+5033,4,Corozal Oeste,412
+5034,5,Chamarro,412
+5035,6,Isla Berrugate,412
+5036,7,Pavones,412
+5037,8,Puerto Thiel,412
+5038,9,San Pablo Viejo,412
+5039,1,CERRO AZUL,413
+5040,2,Ángeles,414
+5041,3,Bellavista,414
+5042,4,Cabeceras de Río Bejuco,414
+5043,5,Chompipe (parte),414
+5044,6,Delicias,414
+5045,7,Quebrada Grande,414
+5046,8,San Josecito,414
+5047,1,BEJUCO centro,415
+5048,2,Caletas,415
+5049,3,Candelillo,415
+5050,4,Corozalito,415
+5051,5,Chiruta,415
+5052,6,Chompipe (parte),415
+5053,7,I Griega,415
+5054,8,Islita,415
+5055,9,Jabilla,415
+5056,10,Jabillos,415
+5057,11,Maicillal,415
+5058,12,Maquencal,415
+5059,13,Milagro,415
+5060,14,Millal,415
+5061,15,Mono,415
+5062,16,Pampas,415
+5063,17,Paso Vigas,415
+5064,18,Pencal,415
+5065,19,Playa Coyote,415
+5066,20,Playa San Miguel,415
+5067,21,Pueblo Nuevo,415
+5068,22,Punta Bejuco,415
+5069,23,Puerto Coyote,415
+5070,24,Quebrada Nando,415
+5071,25,Quebrada Seca,415
+5072,26,Rancho Floriana,415
+5073,27,San Francisco de Coyote,415
+5074,28,San Gabriel,415
+5075,29,San Miguel,415
+5076,30,Triunfo,415
+5077,31,Zapote,415
+5078,1,LA CRUZ centro,416
+5079,2,Bellavista,416
+5080,3,Bello Horizonte,416
+5081,4,Brisas,416
+5082,5,Cacao,416
+5083,6,Carrizal,416
+5084,7,Carrizales,416
+5085,8,Colonia Bolaños,416
+5086,9,Copalchí,416
+5087,10,Corazón de Jesús,416
+5088,11,Fátima,416
+5089,12,Infierno,416
+5090,13,Irving,416
+5091,14,Jobo,416
+5092,15,Libertad,416
+5093,16,Monte Plata,416
+5094,17,Montes de Oro,416
+5095,18,Orosí,416
+5096,19,Pampa,416
+5097,20,Pegón,416
+5098,21,Peñas Blancas,416
+5099,22,Piedra Pómez,416
+5100,23,Pinos,416
+5101,24,Puerto Soley,416
+5102,25,Recreo,416
+5103,26,San Buenaventura,416
+5104,27,San Dimas,416
+5105,28,San Paco,416
+5106,29,San Roque,416
+5107,30,Santa Rogelia,416
+5108,31,Santa Rosa,416
+5109,33,Soley,416
+5110,34,Sonzapote,416
+5111,35,Tempatal,416
+5112,36,Vueltas,416
+5113,1,SANTA CECILIA centro,417
+5114,2,Ángeles,417
+5115,3,Argendora,417
+5116,4,Armenia,417
+5117,5,Belice,417
+5118,6,Bellavista,417
+5119,7,Brisas,417
+5120,8,Caoba,417
+5121,9,Corrales Negros,417
+5122,10,Esperanza,417
+5123,11,Flor del Norte,417
+5124,12,Lajosa,417
+5125,13,Marías,417
+5126,14,Palmares,417
+5127,15,Pueblo Nuevo,417
+5128,16,San Antonio,417
+5129,17,San Cristóbal,417
+5130,18,San Rafael,417
+5131,19,San Vicente,417
+5132,20,Santa Elena,417
+5133,21,Sardina,417
+5134,22,Virgen,417
+5135,1,LA GARITA centro,418
+5136,2,Agua Muerta,418
+5137,3,Andes,418
+5138,4,Asilo,418
+5139,5,Cañita,418
+5140,6,Carmen,418
+5141,7,Fortuna,418
+5142,8,Gloria,418
+5143,9,Guapinol,418
+5144,10,Inocentes,418
+5145,11,Lavaderos,418
+5146,12,Paraíso,418
+5147,13,Pochote,418
+5148,14,San Antonio,418
+5149,15,Tapesco,418
+5150,1,CUAJINIQUIL,419
+5151,2,Cedros,419
+5152,3,Guaria,419
+5153,4,Puerto Castilla,419
+5154,5,Rabo de Mico (Aguacaliente),419
+5155,1,HOJANCHA centro,420
+5156,2,Ángeles,420
+5157,3,Arena,420
+5158,4,Ceiba,420
+5159,5,Cuesta Blanca,420
+5160,6,Libertad,420
+5161,7,Maravilla,420
+5162,8,Palo de Jabón,420
+5163,9,Pilangosta,420
+5164,10,San Juan Bosco,420
+5165,11,San Rafael,420
+5166,12,Santa Elena (parte),420
+5167,13,Varillal,420
+5168,1,MONTE ROMO centro,421
+5169,2,Altos del Socorro,421
+5170,3,Bajo Saltos,421
+5171,4,Cabrera,421
+5172,5,Cuesta Roja,421
+5173,6,Delicias,421
+5174,7,Guapinol,421
+5175,8,Loros,421
+5176,9,Mercedes,421
+5177,10,Palmares,421
+5178,11,Río Zapotal,421
+5179,12,San Isidro,421
+5180,13,Trinidad,421
+5181,1,PUERTO CARRILLO centro,422
+5182,2,Angostura,422
+5183,3,Arbolito,422
+5184,4,Cuesta Malanoche,422
+5185,5,Estrada,422
+5186,6,Jobo,422
+5187,7,Lajas,422
+5188,8,Quebrada Bonita (parte),422
+5189,9,San Miguel,422
+5190,10,Santa María,422
+5191,1,HUACAS centro,423
+5192,2,Avellana,423
+5193,3,Pita Rayada,423
+5194,4,Río Blanco Oeste,423
+5195,5,Tres Quebradas,423
+5196,1,MATAMBÚ centro,424
+5197,2,Ceibo,424
+5198,3,Esquipulas,424
+5199,4,Polvazales (Cerritos) (parte),424
+5200,5,Vegas,424
+5201,1,PUNTARENAS centro,425
+5202,2,Angostura,425
+5203,3,Carmen,425
+5204,4,Cocal,425
+5205,5,Playitas,425
+5206,6,Pochote,425
+5207,7,Pueblo Nuevo,425
+5208,8,Isla Bejuco,425
+5209,9,Isla Caballo,425
+5210,10,Palmar,425
+5211,1,PITAHAYA centro,426
+5212,2,Aranjuéz,426
+5213,3,Brillante (parte),426
+5214,4,Cebadilla,426
+5215,5,Chapernal,426
+5216,6,Palermo,426
+5217,7,Pitahaya Vieja,426
+5218,8,Rancho Grande,426
+5219,9,San Marcos (parte),426
+5220,10,Zapotal,426
+5221,1,CHOMES centro,427
+5222,2,Alto Pie de Paloma,427
+5223,3,Cambalache,427
+5224,4,Cocoroca,427
+5225,5,Coyoles Motos,427
+5226,6,Don Jaime,427
+5227,7,Jarquín (parte),427
+5228,8,Judas,427
+5229,9,Laberinto,427
+5230,10,Lagarto,427
+5231,11,Malinche,427
+5232,12,Morales,427
+5233,13,Pita,427
+5234,14,Playa Coco,427
+5235,15,Pocitos,427
+5236,16,Punta Morales,427
+5237,17,San Agustín,427
+5238,18,San Gerardo,427
+5239,19,Santa Juana,427
+5240,20,Sarmiento,427
+5241,21,Terrero,427
+5242,22,Vanegas,427
+5243,23,Yomalé,427
+5244,1,LEPANTO centro,428
+5245,2,Alto Fresca,428
+5246,3,Bajo Mora,428
+5247,4,Balsa,428
+5248,5,Balso,428
+5249,6,Bijagua,428
+5250,7,Brisas,428
+5251,8,Cabo Blanco,428
+5252,9,Camaronal,428
+5253,10,Cantil,428
+5254,11,Cañablancal,428
+5255,12,Cerro Frío,428
+5256,13,Cerro Indio,428
+5257,14,Cerro Pando,428
+5258,15,Corozal,428
+5259,16,Coto,428
+5260,17,Cuajiniquil,428
+5261,18,Chanchos,428
+5262,19,Chiqueros,428
+5263,20,Dominica,428
+5264,21,El Mora,428
+5265,22,Encanto,428
+5266,23,Fresca,428
+5267,24,Gloria,428
+5268,25,Golfo,428
+5269,26,Guabo,428
+5270,27,Guadalupe,428
+5271,28,Ilusión,428
+5272,29,Isla Venado,428
+5273,30,Jicaral,428
+5274,31,Juan de León,428
+5275,32,Milpa,428
+5276,33,Montaña Grande,428
+5277,34,Níspero,428
+5278,35,Nubes,428
+5279,36,Once Estrellas,428
+5280,37,Piedades,428
+5281,38,Pilas de Canjel,428
+5282,39,Punta de Cera,428
+5283,40,Río Seco,428
+5284,41,Sahíno,428
+5285,42,San Blas,428
+5286,43,San Miguel,428
+5287,44,San Miguel de Río Blanco,428
+5288,45,San Pedro,428
+5289,46,San Rafael,428
+5290,47,San Ramón de Río Blanco,428
+5291,48,Santa Rosa,428
+5292,49,Tigra,428
+5293,50,Tres Ríos,428
+5294,51,Tronconal,428
+5295,52,Unión,428
+5296,53,Vainilla,428
+5297,1,PAQUERA centro,429
+5298,2,Ángeles,429
+5299,3,Astro Blanco,429
+5300,4,Bajo Negro,429
+5301,5,Cabeceras de Río Seco,429
+5302,6,Campiñas,429
+5303,7,Cerro Brujo,429
+5304,8,Concepción,429
+5305,9,Curú,429
+5306,10,Dulce Nombre,429
+5307,11,Espaveles,429
+5308,12,Esperanza,429
+5309,13,Flor,429
+5310,14,Gigante,429
+5311,15,Guaria,429
+5312,16,Higueronal,429
+5313,17,Isla Cedros,429
+5314,18,Isla Jesucita,429
+5315,19,Isla Tortuga,429
+5316,20,Leona,429
+5317,21,Mango,429
+5318,22,Naranjo,429
+5319,23,Pánica,429
+5320,24,Paraíso,429
+5321,25,Playa Blanca,429
+5322,26,Playa Cuchillo,429
+5323,27,Pochote,429
+5324,28,Punta del Río,429
+5325,29,Quebrada Bonita,429
+5326,30,Río Grande,429
+5327,31,Río Guarial,429
+5328,32,Río Seco,429
+5329,33,Rivas,429
+5330,34,San Fernando,429
+5331,35,San Luis,429
+5332,36,San Pedro,429
+5333,37,San Rafael,429
+5334,38,San Vicente,429
+5335,39,Santa Cecilia,429
+5336,40,Santa Lucía,429
+5337,41,Santa Rosa,429
+5338,42,Sonzapote,429
+5339,43,Tronco Negro,429
+5340,44,Valle Azul,429
+5341,45,Vueltas,429
+5342,1,MANZANILLO centro,430
+5343,2,Abangaritos,430
+5344,3,Camarita,430
+5345,4,Costa de Pájaros,430
+5346,5,Coyolito (parte),430
+5347,6,Cuesta Portillo,430
+5348,1,GUACIMAL centro,431
+5349,2,Alto Méndez,431
+5350,3,Altos Fernández,431
+5351,4,Ángeles,431
+5352,5,Guaria,431
+5353,6,Lajón,431
+5354,7,San Antonio,431
+5355,8,Santa Rosa,431
+5356,9,Surtubal,431
+5357,10,Veracruz,431
+5358,1,BARRANCA centro,432
+5359,2,Obregón,432
+5360,3,Rioja,432
+5361,4,San Joaquín,432
+5362,5,San Miguel,432
+5363,6,San Miguelito,432
+5364,7,Santa Ana,432
+5365,1,ISLA DEL COCO,433
+5366,1,CÓBANO centro,434
+5367,2,Abuela,434
+5368,3,Arío,434
+5369,4,Bajos de Arío,434
+5370,5,Bajos de Fernández,434
+5371,6,Bello Horizonte,434
+5372,7,Betel,434
+5373,8,Cabuya,434
+5374,9,Canaán,434
+5375,10,Cañada,434
+5376,11,Caño Seco Abajo,434
+5377,12,Caño Seco Arriba,434
+5378,13,Caño Seco Enmedio,434
+5379,14,Carmen,434
+5380,15,Cedro,434
+5381,16,Cerital,434
+5382,17,Cerro Buenavista,434
+5383,18,Cocal,434
+5384,19,Cocalito,434
+5385,20,Delicias,434
+5386,21,Malpaís,434
+5387,22,Montezuma,434
+5388,23,Muelle,434
+5389,24,Pachanga,434
+5390,25,Pavón,434
+5391,26,Pénjamo,434
+5392,27,Piedra Amarilla,434
+5393,28,Pita,434
+5394,29,Río Enmedio,434
+5395,30,Río Frío,434
+5396,31,Río Negro,434
+5397,32,San Antonio,434
+5398,33,San Isidro,434
+5399,34,San Jorge,434
+5400,35,San Ramón,434
+5401,36,Santa Clemencia,434
+5402,37,Santa Fe,434
+5403,38,Santa Teresa,434
+5404,39,Santiago,434
+5405,40,Tacotales,434
+5406,41,Tambor,434
+5407,42,Villalta,434
+5408,1,CHACARITA centro,435
+5409,2,Camboya,435
+5410,3,Carrizal,435
+5411,4,Chacarita,435
+5412,5,Chacarita Norte,435
+5413,6,Fertica,435
+5414,7,Fray Casiano,435
+5415,8,Huerto,435
+5416,9,Lindavista,435
+5417,10,Pueblo Redondo,435
+5418,11,Reyes,435
+5419,12,San Isidro,435
+5420,13,Santa Eduvigis,435
+5421,14,Tanque,435
+5422,15,Veinte de Noviembre,435
+5423,1,NANCITE,436
+5424,2,Bocana,436
+5425,3,Lagartero,436
+5426,4,Montero,436
+5427,5,Pilas,436
+5428,6,Pochote,436
+5429,7,Puerto Coloradito,436
+5430,8,Puerto Mauricio,436
+5431,9,Puerto Palito,436
+5432,1,SARDINAL,437
+5433,2,Acapulco,437
+5434,3,Aranjuecito,437
+5435,4,Chapernalito,437
+5436,5,Claraboya,437
+5437,6,Coyolar,437
+5438,7,Quebrada Honda,437
+5439,8,San Marcos (parte),437
+5440,1,EL ROBLE centro,438
+5441,2,Boca de Barranca,438
+5442,3,Chagüite,438
+5443,4,El Roble,438
+5444,1,BAJO CALIENTE (parte),439
+5445,2,Arancibia Norte,439
+5446,3,Arancibia Sur,439
+5447,4,Lagunas,439
+5448,5,Ojo de Agua,439
+5449,6,Rincón,439
+5450,7,San Martín Norte,439
+5451,8,San Martín Sur,439
+5452,1,ESPARZA centro,440
+5453,2,Gregg,440
+5454,3,Humo,440
+5455,4,Marañonal (parte),440
+5456,5,Mojón,440
+5457,6,Mojoncito,440
+5458,7,Pan de Azúcar,440
+5459,8,Tejar,440
+5460,1,SAN JUAN GRANDE centro,441
+5461,2,Jocote,441
+5462,3,Juanilama,441
+5463,4,San Juan Chiquito,441
+5464,1,MACACONA centro,442
+5465,2,Bruselas,442
+5466,3,Guapinol,442
+5467,4,Marañonal (parte),442
+5468,5,Nances,442
+5469,6,San Roque,442
+5470,1,SAN RAFAEL centro,443
+5471,2,Alto Corteza,443
+5472,3,Barón,443
+5473,4,Facio,443
+5474,5,Llanada del Cacao,443
+5475,6,Maratón,443
+5476,1,SAN JERÓNIMO centro,444
+5477,2,Cerrillos,444
+5478,3,Mesetas Abajo,444
+5479,4,Mesetas Arriba,444
+5480,5,Peña Blanca,444
+5481,6,Pretiles,444
+5482,7,Quebradas,444
+5483,8,Sabana Bonita,444
+5484,1,MATA DE LIMÓN,445
+5485,2,Alto de Las Mesas,445
+5486,3,Artieda,445
+5487,4,Caldera,445
+5488,5,Cabezas,445
+5489,6,Cambalache,445
+5490,7,Cascabel,445
+5491,8,Corralillo,445
+5492,9,Cuesta Jocote,445
+5493,10,Figueroa,445
+5494,11,Finca Brazo Seco,445
+5495,12,Finca Cortijo,445
+5496,13,Guardianes de La Piedra,445
+5497,14,Hacienda La Moncha,445
+5498,15,Hacienda Mata de Guinea,445
+5499,16,Hacienda Playa Linda,445
+5500,17,Hacienda Salinas,445
+5501,18,Jesús María,445
+5502,19,Quebrada Honda,445
+5503,20,Salinas,445
+5504,21,San Antonio,445
+5505,22,Silencio,445
+5506,23,Tivives,445
+5507,24,Villanueva,445
+5508,1,BUENOS AIRES centro,446
+5509,2,Alto Buenos Aires,446
+5510,3,Lomas,446
+5511,4,Alto Alejo,446
+5512,5,Alto Brisas,446
+5513,6,Alto Calderón,446
+5514,7,Bajo Brisas,446
+5515,8,Bolas,446
+5516,9,Brujo,446
+5517,10,Cabagra (parte),446
+5518,11,Caracol,446
+5519,12,Ceibo,446
+5520,13,Colepato,446
+5521,14,El Carmen,446
+5522,15,Guanacaste,446
+5523,16,Guadalupe,446
+5524,17,López,446
+5525,18,Los Altos,446
+5526,19,Llano Verde,446
+5527,20,Machomontes,446
+5528,21,Palmital,446
+5529,22,Paraíso (Ánimas),446
+5530,23,Paso Verbá,446
+5531,24,Piñera,446
+5532,25,Platanares,446
+5533,26,Potrero Cerrado,446
+5534,27,Puente de Salitre,446
+5535,28,Río Azul,446
+5536,29,Salitre,446
+5537,30,San Carlos,446
+5538,31,San Luis (Florida),446
+5539,32,San Miguel Este,446
+5540,33,San Miguel Oeste,446
+5541,34,San Vicente,446
+5542,35,Santa Cruz,446
+5543,36,Santa Eduvigis,446
+5544,37,Santa Marta,446
+5545,38,Sipar,446
+5546,39,Ujarrás,446
+5547,40,Villahermosa,446
+5548,41,Yheri,446
+5549,1,VOLCÁN centro,447
+5550,2,Altamira,447
+5551,3,Ángel Arriba,447
+5552,4,Bajos del Río Grande,447
+5553,5,Cacao,447
+5554,6,Convento,447
+5555,7,Cordoncillo,447
+5556,8,Los Ángeles,447
+5557,9,Longo Mai,447
+5558,10,Peje,447
+5559,11,Quebradas,447
+5560,12,Río Grande,447
+5561,13,Sabanilla,447
+5562,14,Sonador,447
+5563,15,Tarise,447
+5564,16,Tres Ríos,447
+5565,17,Ultrapez,447
+5566,1,POTRERO GRANDE centro,448
+5567,2,Alto La Cruz,448
+5568,3,Alto Tigre,448
+5569,4,Ángeles,448
+5570,5,Boca Limón,448
+5571,6,Brazos de Oro,448
+5572,7,Cabagra (parte),448
+5573,8,Campo Alegre,448
+5574,9,Capri,448
+5575,10,Caracol,448
+5576,11,Caracucho,448
+5577,12,Clavera,448
+5578,13,Colegallo,448
+5579,14,Copal,448
+5580,15,Coto Brus (parte),448
+5581,16,Cuesta Marañones,448
+5582,17,Delicias,448
+5583,18,Garrote,448
+5584,19,Guácimo,448
+5585,20,Guaria,448
+5586,21,Helechales,448
+5587,22,Jabillo,448
+5588,23,Jorón,448
+5589,24,Juntas,448
+5590,25,Lucha,448
+5591,26,Maravilla,448
+5592,27,Mesas,448
+5593,28,Mirador,448
+5594,29,Montelimar,448
+5595,30,Mosca,448
+5596,31,Palmira,448
+5597,32,Paso Real,448
+5598,33,Peje,448
+5599,34,Pita,448
+5600,35,Platanillal,448
+5601,36,Quijada,448
+5602,37,Río Coto,448
+5603,38,San Antonio,448
+5604,39,San Carlos,448
+5605,40,San Rafael de Cabagra,448
+5606,41,Santa Cecilia,448
+5607,42,Singri,448
+5608,43,Tablas,448
+5609,44,Tamarindo,448
+5610,45,Térraba,448
+5611,46,Tres Colinas,448
+5612,47,Tierras Negras,448
+5613,48,Volcancito,448
+5614,49,Vueltas,448
+5615,1,BORUCA centro,449
+5616,2,Alto del Mojón,449
+5617,3,Bellavista,449
+5618,4,Cajón,449
+5619,5,Curré,449
+5620,6,Chamba,449
+5621,7,Changuenita,449
+5622,8,Doboncragua,449
+5623,9,Iguana,449
+5624,10,Kuibín,449
+5625,11,Lagarto,449
+5626,12,Mano de Tigre,449
+5627,13,Miravalles,449
+5628,14,Ojo de Agua (parte),449
+5629,15,Presa,449
+5630,16,Puerto Nuevo,449
+5631,17,Sabanas (Barranco) (parte),449
+5632,18,San Joaquín,449
+5633,19,Santa Cruz,449
+5634,20,Tigre,449
+5635,21,Tres Ríos,449
+5636,1,PILAS centro,450
+5637,2,Alto Pilas,450
+5638,3,Bajo Pilas,450
+5639,4,Bijagual,450
+5640,5,Ceibón,450
+5641,6,Concepción (La Danta),450
+5642,7,Dibujada,450
+5643,8,Fortuna,450
+5644,9,La Gloria (Los Mangos),450
+5645,10,Laguna,450
+5646,11,Ojo de Agua,450
+5647,12,Paso La Tinta,450
+5648,13,Pueblo Nuevo,450
+5649,14,Sabanas (Barranco parte),450
+5650,15,Silencio,450
+5651,16,Tumbas,450
+5652,1,COLINAS centro (Maíz de los Uva),451
+5653,2,Aguas Frescas,451
+5654,3,Alto Esmeralda,451
+5655,4,Ángeles,451
+5656,5,Bajo Dioses,451
+5657,6,Bajo Maíz,451
+5658,7,Bolsa,451
+5659,8,Cedral (Boquete),451
+5660,9,Escuadra,451
+5661,10,Filadelfia (Aguabuena),451
+5662,11,Guagaral,451
+5663,12,Jabillo,451
+5664,13,Jalisco,451
+5665,14,Laguna,451
+5666,15,Lajas,451
+5667,16,Maíz de Boruca,451
+5668,17,Mallal,451
+5669,18,Nubes,451
+5670,19,Ojo de Agua (parte),451
+5671,20,San Luis,451
+5672,21,Virgen,451
+5673,1,CHÁNGUENA centro (La Fila),452
+5674,2,Alto Cacao,452
+5675,3,Bajo Mamey,452
+5676,4,Bonga,452
+5677,5,Cacique,452
+5678,6,Cantú,452
+5679,7,Cruces,452
+5680,8,Limón,452
+5681,9,Paraíso,452
+5682,10,Pataste,452
+5683,11,Pilón,452
+5684,12,Quebrada Bonita,452
+5685,13,San Luis,452
+5686,14,Santa Lucía,452
+5687,15,Santa María,452
+5688,16,Tres Ríos,452
+5689,17,Vegas de Chánguena,452
+5690,18,Vuelta Campana,452
+5691,19,Zapotal,452
+5692,1,COLORADO centro,453
+5693,2,Almácigo,453
+5694,3,Altamira,453
+5695,4,Alto Sábalo,453
+5696,5,Bajo Sábalo,453
+5697,6,Bajos de Coto,453
+5698,7,Biolley,453
+5699,8,Carmen,453
+5700,9,Hamacas,453
+5701,10,Guayacán,453
+5702,11,Manzano,453
+5703,12,Naranjos,453
+5704,13,Puna,453
+5705,1,SANTA MARTA,454
+5706,2,Achiote,454
+5707,3,Alto Achiote,454
+5708,4,Cañas,454
+5709,5,Guadalajara,454
+5710,6,Llano Bonito,454
+5711,7,Oasis,454
+5712,8,San Rafael,454
+5713,9,Santa Cecilia,454
+5714,10,Santa María,454
+5715,11,Santa Rosa,454
+5716,12,Socorro,454
+5717,1,MIRAMAR centro,455
+5718,2,Alto Pavones,455
+5719,3,Bajo Zamora,455
+5720,4,Barbudal,455
+5721,5,Bellavista,455
+5722,6,Brillante (parte),455
+5723,7,Cabuyal,455
+5724,8,Delicias,455
+5725,9,Fraijanes,455
+5726,10,Lagunilla,455
+5727,11,Río Seco,455
+5728,12,Tajo Alto,455
+5729,13,Trinidad,455
+5730,14,Zagala Vieja,455
+5731,15,Zamora,455
+5732,16,Zapotal (parte),455
+5733,1,LA UNIÓN centro,456
+5734,2,Bajo Caliente (parte),457
+5735,3,Cedral,457
+5736,4,Laguna,457
+5737,5,Micas,457
+5738,6,Palmital,457
+5739,7,San Buenaventura,457
+5740,8,Velásquez,457
+5741,9,Ventanas,457
+5742,10,Zagala Nueva,457
+5743,1,SAN ISIDRO centro,458
+5744,2,Aguabuena,458
+5745,3,Ciruelas,458
+5746,4,Cuatro Cruces,458
+5747,5,Isla,458
+5748,6,Santa Rosa,458
+5749,7,Tiocinto,458
+5750,1,PUERTO CORTÉS centro,459
+5751,2,Balsar,459
+5752,3,Bocabrava,459
+5753,4,Bocachica,459
+5754,5,Canadá,459
+5755,6,Cementerio,459
+5756,7,Cerrón,459
+5757,8,Chontales,459
+5758,9,Cinco Esquinas,459
+5759,10,Coronado,459
+5760,11,Delicias,459
+5761,12,Embarcadero,459
+5762,13,Fuente,459
+5763,14,Isla Sorpresa,459
+5764,15,Lindavista,459
+5765,16,Lourdes,459
+5766,17,Ojo de Agua,459
+5767,18,Ojochal,459
+5768,19,Parcelas,459
+5769,20,Pozo,459
+5770,21,Precario,459
+5771,22,Pueblo Nuevo,459
+5772,23,Punta Mala,459
+5773,24,Punta Mala Arriba,459
+5774,25,Renacimiento,459
+5775,26,San Buenaventura,459
+5776,27,San Juan,459
+5777,28,San Marcos,459
+5778,29,Tagual,459
+5779,30,Tortuga Abajo,459
+5780,31,Tres Ríos,459
+5781,32,Vista de Térraba,459
+5782,33,Yuca,459
+5783,1,PALMAR NORTE,460
+5784,2,Alemania,460
+5785,3,Alto Ángeles,460
+5786,4,Alto Encanto,460
+5787,5,Alto Montura,460
+5788,6,Bellavista,460
+5789,7,Betania,460
+5790,8,Calavera,460
+5791,9,Cansot,460
+5792,10,Cañablancal (Este),460
+5793,11,Cañablancal (Oeste) ,460
+5794,12,Coobó (Progreso),460
+5795,13,Coquito,460
+5796,14,Gorrión,460
+5797,15,Jalaca (parte),460
+5798,16,Olla Cero,460
+5799,17,Once de Abril,460
+5800,18,Palma,460
+5801,19,Palmar Sur,460
+5802,20,Paraíso,460
+5803,21,Primero de Marzo,460
+5804,22,Puerta del Sol,460
+5805,23,San Cristóbal,460
+5806,24,San Francisco (Tinoco),460
+5807,25,San Gabriel,460
+5808,26,San Isidro,460
+5809,27,San Rafael,460
+5810,28,Santa Elena,460
+5811,29,Silencio,460
+5812,30,Trocha,460
+5813,31,Vergel,460
+5814,32,Victoria,460
+5815,33,Zapote,460
+5816,1,SIERPE centro,461
+5817,2,Ajuntaderas,461
+5818,3,Alto Los Mogos,461
+5819,4,Alto San Juan,461
+5820,5,Bahía Chal,461
+5821,6,Bajos Matías,461
+5822,7,Barco,461
+5823,8,Bejuco,461
+5824,9,Boca Chocuaco,461
+5825,10,Gallega,461
+5826,11,Camíbar,461
+5827,12,Campo de Aguabuena,461
+5828,13,Cantarrana,461
+5829,14,Charcos,461
+5830,15,Chocuaco,461
+5831,16,Garrobo,461
+5832,17,Guabos,461
+5833,18,Isidora,461
+5834,19,Islotes,461
+5835,20,Jalaca (parte),461
+5836,21,Julia,461
+5837,22,Miramar,461
+5838,23,Mogos,461
+5839,24,Monterrey,461
+5840,25,Playa Palma,461
+5841,26,Playitas,461
+5842,27,Potrero,461
+5843,28,Puerto Escondido,461
+5844,29,Rincón,461
+5845,30,Sábalo,461
+5846,31,San Gerardo,461
+5847,32,San Juan,461
+5848,33,Taboga,461
+5849,34,Taboguita,461
+5850,35,Tigre,461
+5851,36,Varillal,461
+5852,1,UVITA,462
+5853,2,Bahía,462
+5854,3,Ballena,462
+5855,4,Brisas,462
+5856,5,Cambutal,462
+5857,6,Dominical,462
+5858,7,Dominicalito,462
+5859,8,Escaleras,462
+5860,9,Piedra Achiote,462
+5861,10,Piñuela,462
+5862,11,Playa Hermosa,462
+5863,12,Poza Azul,462
+5864,13,Puerto Nuevo,462
+5865,14,Quebrada Grande,462
+5866,15,Rocas Amancio,462
+5867,16,San Josecito,462
+5868,17,San Martín,462
+5869,18,Tortuga Arriba,462
+5870,19,Ventanas,462
+5871,1,PIEDRAS BLANCAS centro,463
+5872,2,Ángeles,463
+5873,3,Bellavista,463
+5874,4,Calera,463
+5875,5,Cerro Oscuro,463
+5876,6,Chacarita,463
+5877,7,Fila,463
+5878,8,Finca Alajuela,463
+5879,9,Finca Guanacaste,463
+5880,10,Finca Puntarenas,463
+5881,11,Florida,463
+5882,12,Guaria,463
+5883,13,Kilómetro 40,463
+5884,14,Navidad,463
+5885,15,Nubes,463
+5886,16,Porvenir,463
+5887,17,Rincón Caliente,463
+5888,18,Salamá,463
+5889,19,San Martín,463
+5890,20,Santa Cecilia,463
+5891,21,Santa Rosa,463
+5892,22,Sinaí,463
+5893,23,Venecia,463
+5894,24,Villa Bonita,463
+5895,25,Villa Colón,463
+5896,1,BAHÍA DRAKE centro (Agujitas),464
+5897,2,Ángeles,464
+5898,3,Banegas,464
+5899,4,Boca Ganado,464
+5900,5,Campanario,464
+5901,6,Caletas,464
+5902,7,Guerra,464
+5903,8,Planes,464
+5904,9,Progreso,464
+5905,10,Quebrada Ganado,464
+5906,11,Rancho Quemado,464
+5907,12,Riyito,464
+5908,13,San Josecito (Rincón),464
+5909,14,San Pedrillo,464
+5910,1,QUEPOS centro,465
+5911,2,Boca Vieja,465
+5912,3,Cocal,465
+5913,4,Colinas del Este,465
+5914,5,Inmaculada,465
+5915,6,Junta Naranjo,465
+5916,7,La Zona,465
+5917,8,Rancho Grande,465
+5918,9,Anita,465
+5919,10,Bartolo,465
+5920,11,Boca Naranjo,465
+5921,12,Cañas,465
+5922,13,Cañitas,465
+5923,14,Cerritos,465
+5924,15,Cerros,465
+5925,16,Damas,465
+5926,17,Delicias,465
+5927,18,Espadilla,465
+5928,19,Estero Damas,465
+5929,20,Estero Garita,465
+5930,21,Gallega,465
+5931,22,Llamarón,465
+5932,23,Llorona,465
+5933,24,Managua,465
+5934,25,Manuel Antonio,465
+5935,26,Marítima,465
+5936,27,Mona,465
+5937,28,Papaturro,465
+5938,29,Paquita,465
+5939,30,Pastora,465
+5940,31,Quebrada Azul,465
+5941,32,Rey,465
+5942,33,Ríos,465
+5943,34,Roncador,465
+5944,35,San Rafael,465
+5945,1,MATAPALO,466
+5946,2,Dos Bocas,467
+5947,3,Guabas,467
+5948,4,Guápil,467
+5949,5,Hatillo Nuevo,467
+5950,6,Hatillo Viejo,467
+5951,7,Laguna,467
+5952,8,Nubes,467
+5953,9,Palma Quemada,467
+5954,10,Pasito,467
+5955,11,Paso,467
+5956,12,Paso Guanacaste,467
+5957,13,Platanillo,467
+5958,14,Playa Matapalo,467
+5959,15,Portalón,467
+5960,16,Punto de Mira,467
+5961,17,Salitral,467
+5962,18,Salsipuedes,467
+5963,19,San Andrés,467
+5964,20,Santo Domingo,467
+5965,21,Silencio,467
+5966,22,Tierras Morenas,467
+5967,23,Tres Piedras (parte),467
+5968,1,NARANJITO centro,468
+5969,2,Bijagual,468
+5970,3,Buenos Aires,468
+5971,4,Capital,468
+5972,5,Concepción,468
+5973,6,Cotos,468
+5974,7,Londres,468
+5975,8,Negro,468
+5976,9,Pascua,468
+5977,10,Paso Indios,468
+5978,11,Paso Real,468
+5979,12,Sábalo,468
+5980,13,Santa Juana,468
+5981,14,Tocorí,468
+5982,15,Villanueva,468
+5983,1,GOLFITO centro,469
+5984,2,Aguada,469
+5985,3,Alamedas,469
+5986,4,Ánimas,469
+5987,5,Atrocho,469
+5988,6,Bajo Chontales,469
+5989,7,Bajo de Coto,469
+5990,8,Bajo Grapa,469
+5991,9,Bajo Mansito,469
+5992,10,Bajo Sucio,469
+5993,11,Bajos de Cañablanca,469
+5994,12,Bellavista,469
+5995,13,Bolsa,469
+5996,14,Cuarenta y Cinco,469
+5997,15,Disco,469
+5998,16,Dos Ríos,469
+5999,17,Esperanza de Coto,469
+6000,18,Gallardo,469
+6001,19,Huacas,469
+6002,20,Jorge Brenes Durán,469
+6003,21,Kilómetro 1,469
+6004,22,Kilómetro 16,469
+6005,23,Kilómetro 2,469
+6006,24,Kilómetro 20,469
+6007,25,Kilómetro 24,469
+6008,26,Kilómetro 3,469
+6009,27,Kilómetro 5,469
+6010,28,Kilómetro 7,469
+6011,29,Kilómetro 9,469
+6012,30,Laguna,469
+6013,31,Llano Bonito,469
+6014,32,Manuel Tucker Martínez,469
+6015,33,Minerva,469
+6016,34,Mona,469
+6017,35,Naranjal,469
+6018,36,Nazaret,469
+6019,37,Oasis de Esperanza,469
+6020,38,Parroquial,469
+6021,39,Paso Higuerón,469
+6022,40,Playa Cacao,469
+6023,41,Pueblo Civil,469
+6024,42,Puerto Escondido,469
+6025,43,Puntarenitas,469
+6026,44,Purruja,469
+6027,45,Rancho Relámpago,469
+6028,46,Riyito,469
+6029,47,Rotonda,469
+6030,48,Saladerito,469
+6031,49,Saladero,469
+6032,50,San Andrés,469
+6033,51,San Francisco,469
+6034,52,San Josecito,469
+6035,53,San Martín,469
+6036,54,Torres,469
+6037,55,Trenzas,469
+6038,56,Unión de Coto,469
+6039,57,Ureña,469
+6040,58,Valle Bonito,469
+6041,59,Viquilla Dos,469
+6042,60,Zona Gris,469
+6043,1,RÍO CLARO,470
+6044,2,Bajo Bonita,470
+6045,3,Bajo Cedros,470
+6046,4,Buenavista,470
+6047,5,Cerro Café,470
+6048,6,Chiqueros,470
+6049,7,Delicias,470
+6050,8,El Alto,470
+6051,9,Esperanza,470
+6052,10,Gamba,470
+6053,11,Kilómetro 29,470
+6054,12,Kilómetro 33,470
+6055,13,La Julieta,470
+6056,14,Santiago,470
+6057,15,Santiago de Caracol,470
+6058,16,Tigre (Caracol Norte),470
+6059,17,Valle Cedros,470
+6060,18,Vegas de Río Claro,470
+6061,19,Villa Briceño,470
+6062,20,Viquilla Uno,470
+6063,1,CONTE,471
+6064,2,Altos de Conte,471
+6065,3,Banco,471
+6066,4,Burica,471
+6067,5,Clarita,471
+6068,6,Cocal Amarillo,471
+6069,7,Cuervito,471
+6070,8,Escuadra,471
+6071,9,Esperanza de Sábalos,471
+6072,10,Estero Colorado,471
+6073,11,Estrella,471
+6074,12,Flor de Coto,471
+6075,13,Fortuna de Coto,471
+6076,14,Guaymí,471
+6077,15,Higo,471
+6078,16,Jardín,471
+6079,17,La Virgen,471
+6080,18,Lindamar,471
+6081,19,Manzanillo,471
+6082,20,Pavones,471
+6083,21,Peñas,471
+6084,22,Peñita,471
+6085,23,Puerto Pilón,471
+6086,24,Puesto La Playa,471
+6087,25,Punta Banco,471
+6088,26,Quebrada Honda,471
+6089,27,Riviera,471
+6090,28,Sábalos,471
+6091,29,Tigrito,471
+6092,30,Unión del Sur,471
+6093,31,Vanegas,471
+6094,32,Yerba,471
+6095,33,Zancudo,471
+6096,1,SAN VITO centro,472
+6097,2,Canadá,472
+6098,3,María Auxiliadora,472
+6099,4,Tres Ríos,472
+6100,5,Aguas Claras,472
+6101,6,Bajo Reyes,472
+6102,7,Bajo Venado,472
+6103,8,Barrantes,472
+6104,9,Ceibo,472
+6105,10,Cruces,472
+6106,11,Cuenca de Oro,472
+6107,12,Danto,472
+6108,13,Fila Guinea,472
+6109,14,Isla,472
+6110,15,Lindavista,472
+6111,16,Lourdes,472
+6112,17,Maravilla,472
+6113,18,Piedra Pintada,472
+6114,19,San Joaquín,472
+6115,20,Santa Clara,472
+6116,21,Torre Alta,472
+6117,1,SABALITO centro,473
+6118,2,Ángeles,473
+6119,3,Brasilia,473
+6120,4,Casablanca,473
+6121,5,Chanchera,473
+6122,6,El Gallo,473
+6123,7,Juntas,473
+6124,8,La Esmeralda,473
+6125,9,Lucha,473
+6126,10,Mellizas,473
+6127,11,Miraflores,473
+6128,12,Piedra de Candela,473
+6129,13,Plantel,473
+6130,14,Porto Llano,473
+6131,15,Primavera,473
+6132,16,Progreso,473
+6133,17,Providencia,473
+6134,18,Pueblo Nuevo,473
+6135,19,Río Negro,473
+6136,20,Río Sereno,473
+6137,21,San Antonio,473
+6138,22,San Bosco,473
+6139,23,San Francisco,473
+6140,24,San Luis,473
+6141,25,San Marcos,473
+6142,26,San Miguel,473
+6143,27,San Rafael,473
+6144,28,San Ramón,473
+6145,29,Santa Rosa,473
+6146,30,Santa Teresa,473
+6147,31,Tigra,473
+6148,32,Trinidad,473
+6149,33,Unión,473
+6150,34,Valle Hermoso,473
+6151,1,AGUABUENA centro,474
+6152,2,Bello Oriente,474
+6153,3,Campo Tres,474
+6154,4,Cañas Gordas,474
+6155,5,Concepción,474
+6156,6,Copabuena,474
+6157,7,Copal,474
+6158,8,Fila Zapote,474
+6159,9,Metaponto,474
+6160,10,Pilares,474
+6161,11,Pueblo Nuevo,474
+6162,12,Quebrada Bonita,474
+6163,13,Río Salto,474
+6164,14,San Francisco,474
+6165,15,San Gabriel,474
+6166,16,San Pedro,474
+6167,17,Santa Cecilia,474
+6168,18,Santa Marta,474
+6169,19,Santo Domingo,474
+6170,20,Valle Azul,474
+6171,1,LIMONCITO centro,475
+6172,2,Aguacate,475
+6173,3,Alto Limoncito,475
+6174,4,Ángeles,475
+6175,5,Bonanza,475
+6176,6,Brusmalis,475
+6177,7,Chiva,475
+6178,8,Desamparados,475
+6179,9,Esperanza,475
+6180,10,Fila,475
+6181,11,La Casona,475
+6182,12,Manchuria,475
+6183,13,Sabanilla,475
+6184,14,San Gerardo,475
+6185,15,San Juan,475
+6186,16,San Miguel,475
+6187,17,San Rafael,475
+6188,18,Santa Marta,475
+6189,19,Santa Rita,475
+6190,20,Unión,475
+6191,21,Valle,475
+6192,22,Villapalacios,475
+6193,23,Zumbona,475
+6194,1,SANTA ELENA,476
+6195,2,Aguacaliente,476
+6196,3,Camaquiri,476
+6197,4,Cocorí,476
+6198,5,Coto Brus (parte),476
+6199,6,Fila Méndez,476
+6200,7,Fila Naranjo,476
+6201,8,Fila Tigre,476
+6202,9,Marías,476
+6203,10,Monterrey,476
+6204,11,Palmira,476
+6205,12,Santa Fe,476
+6206,1,FILA GUINEA,477
+6207,2,Alpha,477
+6208,3,Alturas de Cotón,477
+6209,4,Brisas,477
+6210,5,Fila Pinar,477
+6211,6,Fila San Rafael,477
+6212,7,Flor del Roble,477
+6213,8,Guinea Arriba,477
+6214,9,La Administración (Gutiérrez Braun),477
+6215,10,Libertad,477
+6216,11,Poma,477
+6217,12,Río Marzo,477
+6218,13,Roble,477
+6219,14,Roble Arriba,477
+6220,15,Siete Colinas,477
+6221,1,PARRITA centro,478
+6222,2,Alto Camacho,478
+6223,3,Ángeles,478
+6224,4,Bajos Jicote,478
+6225,5,Bambú,478
+6226,6,Bandera,478
+6227,7,Barbudal,478
+6228,8,Bejuco,478
+6229,9,Boca del Parrita,478
+6230,10,Carmen (parte),478
+6231,11,Chires,478
+6232,12,Chires Arriba,478
+6233,13,Chirraca Abajo,478
+6234,14,Chirraca Arriba,478
+6235,15,Esterillos Centro,478
+6236,16,Esterillos Este,478
+6237,17,Esterillos Oeste,478
+6238,18,Fila Surubres,478
+6239,19,Guapinol,478
+6240,20,Higuito,478
+6241,21,I Griega,478
+6242,22,Isla Damas,478
+6243,23,Isla Palo Seco,478
+6244,24,Jicote,478
+6245,25,Julieta,478
+6246,26,Loma,478
+6247,27,Mesas,478
+6248,28,Palmas,478
+6249,29,Palo Seco,478
+6250,30,Pirrís,478
+6251,31,Pirrís (Las Parcelas),478
+6252,32,Playa Palma,478
+6253,33,Playón,478
+6254,34,Playón Sur,478
+6255,35,Pocares,478
+6256,36,Pocarito,478
+6257,37,Porvenir,478
+6258,38,Pueblo Nuevo,478
+6259,39,Punta Judas,478
+6260,40,Rincón Morales,478
+6261,41,Río Negro (parte),478
+6262,42,Río Seco,478
+6263,43,San Antonio,478
+6264,44,San Bosco,478
+6265,45,San Gerardo,478
+6266,46,San Isidro,478
+6267,47,San Juan,478
+6268,48,San Julián,478
+6269,49,San Rafael Norte,478
+6270,50,Sardinal,478
+6271,51,Sardinal Sur,478
+6272,52,Surubres,478
+6273,53,Teca,478
+6274,54,Tigre,478
+6275,55,Turbio,478
+6276,56,Valle Vasconia,478
+6277,57,Vueltas,478
+6278,1,NEILY centro,479
+6279,2,Abrojo,479
+6280,3,Aguilares,479
+6281,4,Alto Limoncito,479
+6282,5,Bajo Indios,479
+6283,6,Betel,479
+6284,7,Bosque,479
+6285,8,Cacoragua,479
+6286,9,Campiña,479
+6287,10,Campo Dos,479
+6288,11,Campo Dos y Medio,479
+6289,12,Cañada,479
+6290,13,Caño Seco,479
+6291,14,Capri,479
+6292,15,Caracol Sur,479
+6293,16,Carmen,479
+6294,17,Castaños,479
+6295,18,Coloradito,479
+6296,19,Concordia,479
+6297,20,Corredor,479
+6298,21,Coto 42,479
+6299,22,Coto 44,479
+6300,23,Coto 45,479
+6301,24,Coto 47,479
+6302,25,Coto 49,479
+6303,26,Coto 50-51,479
+6304,27,Coto 52-53,479
+6305,28,Cuesta Fila de Cal,479
+6306,29,Estrella del Sur,479
+6307,30,Florida,479
+6308,31,Fortuna,479
+6309,32,Kilómetro 10,479
+6310,33,Miramar,479
+6311,34,Montezuma,479
+6312,35,Nubes,479
+6313,36,Pangas,479
+6314,37,Planes,479
+6315,38,Progreso,479
+6316,39,Pueblo Nuevo,479
+6317,40,Río Bonito,479
+6318,41,Río Nuevo (Norte),479
+6319,42,Río Nuevo (Sur),479
+6320,43,San Antonio Abajo,479
+6321,44,San Francisco,479
+6322,45,San Josecito,479
+6323,46,San Juan,479
+6324,47,San Rafael,479
+6325,48,Santa Cecilia,479
+6326,49,Santa Marta (parte),479
+6327,50,Santa Rita,479
+6328,51,Tropezón,479
+6329,52,Unión,479
+6330,53,Valle del Sur,479
+6331,54,Vegas de Abrojo,479
+6332,55,Villa Roma,479
+6333,1,LA CUESTA centro,480
+6334,2,Canoas Abajo (parte),480
+6335,3,Chorro,480
+6336,4,Control,480
+6337,5,Cuervito,480
+6338,1,CANOAS centro,481
+6339,2,Altos del Brujo,481
+6340,3,Bajo,481
+6341,4,Bajo Brujo,481
+6342,5,Barrionuevo,481
+6343,6,Canoas Abajo (parte),481
+6344,7,Canoas Arriba,481
+6345,8,Cañaza,481
+6346,9,Cerro Brujo,481
+6347,10,Chiva,481
+6348,11,Colorado,481
+6349,12,Darizara,481
+6350,13,Gloria,481
+6351,14,Guay,481
+6352,15,Guayabal,481
+6353,16,Lotes (San Jorge),481
+6354,17,Mariposa,481
+6355,18,Níspero,481
+6356,19,Palma,481
+6357,20,Paso Canoas,481
+6358,21,San Antonio,481
+6359,22,San Isidro,481
+6360,23,San Martín,481
+6361,24,San Miguel,481
+6362,25,Santa Marta (parte),481
+6363,26,Veguitas de Colorado,481
+6364,27,Veracruz,481
+6365,28,Villas de Darizara,481
+6366,1,LAUREL centro,482
+6367,2,Alto Vaquita,482
+6368,3,Bambito,482
+6369,4,Bella Luz,482
+6370,5,Bijagual,482
+6371,6,Caimito,482
+6372,7,Cangrejo Verde,482
+6373,8,Caracol de la Vaca,482
+6374,9,Cariari,482
+6375,10,Caucho,482
+6376,11,Cenizo,482
+6377,12,Colonia Libertad,482
+6378,13,Coyoche,482
+6379,14,Jobo Civil,482
+6380,15,Kilómetro 22,482
+6381,16,Kilómetro 25,482
+6382,17,Kilómetro 27,482
+6383,18,Kilómetro 29,482
+6384,19,Mango,482
+6385,20,Pueblo de Dios,482
+6386,21,Puerto González Víquez,482
+6387,22,Río Incendio,482
+6388,23,Roble,482
+6389,24,San Juan,482
+6390,25,Santa Lucía,482
+6391,26,Tamarindo,482
+6392,27,Vaca (Santa Rosa),482
+6393,28,Vereh,482
+6394,29,Zaragoza,482
+6395,1,JACÓ centro,483
+6396,2,Agujitas,483
+6397,3,Buenos Aires,483
+6398,4,Cañablancal,483
+6399,5,Cerro Fresco,483
+6400,6,Herradura,483
+6401,7,Mona,483
+6402,8,Playa Hermosa,483
+6403,9,Playa Herradura,483
+6404,10,Pochotal,483
+6405,11,Puerto Escondido,483
+6406,12,Quebrada Amarilla,483
+6407,13,San Antonio,483
+6408,14,Turrubaritos,483
+6409,15,Tusubres,483
+6410,1,QUEBRADA GANADO,484
+6411,2,Agujas,484
+6412,3,Bajamar,484
+6413,4,Bellavista,484
+6414,5,Caletas,484
+6415,6,Camaronal,484
+6416,7,Camaronal Arriba,484
+6417,8,Capulín,484
+6418,9,Carrizal de Bajamar,484
+6419,10,Guacalillo,484
+6420,11,Mantas,484
+6421,12,Nambí,484
+6422,13,Peñón de Tivives,484
+6423,14,Pigres,484
+6424,15,Pita,484
+6425,16,Playa Azul,484
+6426,17,Pógeres,484
+6427,18,Puerto Peje,484
+6428,19,Punta Leona,484
+6429,20,Tárcoles,484
+6430,21,Tarcolitos,484
+6431,1,Lagunillas,485
+6432,1,SANTA ELENA,486
+6433,1,PUERTO JIMÉNEZ centro,487
+6434,1,LIMÓN centro,488
+6435,2,Bellavista,488
+6436,3,Bohío,488
+6437,4,Bosque,488
+6438,5,Buenos Aires,488
+6439,7,Cangrejos,488
+6440,8,Cariari,488
+6441,9,Cerro Mocho,488
+6442,10,Cielo Amarillo,488
+6443,11,Cieneguita,488
+6444,12,Cocal,488
+6445,13,Colina,488
+6446,14,Corales,488
+6447,15,Cruce,488
+6448,16,Dos Bocas,488
+6449,17,Empalme Moín,488
+6450,18,Fortín,488
+6451,19,Garrón,488
+6452,20,Hospital,488
+6453,21,Jamaica Town,488
+6454,22,Japdeva,488
+6455,23,Laureles,488
+6456,24,Limoncito,488
+6457,25,Lirios,488
+6458,26,Milla Nueve,488
+6459,27,Moín,488
+6460,28,Piuta,488
+6461,29,Portete,488
+6462,30,Pueblo Nuevo,488
+6463,31,San Juan,488
+6464,32,Santa Eduvigis,488
+6465,33,Santa Rosa,488
+6466,34,Trinidad,488
+6467,35,Valle La Aurora,488
+6468,36,Veracruz,488
+6469,37,Villa Hermosa,488
+6470,38,Villas del Mar Dos,488
+6471,39,Villas del Mar Uno,488
+6472,1,PANDORA centro,489
+6473,2,Alsacia,489
+6474,3,Armenia,489
+6475,4,Atalanta,489
+6476,5,Bananito Sur,489
+6477,6,Boca Cuen,489
+6478,7,Boca Río Estrella,489
+6479,8,Bocuare,489
+6480,9,Bonifacio,489
+6481,10,Brisas,489
+6482,11,Buenavista,489
+6483,12,Burrico,489
+6484,13,Calveri,489
+6485,14,Caño Negro,489
+6486,15,Cartagena,489
+6487,16,Casa Amarilla,489
+6488,17,Cerere,489
+6489,18,Chirripó Abajo (parte),489
+6490,19,Colonia,489
+6491,20,Concepción,489
+6492,21,Cuen,489
+6493,22,Durfuy (San Miguel),489
+6494,23,Duruy,489
+6495,24,Finca Ocho,489
+6496,25,Fortuna,489
+6497,26,Gavilán,489
+6498,27,Guaria,489
+6499,28,Hueco,489
+6500,29,I Griega,489
+6501,30,Jabuy,489
+6502,31,Llano Grande,489
+6503,32,Loras,489
+6504,33,Manú,489
+6505,34,Miramar,489
+6506,35,Moi (San Vicente),489
+6507,36,Nanabre,489
+6508,37,Nubes,489
+6509,38,Pandora Oeste,489
+6510,39,Penshurt,489
+6511,40,Pléyades,489
+6512,41,Porvenir,489
+6513,42,Progreso,489
+6514,43,Río Ley,489
+6515,44,Río Seco,489
+6516,45,San Andrés,489
+6517,46,San Carlos,489
+6518,47,San Clemente,489
+6519,48,San Rafael,489
+6520,49,Suruy,489
+6521,50,Talía,489
+6522,51,Tobruk,489
+6523,52,Tuba Creek (parte),489
+6524,53,Valle de las Rosas,489
+6525,54,Vegas de Cerere,489
+6526,55,Vesta,489
+6527,1,LIVERPOOL,490
+6528,2,Brisas,491
+6529,3,Brisas de Veragua,491
+6530,4,Búfalo,491
+6531,5,Limón 2000,491
+6532,6,Loma Linda,491
+6533,7,México,491
+6534,8,Milla 9,491
+6535,9,Miravalles,491
+6536,10,Río Blanco,491
+6537,11,Río Cedro,491
+6538,12,Río Madre,491
+6539,13,Río Quito,491
+6540,14,Río Victoria,491
+6541,15,Sandoval,491
+6542,16,Santa Rita,491
+6543,17,Victoria,491
+6544,1,LA BOMBA,492
+6545,2,Aguas Zarcas,492
+6546,3,Asunción,492
+6547,4,Bananito Norte,492
+6548,5,Bearesem,492
+6549,6,Beverley,492
+6550,7,Calle Tranvía,492
+6551,8,Castillo Nuevo,492
+6552,9,Dondonia,492
+6553,10,Filadelfia Norte,492
+6554,11,Filadelfia Sur,492
+6555,12,Kent,492
+6556,13,María Luisa,492
+6557,14,Mountain Cow,492
+6558,15,Paraíso,492
+6559,16,Polonia,492
+6560,17,Quitaría,492
+6561,18,Río Banano,492
+6562,19,San Cecilio,492
+6563,20,Tigre,492
+6564,21,Trébol,492
+6565,22,Westfalia,492
+6566,1,GUÁPILES,493
+6567,2,Ángeles,493
+6568,3,Blanco,493
+6569,4,Cacique,493
+6570,5,Calle Ángeles,493
+6571,6,Calle Gobierno,493
+6572,7,Calle Vargas,493
+6573,8,Cecilia,493
+6574,9,Coopevigua,493
+6575,10,Corinto,493
+6576,11,Diamantes,493
+6577,12,Emilia,493
+6578,13,Flores,493
+6579,14,Floresta,493
+6580,15,Garabito,493
+6581,16,Jesús,493
+6582,17,La Guaria,493
+6583,18,Marina,493
+6584,19,Palma Dorada,493
+6585,20,Palmera,493
+6586,21,Rancho Redondo,493
+6587,22,San Miguel,493
+6588,23,Sauces,493
+6589,24,Toro Amarillo,493
+6590,1,JIMÉNEZ centro,494
+6591,2,Anita Grande,494
+6592,3,Calle Diez,494
+6593,4,Calle Emilia,494
+6594,5,Calle Seis,494
+6595,6,Calle Uno,494
+6596,7,Condado del Río,494
+6597,8,Floritas,494
+6598,9,Granja,494
+6599,10,Molino,494
+6600,11,Numancia,494
+6601,12,Parasal,494
+6602,13,San Luis,494
+6603,14,San Martín,494
+6604,15,San Valentín,494
+6605,16,Santa Clara,494
+6606,17,Suerre,494
+6607,1,RITA centro,495
+6608,2,Balastre,495
+6609,3,Cantagallo,495
+6610,4,Cartagena,495
+6611,5,Cayuga,495
+6612,6,Chirvalo,495
+6613,7,Cocorí,495
+6614,8,Cruce de Jordán,495
+6615,9,Encina,495
+6616,10,Gallopinto,495
+6617,11,Hamburgo,495
+6618,12,I Griega,495
+6619,13,Indio,495
+6620,14,Jardín,495
+6621,15,Mercedes,495
+6622,16,Palmitas,495
+6623,17,Peligro,495
+6624,18,Porvenir,495
+6625,19,Primavera,495
+6626,20,Pueblo Nuevo,495
+6627,21,Rótulo,495
+6628,22,San Carlos,495
+6629,23,San Cristóbal,495
+6630,24,San Gerardo,495
+6631,25,San Pedro,495
+6632,26,Santa Elena,495
+6633,27,Santa Rosa,495
+6634,28,Sirena,495
+6635,29,Suárez,495
+6636,30,Suerte,495
+6637,31,Tarire,495
+6638,32,Teresa,495
+6639,33,Ticabán,495
+6640,34,Triángulo,495
+6641,35,Victoria,495
+6642,1,ROXANA centro,496
+6643,2,Aguas Frías,496
+6644,3,Anabán,496
+6645,4,Boca Guápiles (parte),496
+6646,5,Castañal,496
+6647,6,Cruce,496
+6648,7,Curia,496
+6649,8,Curva,496
+6650,9,Curva del Humo,496
+6651,10,Esperanza,496
+6652,11,Fortuna,496
+6653,12,Humo,496
+6654,13,La Cruz,496
+6655,14,La Lidia,496
+6656,15,Lesville,496
+6657,16,Llano Bonito,496
+6658,17,Lomas Azules,496
+6659,18,Londres,496
+6660,19,Maravilla,496
+6661,20,Mata de Limón,496
+6662,21,Millón,496
+6663,22,Milloncito,496
+6664,23,Oeste,496
+6665,24,Prado (parte),496
+6666,25,Punta de Riel,496
+6667,26,Roxana Tres,496
+6668,27,San Francisco,496
+6669,28,San Jorge,496
+6670,29,Vegas de Tortuguero,496
+6671,1,CARIARI centro,497
+6672,2,Ángeles,497
+6673,3,Astúa-Pirie,497
+6674,4,Banamola,497
+6675,5,Boca Guápiles (parte),497
+6676,6,Campo Cuatro,497
+6677,7,Campo de Aterrizaje (Pueblo Triste),497
+6678,8,Campo Dos,497
+6679,9,Campo Tres,497
+6680,10,Campo Tres Este,497
+6681,11,Campo Tres Oeste,497
+6682,12,Caño Chiquero,497
+6683,13,Carolina,497
+6684,14,Ceibo,497
+6685,15,Coopecariari,497
+6686,16,Cuatro Esquinas,497
+6687,17,Encanto,497
+6688,18,Esperanza (Cantarrana),497
+6689,19,Formosa,497
+6690,20,Frutera,497
+6691,21,Gaviotas,497
+6692,22,Hojancha,497
+6693,23,Maná,497
+6694,24,Monterrey,497
+6695,25,Nazaret,497
+6696,26,Palermo,497
+6697,27,Progreso,497
+6698,28,Pueblo Nuevo,497
+6699,29,Sagrada Familia,497
+6700,30,San Miguel,497
+6701,31,Semillero,497
+6702,32,Vega de Río Palacios,497
+6703,33,Zacatales,497
+6704,1,BARRA DEL COLORADO  ,498
+6705,2,Aragón,498
+6706,3,Barra del Colorado Este,498
+6707,4,Buenavista,498
+6708,5,Malanga,498
+6709,6,Puerto Lindo,498
+6710,7,San Gerardo,498
+6711,8,Tortuguero,498
+6712,9,Verdades,498
+6713,1,SAN RAFAEL,499
+6714,2,Brisas del Toro Amarillo,499
+6715,3,Cascadas,499
+6716,4,La Victoria,499
+6717,5,Losilla,499
+6718,6,Prado (parte),499
+6719,7,San Bosco,499
+6720,8,Santa Elena,499
+6721,1,SIQUIRRES centro,500
+6722,2,Amelia,500
+6723,3,Amistad,500
+6724,4,Bajo Tigre,500
+6725,5,Barnstorf,500
+6726,6,Betania,500
+6727,7,Brooklin,500
+6728,8,Calle Tajo,500
+6729,9,Calvario,500
+6730,10,Canadá,500
+6731,11,Caño Blanco,500
+6732,12,Cocal,500
+6733,13,Coco,500
+6734,14,Ganga,500
+6735,15,Guayacán,500
+6736,16,Indiana Dos,500
+6737,17,Indiana Tres,500
+6738,18,Indiana Uno,500
+6739,19,INVU,500
+6740,20,Lindavista,500
+6741,21,Livingston,500
+6742,22,Lucha,500
+6743,23,María Auxiliadora,500
+6744,24,Milla 52,500
+6745,25,Moravia,500
+6746,26,Morazán,500
+6747,27,Palmiras,500
+6748,28,Quebrador,500
+6749,29,San Alberto Nuevo,500
+6750,30,San Alberto Viejo,500
+6751,31,San Alejo,500
+6752,32,San Joaquín,500
+6753,33,San Martín,500
+6754,34,San Rafael,500
+6755,35,Triunfo,500
+6756,1,PACUARITO centro,501
+6757,2,Alto Mirador,501
+6758,3,Altos de Pacuarito,501
+6759,4,Buenos Aires,501
+6760,5,Cimarrones,501
+6761,6,Culpeper,501
+6762,7,Cultivez,501
+6763,8,Freehold,501
+6764,9,Freeman (San Rafael),501
+6765,10,Galicia,501
+6766,11,Isla Nueva,501
+6767,12,Leona,501
+6768,13,Madre de Dios,501
+6769,14,Manila,501
+6770,15,Monteverde,501
+6771,16,Pacuare,501
+6772,17,Perla,501
+6773,18,Perlita,501
+6774,19,Río Hondo,501
+6775,20,San Luis,501
+6776,21,San Carlos,501
+6777,22,San Isidro,501
+6778,23,San Pablo,501
+6779,24,Santa Rosa,501
+6780,25,Ten Switch,501
+6781,26,Trinidad,501
+6782,27,Unión Campesina,501
+6783,28,Waldeck,501
+6784,1,FLORIDA centro,502
+6785,2,Alto Gracias a Dios,502
+6786,3,Alto Laurelar,502
+6787,4,Altos de Pascua,502
+6788,5,Bonilla Abajo,502
+6789,6,Casorla,502
+6790,7,Chonta,502
+6791,8,Destierro,502
+6792,9,El Alto,502
+6793,10,Fourth Cliff,502
+6794,11,Huecos,502
+6795,12,Llano,502
+6796,13,Lomas,502
+6797,14,Pascua,502
+6798,15,Roca,502
+6799,16,Rubí,502
+6800,17,San Antonio,502
+6801,18,Tunel Camp,502
+6802,1,GERMANIA centro,503
+6803,2,América,503
+6804,3,Babilonia,503
+6805,4,Cacao,503
+6806,5,Colombiana,503
+6807,6,Herediana,503
+6808,7,Milano,503
+6809,8,Trinidad,503
+6810,9,Williamsburg,503
+6811,1,EL CAIRO centro,504
+6812,2,Ana,504
+6813,3,Bellavista,504
+6814,4,Boca Río Jiménez,504
+6815,5,Castilla,504
+6816,6,Catalinas,504
+6817,7,Cocal,504
+6818,8,Francia,504
+6819,9,Golden Grove,504
+6820,10,Josefina,504
+6821,11,Junta,504
+6822,12,Laureles,504
+6823,13,Luisiana,504
+6824,14,Milla 3,504
+6825,15,Milla 4,504
+6826,16,Milla 5,504
+6827,17,Milla 6,504
+6828,18,Ontario,504
+6829,19,Peje,504
+6830,20,Seis Amigos,504
+6831,21,Silencio,504
+6832,1,ALEGRÍA centro,505
+6833,2,Alto Herediana,505
+6834,3,Cruce,505
+6835,4,Portón Iberia,505
+6836,5,Río Peje,505
+6837,6,Vueltas,505
+6838,1,NUEVA ESPERANZA,506
+6839,2,Ángeles,506
+6840,3,Boca Pacuare,506
+6841,4,Boca Parismina,506
+6842,5,Carmen,506
+6843,6,Caño Blanco,506
+6844,7,Celina,506
+6845,8,Ciudadela Flores,506
+6846,9,Dos Bocas (Suerre),506
+6847,10,Encanto Norte,506
+6848,11,Encanto Sur,506
+6849,12,Imperio,506
+6850,13,Islona,506
+6851,14,Nueva Virginia,506
+6852,15,Maryland,506
+6853,16,Pueblo Civil,506
+6854,17,Santo Domingo,506
+6855,18,Vegas de Imperio,506
+6856,1,BRIBRI centro,507
+6857,2,Akberie (Piedra Grande),507
+6858,3,Altamira,507
+6859,5,Bambú,507
+6860,6,Chase,507
+6861,7,Cuabre,507
+6862,8,Fields,507
+6863,9,Gavilán Canta,507
+6864,10,Hu-Berie (Rancho Grande),507
+6865,11,Mleyuk 1,507
+6866,12,Mleyuk 2,507
+6867,13,Monte Sión,507
+6868,14,Olivia,507
+6869,15,Sand Box,507
+6870,16,Shiroles,507
+6871,17,Sibujú,507
+6872,18,Suretka,507
+6873,19,Uatsi,507
+6874,1,SIXAOLA centro,508
+6875,2,Ania,508
+6876,3,Boca Sixaola,508
+6877,4,Catarina,508
+6878,5,Celia,508
+6879,6,Daytonia,508
+6880,7,Gandoca,508
+6881,8,Margarita,508
+6882,9,Mata de Limón,508
+6883,10,Noventa y Seis,508
+6884,11,Palma,508
+6885,12,Paraíso,508
+6886,13,Parque,508
+6887,14,San Miguel,508
+6888,15,San Miguelito,508
+6889,16,San Rafael,508
+6890,17,Virginia,508
+6891,18,Zavala,508
+6892,1,CAHUITA centro,509
+6893,2,Buenavista (Katuir),509
+6894,3,Bordón,509
+6895,4,Carbón,509
+6896,5,Carbón 1,509
+6897,6,Carbón 2,509
+6898,7,Catarata,509
+6899,8,Cocles,509
+6900,9,Comadre,509
+6901,10,Dindirí,509
+6902,11,Gibraltar,509
+6903,12,Hone Creek,509
+6904,13,Hotel Creek,509
+6905,14,Kekoldi,509
+6906,15,Limonal,509
+6907,16,Manzanillo,509
+6908,17,Mile Creek,509
+6909,18,Patiño,509
+6910,19,Playa Chiquita,509
+6911,20,Puerto Viejo,509
+6912,21,Punta Caliente,509
+6913,22,Punta Cocles,509
+6914,23,Punta Mona,509
+6915,24,Punta Uva,509
+6916,25,Tuba Creek (parte),509
+6917,1,AMUBRI,510
+6918,2,Alto Cuen (Kjacka Bata),510
+6919,3,Alto Lari (Duriñak),510
+6920,4,Alto Urén,510
+6921,5,Arenal,510
+6922,6,Bajo Blei,510
+6923,7,Bajo Cuen,510
+6924,8,Boca Urén,510
+6925,9,Bris,510
+6926,10,Cachabli,510
+6927,11,Coroma,510
+6928,12,Croriña,510
+6929,13,China Kichá,510
+6930,14,Dururpe,510
+6931,15,Guachalaba,510
+6932,16,Katsi,510
+6933,17,Kichuguecha,510
+6934,18,Kivut,510
+6935,19,Mojoncito,510
+6936,20,Namuwakir,510
+6937,21,Orochico,510
+6938,22,Ourut,510
+6939,23,Purisquí,510
+6940,24,Purita,510
+6941,25,Rangalle,510
+6942,26,San José Cabecar,510
+6943,27,Sepeque,510
+6944,28,Shewab,510
+6945,29,Sipurio,510
+6946,30,Soky,510
+6947,31,Sorókicha,510
+6948,32,Sukut,510
+6949,33,Surayo,510
+6950,34,Suiri,510
+6951,35,Telire,510
+6952,36,Turubokicha,510
+6953,37,Urén,510
+6954,1,MATINA centro,511
+6955,2,Baltimore,511
+6956,3,Barra de Matina Norte,511
+6957,4,Bristol,511
+6958,5,Chirripó,511
+6959,6,Chumico,511
+6960,7,Colonia Puriscaleña,511
+6961,8,Corina,511
+6962,9,Esperanza,511
+6963,10,Goli,511
+6964,11,Helvetia,511
+6965,12,Hilda,511
+6966,13,Línea B,511
+6967,14,Luisa Oeste,511
+6968,15,Milla 23,511
+6969,16,Milla 4,511
+6970,17,Palmeras,511
+6971,18,Pozo Azul,511
+6972,19,Punta de Lanza,511
+6973,20,San Miguel,511
+6974,21,Victoria,511
+6975,22,Xirinachs,511
+6976,1,BATÁN centro,512
+6977,2,Almendros,512
+6978,3,Barbilla,512
+6979,4,Berta,512
+6980,5,Damasco,512
+6981,6,Davao,512
+6982,7,Dos Ramas,512
+6983,8,Espavel,512
+6984,9,Goshen,512
+6985,10,Leyte,512
+6986,11,Lola,512
+6987,12,Luzón,512
+6988,13,Margarita,512
+6989,14,Milla 24,512
+6990,15,Milla 25,512
+6991,16,Milla 27,512
+6992,17,Milla 28,512
+6993,18,Oracabesa,512
+6994,19,Parcelas,512
+6995,20,Ramal Siete,512
+6996,21,Sahara,512
+6997,22,Santa Marta,512
+6998,23,Titán,512
+6999,24,Vegas,512
+7000,1,ESTRADA,513
+7001,2,Bananita,513
+7002,3,Barra de Matina Sur,513
+7003,4,Boca del Pantano,513
+7004,5,Boca Río Matina,513
+7005,6,Boston,513
+7006,7,Brisas,513
+7007,8,California,513
+7008,9,Indio,513
+7009,10,Larga Distancia,513
+7010,11,Lomas del Toro,513
+7011,12,Luisa Este,513
+7012,13,Maravilla,513
+7013,14,Milla 14,513
+7014,15,Nueva York,513
+7015,16,Palacios,513
+7016,17,Palestina,513
+7017,18,Peje,513
+7018,19,Punta de Riel,513
+7019,20,Río Cuba,513
+7020,21,Río Peje,513
+7021,22,Saborío,513
+7022,23,San Edmundo,513
+7023,24,San José,513
+7024,25,Santa María,513
+7025,26,Sterling,513
+7026,27,Strafford,513
+7027,28,Toro,513
+7028,29,Trinidad,513
+7029,30,Venecia,513
+7030,31,Zent,513
+7031,1,GUÁCIMO centro,514
+7032,2,África,514
+7033,3,Cantarrana,514
+7034,4,Estación Rudín,514
+7035,5,Guayacán,514
+7036,6,Aguacate,514
+7037,7,Angelina,514
+7038,8,Bosque,514
+7039,9,Cabaña,514
+7040,10,Edén,514
+7041,11,El Tres,514
+7042,12,Fox Hall,514
+7043,13,Guaira,514
+7044,14,Hogar,514
+7045,15,Parismina,514
+7046,16,San Luis,514
+7047,17,Selva,514
+7048,1,MERCEDES centro,515
+7049,2,Bremen,515
+7050,3,Argentina,515
+7051,4,Confianza,515
+7052,5,Iroquois,515
+7053,1,POCORA centro,516
+7054,2,Ojo de Agua,516
+7055,3,Pocora Sur,516
+7056,1,RÍO JIMÉNEZ centro,517
+7057,2,Ángeles,517
+7058,3,Bocas del Río Silencio,517
+7059,4,Camarón,517
+7060,5,Cartagena,517
+7061,6,Dulce Nombre,517
+7062,7,Escocia,517
+7063,8,Irlanda,517
+7064,9,Jardín,517
+7065,10,Ligia,517
+7066,11,Lucha,517
+7067,12,Santa María,517
+7068,13,Santa Rosa,517
+7069,14,Socorro,517
+7070,1,VILLAFRANCA,518
+7071,2,Aguas Gatas,518
+7072,3,Carambola,518
+7073,4,Castaño,518
+7074,5,Esperanza,518
+7075,6,Fruta de Pan,518
+7076,7,Limbo,518
+7077,8,San Cristóbal,518
+7078,9,Zancudo,518

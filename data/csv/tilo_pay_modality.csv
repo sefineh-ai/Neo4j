@@ -1,0 +1,24 @@
+id,amount,title,tilo_pay_plan_id
+152,0,DEFAULT,
+452,2600,Organizador de Compras Personales,352.0
+453,7800,Capturador de Deducciones Internacional,353.0
+454,5200,El Recolector de Deducciones CR,354.0
+455,15600,Emprendedor,355.0
+456,26000,Contratista,356.0
+457,39000,Micro - hasta 5 empleados,357.0
+458,52000,Pequeña - hasta 10 empleados,357.0
+459,78000,Mediana - hasta 20 empleados,357.0
+460,130000,Grande - hasta 100 empleados,357.0
+461,260000,Abogado,358.0
+462,260000,Contador,359.0
+463,5,Personal Purchase Organizer,360.0
+464,15,Deduction Grabber International,361.0
+465,10,The Deduction Collector CR,362.0
+466,30,Entrepreneur,363.0
+467,50,Contractor,364.0
+468,75,Micro - up to 5 employees,365.0
+469,100,Small - up to 10 employees,365.0
+470,150,Medium - up to 20 employees,365.0
+471,250,Large - up to 100 employees,365.0
+472,500,Lawyer,366.0
+473,500,Accountant,367.0

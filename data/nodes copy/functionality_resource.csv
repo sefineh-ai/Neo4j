@@ -1,0 +1,11 @@
+id,description,name
+1,Access to receive documents such as facturas, tickets, receipts, quotes.,RECEIVER
+2,Permission to send facturas, tickets, and receipts.,SEND_FACTURA|TICKET|RECEIPT
+3,Capability to send quotes to clients.,SEND_QUOTE
+4,Ability to send active facturas.,SEND_FACTURA_ACTIVA
+5,Access to lawyer-related tasks and resources.,LAWYER
+6,Permissions for accounting-related tasks and resources.,ACCOUNTANT
+7,Admin privileges for managing a company with up to 5 employees.,COMPANY_ADMIN_UP_TO_5
+8,Admin privileges for managing a company with up to 10 employees.,COMPANY_ADMIN_UP_TO_10
+9,Admin privileges for managing a company with up to 20 employees.,COMPANY_ADMIN_UP_TO_20
+10,Admin privileges for managing a company with up to 100 employees.,COMPANY_ADMIN_UP_TO_100

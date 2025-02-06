@@ -1,0 +1,11 @@
+id,codigo,name
+1,1,Impuesto al Valor Agregado
+2,2,Impuesto Selectivo de Consumo
+3,3,Impuesto Único a los Combustibles
+4,4,Impuesto específico de Bebidas Alcohólicas
+5,5,Impuesto Específico sobre las bebidas envasadas sincontenido alcohólico y jabones de tocador
+6,6,Impuesto a los Productos de Tabaco
+7,7,IVA (cálculo especial)
+8,8,IVA Régimen de Bienes Usados (Factor)
+9,12,Impuesto Específico al Cemento
+10,99,Otros

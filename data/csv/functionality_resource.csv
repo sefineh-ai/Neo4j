@@ -1,0 +1,32 @@
+id,description,name,menu_item_id
+1,,RECEIVER,
+11,Menu item for sending facturas.,Sender_Factura,11.0
+12,Menu item for sending tickets.,Sender_Ticket_Electronic,12.0
+13,Menu item for sending receipts.,Sender_Receipt,13.0
+14,Menu item for accessing received facturas.,Receiver_Factura,14.0
+15,Menu item for sending quotes.,Sender_Quote,15.0
+16,Menu item for sending active facturas.,Sender_Factura_Activa,16.0
+18,Menu item for global connections.,Global_Connections,18.0
+19,Menu item for global quote requests.,Global_Quote_Request,19.0
+20,Menu item for generating simple global reports.,Global_Reports_Simple,20.0
+21,Menu item for managing global subscriptions.,Global_Subscriptions,21.0
+22,Menu item for internal functionalities.,Internal,22.0
+23,Menu item for free trial access.,Free_Trial,23.0
+24,Menu item for invitee functionalities.,Invitee,24.0
+25,Menu item for contractor functionalities.,Contractor,25.0
+26,Menu item for lawyer functionalities.,Lawyer,26.0
+27,Menu item for accountant functionalities.,Accountant,27.0
+28,Menu item for employer functionalities.,Employers,28.0
+29,Menu item for employee functionalities.,Employees,29.0
+30,Menu item for sending active quotes.,Quote_Activa,30.0
+31,Menu item for sending active facturas.,Factura_Activa,31.0
+32,Menu item for generating simple reports.,Simple_Reports,32.0
+33,Menu item for generating advanced reports.,Advanced_Reports,33.0
+34,Menu item for accessing received tickets.,Receiver_Ticket_Electronic,34.0
+35,Menu item for accessing products.,Products,35.0
+36,Menu item for viewing statistics.,Statistics,36.0
+37,Menu item for importing facturas.,Factura,37.0
+38,Menu item for verifying facturas.,Verify Factura,38.0
+39,Menu item for configuration settings.,Configuration,39.0
+41,Menu item for accessing accountant clients functionality.,Accountant_Clients,41.0
+42,Menu item for accessing lawyer clients functionalities.,Lawyer_Clients,42.0
