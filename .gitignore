@@ -1,2 +1,49 @@
+# Python virtual environments
 .venv
 neo4j_env
+
+# Neo4j database files
+data/databases/
+data/transactions/
+data/dbms/
+data/server_id
+
+# Logs
+logs/
+*.log
+
+# Import/Export files
+import/
+plugins/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+error.txt
+
+# Large data files
+*.db
+*.db.*
+*.transaction.db.*
+
+# Excel files (if they contain sensitive data)
+data/excel/
+
+# Backup files
+*.bak
+*.backup
